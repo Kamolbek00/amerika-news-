@@ -20,9 +20,10 @@ a{color:var(--ac);font:.85rem system-ui,sans-serif}
 <div id="l"></div></div>
 <script>
 var D=[];
-function esc(s){return String(s).replace(/[&<>"]/g,function(m){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]})}
+function dec(s){var t=document.createElement("textarea");t.innerHTML=String(s);return t.value}
+function esc(s){return dec(s).replace(/[&<>"]/g,function(m){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]})}
 function show(){var q=document.getElementById("q").value.toLowerCase();
-document.getElementById("l").innerHTML=D.filter(function(n){return(n.title+n.summary).toLowerCase().indexOf(q)>-1}).map(function(n){
+document.getElementById("l").innerHTML=D.filter(function(n){return(dec(n.title)+dec(n.summary)).toLowerCase().indexOf(q)>-1}).map(function(n){
 return '<article><div class="t">'+esc(n.source)+' · '+esc(n.date)+'</div><h2>'+esc(n.title)+'</h2><p>'+esc(n.summary)+'</p><a href="'+esc(n.link)+'" target="_blank" rel="noopener">Manbaga o‘tish →</a></article>'}).join("")}
 fetch("news.json?t="+Date.now()).then(function(r){return r.json()}).then(function(d){D=d.items;
 document.getElementById("u").textContent="Oxirgi yangilanish: "+d.updated+" · Tarjima avtomatik";show()})
