@@ -1,75 +1,445 @@
 {
- "updated": "2026-11-18 23:45 UTC",
+ "updated": "2026-11-19 12:28 UTC",
  "items": [
   {
-   "source": "NPR",
-   "title": "Dozani oshirib yuborish natijasida o&#39;lim holatlari kamayib borayotgan bir paytda, Oq uy kimga maqtovlar loyiqligi haqida noto&#39;g&#39;ri da&#39;volarni ilgari surmoqda",
-   "summary": "Giyohvand moddalardan o&#39;lim holatlarining tarixiy kamayishini nishonlagan bayonotida Oq uy Prezident Tramp lavozimga kirishganidan beri erishilgan yutuqlarga ishora qildi. Aslida, eng katta taraqqiyot Bayden ma&#39;muriyati davrida sodir bo&#39;ldi.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
-   "date": "Wed, 18 Nov 2026"
-  },
-  {
-   "source": "NPR",
-   "title": "Karl Kani o&#39;nlab yillar davomida hip-hop qirollik oilasi a&#39;zolarini kiyintirdi. Endi u o&#39;z hikoyasini aytib bermoqda",
-   "summary": "NPRning Morning Edition ko&#39;rsatuvida modelyer Karl Kani o&#39;zining yangi memuarlari, hip-hopning eng mashhur yulduzlaridan ba&#39;zilarini kiyintirishi va nima uchun tor jinsi shimlar hamma uchun ham mos kelmasligi haqida gapirib beradi.",
-   "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-   "date": "Wed, 18 Nov 2026"
-  },
-  {
-   "source": "NPR",
-   "title": "Bekor qilingan reysingiz bormi? Tez qayta bron qilishning 7 ta aqlli usuli",
-   "summary": "Shukrona kuni yoki bayramlar uchun biron joyga uchib ketyapsizmi? Sayohat bo&#39;yicha mutaxassislar parvozingiz bekor qilinsa yoki kechiktirilsa nima qilish kerakligini tushuntiradilar — shunda siz manzilingizga tezda yetib borishingiz mumkin.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
-   "date": "Wed, 18 Nov 2026"
-  },
-  {
-   "source": "NPR",
-   "title": "Demokratlar rasman Hakim Jeffrisni Vakillar palatasi spikeri lavozimiga nomzod qilib ko&#39;rsatdilar",
-   "summary": "Nyu-Yorklik demokrat AQSh tarixida Vakillar palatasi demokratlari uni qo&#39;llab-quvvatlash uchun ko&#39;pchilik ovoz berganidan so&#39;ng, bu lavozimda ishlagan birinchi qora tanli qonun chiqaruvchi bo&#39;lishga bir qadam yaqinlashdi.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
-   "date": "Wed, 18 Nov 2026"
-  },
-  {
-   "source": "NPR",
-   "title": "Vakillar palatasi demokrati Trampning 13 nafar ittifoqchisini kelgusi tergovlar uchun o&#39;z yozuvlarini saqlashga chaqirdi",
-   "summary": "Vakillar palatasi nazorati qo&#39;mitasining bo&#39;lajak raisi Robert Garsiyadan xat olganlar orasida Donald Tramp kichik va Erik Tramp, Jared Kushner va Oq uy apparati rahbari Stiven Miller bor.",
-   "link": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
-   "date": "Wed, 18 Nov 2026"
-  },
-  {
+   "title": "O'yin butun dunyo bo'ylab sotuvga chiqarilishi bilan Buyuk Britaniya ham GTA 6 ga qo'shildi",
+   "summary": "O'yin juda katta shov-shuvga sabab bo'ldi, ammo uni yaratuvchisi kasaba uyushmasiga a'zo ishchilarni ishdan bo'shatishda ayblandi.",
+   "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Texnologiya",
    "source": "BBC",
-   "title": "Tramp Xitoyda tarixiy muzokaralar oldidan Putin va Si Szinpin bilan qo&#39;l berib ko&#39;rishdi",
-   "summary": "Uch yetakchi payshanba kuni diqqat bilan kuzatilayotgan sammit davomida birinchi marta uchrashadilar.",
-   "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-   "date": "Wed, 18 Nov 2026"
+   "ts": 1795091199,
+   "date": "2026-11-19"
   },
   {
+   "title": "Viagogo yashirin to'lovlar bo'yicha qonunni buzgan bo'lishi mumkin, deb taxmin qilmoqda kuzatuv organi vaqtinchalik",
+   "summary": "Buyuk Britaniyaning raqobat qo'mitasi dastlabki topilmalar chiptalarni qayta sotish veb-sayti tomchilatib narxlashdan foydalanganligini ko'rsatayotganini aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
    "source": "BBC",
-   "title": "BBC muxbirlari Tramp, Si Szinpin va Putinning tarixiy uchrashuvini muhokama qilishdi",
-   "summary": "BBC muxbirlari Laura Bicker, Stiv Rozenberg va Nada Tavfik misli ko&#39;rilmagan uch tomonlama uchrashuv oldidan bilishingiz kerak bo&#39;lgan barcha narsalarni tushuntirib berishadi.",
-   "link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
-   "date": "Wed, 18 Nov 2026"
+   "ts": 1795089749,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Florida shtatidagi ruhoniy Gaiti prezidentiga suiqasdda aybdor deb topildi",
+   "summary": "Kristian Emmanuel Sanon Xovenel Moizning o'ldirilishiga olib kelgan fitnaga aloqadorlikda aybdor deb topildi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795088697,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "\"Hafsalasi pir bo'lgan\" - Demokratlar oraliq saylovlarda katta g'alaba qozonganiga qaramay, bo'lingan partiya bo'lib qolmoqda",
+   "summary": "Kongressda hokimiyatni qo'lga kiritgandan so'ng, Denverdagi Demokratik konferensiya eng yaxshi yo'l haqida suhbatlar bilan jonlandi.",
+   "link": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795088586,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Anthropic rekord darajadagi fond bozori debyutida 81 milliard dollar mablagʻ jalb qildi",
+   "summary": "Klod chatboti ortidagi kompaniya dunyodagi eng qimmat firmalardan biriga aylanadi.",
+   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795085284,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Sun'iy intellekt giganti Anthropic rekord darajadagi IPOda 100 milliard dollardan ortiq mablag'ni jalb qildi",
+   "summary": "Mashhur Claude sun'iy intellekt modelini ishlab chiqaruvchi kompaniyaning aksiyalari payshanba kuni Nasdaq birjasida savdo qilishni boshlaydi.",
+   "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795082400,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Ertalabki yangiliklar qisqacha mazmuni",
+   "summary": "Prezident Tramp Xitoy prezidenti Si Szinpin va Rossiya prezidenti Putin bilan uchrashdi, Vakillar palatasi demokratlari Hakim Jeffrisni Vakillar palatasining keyingi spikeri etib tayinladi, sun'iy intellekt giganti Anthropic rekord darajadagi IPOda 100 milliard dollardan ortiq mablag'ni jalb qildi.",
+   "link": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795081589,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Ben Shapiro konservativ ommaviy axborot vositalari va Respublikachilar partiyasining kelajagi haqida",
+   "summary": "NPR muxbiri Stiv Inskip Respublikachilar partiyasining kelajagini muhokama qilish uchun konservativ sharhlovchi Ben Shapiro bilan suhbatlashdi.",
+   "link": "https://www.npr.org/2026/11/19/nx-s1-6035863/ben-shapiro-on-conservative-media-and-the-future-of-the-republican-party",
+   "ok": true,
+   "cat": "Siyosat",
+   "source": "NPR",
+   "ts": 1795081541,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Tramp, Si va Putin global ittifoqlar muvozanatda turgan bir paytda uchrashmoqda",
+   "summary": "Prezident Tramp, Si Szinpin va Putin Shenchjenda Ukraina, Eron va yadroviy qurolsizlanish masalalari bo'yicha tarixiy uch tomonlama uchrashuv o'tkazish uchun uchrashdilar.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795081480,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Ugandadagi halokatli ko'chkidan omon qolganlar BMTda adolat izlamoqda",
+   "summary": "Omon qolganlar, ularning xavfsizligi, yer huquqlari va tirikchiliklarini e'tiborsiz qoldirayotganini aytishgan holda, ko'chirish rejalarini rad etishmoqda",
+   "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795080114,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Senegal qirg'oqlari yaqinida 100 nafar muhojirni olib ketayotgan qayiq cho'kib ketishi oqibatida o'nlab odamlar bedarak yo'qoldi",
+   "summary": "Ba'zi mahalliy ommaviy axborot vositalari kamida to'rtta jasad topilganini xabar qilmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795078972,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Premer-liganing \"katta oltiligi\" qanday qilib boyib bormoqda",
+   "summary": "Premer-liga mavsumining o'nta o'yini va kuchli beshta o'rinni oltita yirik klub egallab turibdi. Bu ajablanarli emas, chunki ularning yuz millionlab funt sterlingga ortib borayotgan ustunligi bor.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795073902,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Rossiya Qrim ko'prigiga yana hujum uyushtirganini ma'lum qildi",
+   "summary": "Qrim rahbari Rossiya va bosib olingan hudud o'rtasidagi aloqaga yana bir hujum uyushtirilganidan keyin transport harakati to'xtatilganini aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795073526,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Saudiya Arabistoni tomonidan qo'llab-quvvatlangan LIV golfchilarga millionlab pul to'lagani sababli, Buyuk Britaniya firmalari minglab qarzdor bo'lgan",
+   "summary": "BBC Sport telekanalining tekshiruvi shuni ko'rsatdiki, LIV Golf bankrotlik to'g'risida ariza berishdan oldin o'yinchilar va rahbarlarga so'nggi to'lovlarini amalga oshirganida, Buyuk Britaniya kompaniyalariga to'lovlar allaqachon kechiktirilgan edi.",
+   "link": "https://www.bbc.co.uk/sport/golf/articles/cw7vpv793n24o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795070260,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "BBCning yilning eng yaxshi erkak futbolchisi uchun birinchi ovoz bering",
+   "summary": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri va Lamine Yamal BBCning \"Yilning eng yaxshi erkak futbolchisi\" mukofotiga nomzodlar ro'yxatiga kiritilgan.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795069804,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "NPR bilan yangiliklardan xabardor bo'lish uchun sayohat yutib oling",
+   "summary": "Bosh ofisda sahna ortiga kirib, jurnalistlarimiz bilan yuzma-yuz uchrashish va ommaviy axborot vositalari bilan avvalgidan ko'ra ko'proq tanishish imkoniyatiga ega bo'ling.",
+   "link": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795064460,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Bu Xitoy prezidenti Si Szinpin uchun ajoyib diplomatik lahza, ammo bu o'z xavf-xatarlari bilan birga keladi",
+   "summary": "Uchrashuv qiyinchiliklar bilan birga keladi, chunki Si Putin va Tramp bilan muhokama qilishni istamaydigan narsalar mavjud.",
+   "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795063372,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Elon Musk AQSh oraliq saylovlariga rekord darajadagi 446 million dollar sarflash \"juda ahmoqona\" ekanligini aytdi",
+   "summary": "Multimilliarder shuningdek, o'zini Tramp bilan bog'liq siyosiy harakatdan uzoqlashtirib, \"Maga emas\" deb aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "BBC",
+   "ts": 1795057146,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Van Gogning surati natsistlar tarixi bo'yicha mojarodan so'ng rekord darajadagi 190,4 million dollarga sotildi",
+   "summary": "\"Gullar orasida Châtaigniers\" asari 1890-yilda, Vinsent van Gog hayotining so'nggi ikki oyida chizilgan.",
+   "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795049359,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "McDonald's jinsiy zo'ravonligi: \"Ular yosh qizlarning 18 yoshga to'lishini kutishgan\"",
+   "summary": "McDonald'sning sobiq xodimi firmani \"yosh xodimlarga munosabatini o'zgartirishga\" chaqirmoqda, sudya tarmoqqa qarshi sud ishi qo'zg'atilishi mumkinligi haqida qaror chiqardi.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795046459,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Antropik IPO sun'iy intellektga bo'lgan kuchli talab tufayli rekord darajadagi 81,3 milliard dollar mablag' yig'di",
+   "summary": "Besh yillik tarixga ega sun'iy intellekt yetakchisi o'zining dastlabki ommaviy taklifini aksiya uchun 83 dollardan baholadi, bu esa sun'iy intellekt pufagining paydo bo'lishi va texnologik aksiyalardagi o'zgaruvchanlik haqidagi tobora ortib borayotgan xavotirlarni inobatga olmadi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "NPR",
+   "ts": 1795046096,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Multimilliarder bo'lish arafasida turgan yetti Anthropic asoschisi",
+   "summary": "Klod ortidagi sun'iy intellekt kompaniyasi o'z aktsiyalarini AQSh fond bozorida sotish arafasida - bu uning asoschilarini juda boy qilmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795045327,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Littler \"Katta dubulg'a\"dagi ajoyib Vattimenadan hayratda qoldi",
+   "summary": "Himoyachi chempion Lyuk Littler Jermaine Wattimenaning ajoyib o'yinidan so'ng Dartsning Katta Dubulg'asida kutilmaganda muddatidan oldin chiqib ketdi.",
+   "link": "https://www.bbc.co.uk/sport/darts/articles/crlyenxw18d7o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795041212,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Epstein fayllarini oshkor qilish to'g'risidagi qonun bir yil oldin qabul qilingan. Uning qurbonlari nima deyishadi?",
+   "summary": "Vakillar palatasi Epstein hujjatlari shaffofligi to'g'risidagi qonunni qabul qilganiga bir yil bo'ldi, bu qonun Adliya vazirligini sudlangan jinsiy jinoyatchi bilan bog'liq millionlab fayllarni oshkor qilishga majbur qildi. Uning qurbonlari o'z fikrlarini bildirishdi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say",
+   "ok": true,
+   "cat": "Siyosat",
+   "source": "NPR",
+   "ts": 1795040863,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Nima uchun Nvidia mojarosi milliy xavfsizlik masalasidir",
+   "summary": "Nvidia mojarosi Tramp ma'muriyatiga ham ta'sir ko'rsatdi, u endi Amerikaning eng yaxshi sun'iy intellekt chiplarining Xitoy qo'liga o'tib ketishiga qanday yo'l qo'ygani uchun qattiq tekshiruv ostida.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
+   "ok": true,
+   "cat": "Siyosat",
+   "source": "NPR",
+   "ts": 1795039976,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Demokratlar Jeffrisni spiker lavozimiga nomzod qilib ko'rsatishdi va Trampning orbitasi bo'yicha tergovga tayyorgarlik ko'rishmoqda",
+   "summary": "Demokratlar Hakim Jeffrisga Vakillar palatasining keyingi spikeri bo'lish uchun rasmiy ruxsat berishdi. Shu bilan birga, demokratlar yanvar oyida Tramp ma'muriyatini tekshirish rejalarini kuchaytirmoqdalar.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
+   "ok": true,
+   "cat": "Siyosat",
+   "source": "NPR",
+   "ts": 1795039279,
+   "date": "2026-11-18"
   },
   {
    "source": "BBC",
    "title": "Anthropic’ning rekord darajadagi IPOsi sun’iy intellekt pufagining yorilishini to‘xtata oladimi?",
    "summary": "Anthropic kompaniyasining kutilgan IPOsi uni AQShning eng qimmat 10 ta kompaniyasi qatoriga kiritishi kutilmoqda, ammo kelajak noaniq.",
    "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-   "date": "Wed, 18 Nov 2026"
+   "date": "2026-11-18",
+   "ok": true,
+   "cat": "AQSh",
+   "ts": 1795037288
   },
   {
-   "source": "BBC",
-   "title": "Sinsinnati hayvonot bog&#39;ida shlyapasini yutib yuborganidan keyin Fiona ismli begemot parvarishlanmoqda",
-   "summary": "Hayvonot bog&#39;i xodimlari unga operatsiya qilishning iloji yo&#39;qligini, ammo shlyapadan o&#39;tishga yordam berish uchun suyuqliklar va qo&#39;llab-quvvatlovchi yordam ko&#39;rsatayotganini aytishdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
-   "date": "Wed, 18 Nov 2026"
+   "source": "NPR",
+   "title": "Karl Kani o&#39;nlab yillar davomida hip-hop qirollik oilasi a&#39;zolarini kiyintirdi. Endi u o&#39;z hikoyasini aytib bermoqda",
+   "summary": "NPRning Morning Edition ko&#39;rsatuvida modelyer Karl Kani o&#39;zining yangi memuarlari, hip-hopning eng mashhur yulduzlaridan ba&#39;zilarini kiyintirishi va nima uchun tor jinsi shimlar hamma uchun ham mos kelmasligi haqida gapirib beradi.",
+   "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+   "date": "2026-11-18",
+   "ok": true,
+   "cat": "Iqtisod",
+   "ts": 1795025759
   },
   {
+   "title": "Tanqidchilarning fikricha, Grand Theft Auto 6 – bu durdona asar",
+   "summary": "Tanqidchilar barcha davrlarning eng kutilgan video o'yini bo'lgan GTA 6 o'yini shuhratga mos keladimi yoki yo'qmi degan savolga o'z fikrlarini bildirmoqdalar.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Texnologiya",
    "source": "BBC",
-   "title": "Janubiy Floridada kuchli yomg&#39;ir keng ko&#39;lamli suv toshqinlariga sabab bo&#39;ldi",
-   "summary": "Maktablar, yo&#39;llar, kasalxonalar va aeroportlarga ta&#39;sir ko&#39;rsatgan halokatlar tufayli butun mahallalar suv ostida qolmoqda.",
-   "link": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
-   "date": "Wed, 18 Nov 2026"
+   "ts": 1795023265,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Xakerlik hujumlari, AI yoki shunchaki muddati o'tgan yangilanishlar - nega bunchalik ko'p uzilishlar bo'ldi?",
+   "summary": "Bularning o'zaro bog'liqligiga hech qanday dalil yo'q, ammo doimiy ravishda sodir bo'layotgan texnologik uzilishlar asabga teguvchi bo'lishi mumkin.",
+   "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "BBC",
+   "ts": 1795007813,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Meri Peltola Alyaskaning Senatdagi o'rnini almashtirdi. Va Nvidia Jensen Huangni qayta tiklamaydi",
+   "summary": "Sobiq Demokrat vakil Meri Peltola AQShning eng ko'p tomosha qilinadigan Senat saylovlaridan birida g'alaba qozondi. Nvidia boshqaruvi esa sobiq bosh direktor Jensen Xuangni ittifoqchilarining bosimiga qaramay, lavozimiga qaytarish niyatida emasligini aytdi.",
+   "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "NPR",
+   "ts": 1795004068,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Tramp Rossiya prezidenti Putin va Xitoy rahbari Si Szinpin bilan tarixiy qo'shma uchrashuv o'tkazadi",
+   "summary": "Prezident Tramp payshanba kuni Rossiya prezidenti Vladimir Putin va Xitoy raisi Si Tszinpin bilan tarixiy uch tomonlama uchrashuv o'tkazadi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "NPR",
+   "ts": 1795003030,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "AQShning sobiq elchisi Trampning Xitoy va Rossiya yetakchilari bilan qo'shma sammiti haqida gapirdi",
+   "summary": "NPR muxbiri Leyla Fadel AQShning Xitoy va NATOdagi sobiq elchisi Nikolas Berns bilan Prezident Trampning Xitoy va Rossiya rahbarlari bilan rejalashtirilgan uchrashuvi haqida suhbatlashdi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "NPR",
+   "ts": 1795003026,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Grand Theft Auto VI – bu asosli sevgi hikoyasi, gonzo jinoyat trilleri va oʻyin gʻalabasi.",
+   "summary": "Zo'ravon satira va mulohazakor hikoya qilishning ilhomlantiruvchi sintezi bo'lgan Grand Theft Auto VI rekord darajadagi franshizadagi avvalgi har qanday o'yinga qaraganda ancha etuk va shuhratparast.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1794999600,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Berlin maydonidan salomlar, u yerda rassom haykali o'ynayotgan bolalarni kuzatib turibdi",
+   "summary": "Bolalar Birinchi jahon urushidan keyingi bolalarni ko'pincha tasvirlaydigan nemis rassomi nomi bilan atalgan, bronzadan yasalgan, doimo hushyor va xotirjam Kete Kollvitz atrofida o'ynoqlashmoqda.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "NPR",
+   "ts": 1794999600,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "OpenAI yangi AI xavfsizlik dasturini e'lon qildi; tadqiqotchilar bu yetarli bo'lmasligidan xavotirda",
+   "summary": "OpenAI bosh direktori Sem Altman sun'iy intellekt xavfsizligini baholash uchun tashqi tadqiqotchilarga \"xodimlar darajasida\" kirish huquqini berishini aytdi. Sinov dasturi ancha cheklangan ko'rinadi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1794996000,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Griffindor loyihasi: Metaning Instagramdan ko'proq maktab o'quvchilarini jalb qilish rejasi",
+   "summary": "Meta o'smirlarning xavfsizligini ta'minlash uchun \"maktab hamkorlik dasturi\"ni ishga tushirganini aytdi, ammo ichki hujjatlar boshqacha hikoya qiladi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1794996000,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Nvidia sobiq bosh direktori ketganidan beri birinchi marta daromadlar bo'yicha qo'mita yig'ilishini o'tkazdi",
+   "summary": "Chip giganti Nvidia sobiq bosh direktori Jensen Huangning ketishidan beri birinchi marta daromadlar bo'yicha qo'ng'iroq qildi, vaqtinchalik bosh direktor Colette Kress uning o'rnini egalladi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6042563/nvidia-hold-first-earnings-call-since-former-ceos-departure",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "NPR",
+   "ts": 1794995030,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Nvidia yangi bosh direktordan ko'proq narsaga muhtoj. Mutaxassis oldinga siljish yo'lini taklif qiladi",
+   "summary": "Nvidiaga yangi bosh direktor kerak. Muhandislarini saqlab qolish esa boshqa gap.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "NPR",
+   "ts": 1794995024,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Hukumat hisobdorlik idorasi IT direktori so'nggi texnik uzilishlar haqida gapirdi",
+   "summary": "NPR muxbiri Leyla Fadel Hukumatning hisobdorlik idorasi IT va kiberxavfsizlik direktori Deyv Xinchman bilan eskirgan hukumat texnologiyalari va tizimning ishdan chiqish xavfi haqida suhbatlashdi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6042543/government-accountability-office-it-director-discusses-the-recent-tech-outages",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1794994974,
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Jorjiya shtatining Fulton okrugidagi qamoqxona rahbariyati mahbusning o'limi va antisanitariya sharoitlari ayblovlaridan so'ng iste'foga chiqdi",
+   "summary": "Jorjiya shtatining Fulton okrugidagi qamoqxonaning uch nafar amaldori iflos, hasharotlar bilan to'la kamerada saqlangan mahbusning o'limi bo'yicha tergov boshlanganidan so'ng iste'foga chiqdi. Uning oilasi \"uy sharoitiga mos kelmaydigan\" iflos kamerada saqlanganini aytdi.",
+   "link": "https://www.cnn.com/2023/04/18/us/fulton-county-jail-leadership-resignations-lashawn-thompson-death/index.html",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "CNN",
+   "ts": 1681830483,
+   "date": "2023-04-18"
+  },
+  {
+   "title": "U 2 yil ozodlikda edi. Endi Krosli Grin o'zi sodir etmagan jinoyati uchun qamoqqa qaytdi.",
+   "summary": "Florida shtatida yashovchi, o'zi sodir etmagan qotillik uchun uch o'n yillik qamoq jazosini o'tagan erkak, so'nggi ikki yilni qamoqxona devorlari tashqarisida hayot qurish bilan o'tkazganidan so'ng, dushanba kuni qamoqxonaga qaytdi.",
+   "link": "https://www.cnn.com/2023/04/17/us/crosley-green-prison-return/index.html",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "CNN",
+   "ts": 1681771549,
+   "date": "2023-04-17"
+  },
+  {
+   "title": "Indianapolisdagi FedEx ommaviy otishmasi qurbonlari va omon qolganlarining oilasi qurol do'koni ishlab chiqaruvchisi va distribyutorlariga qarshi sudga murojaat qilishdi",
+   "summary": "Indianapolisdagi FedEx zavodida sodir bo'lgan ommaviy otishma qurbonining oilasi va bir nechta omon qolganlar yuqori quvvatli qurollarni ishlab chiqarish, sotish va sotish bilan shug'ullanadigan kompaniyalarga qarshi sudga da'vo arizasi bilan murojaat qilishdi.",
+   "link": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "CNN",
+   "ts": 1681757668,
+   "date": "2023-04-17"
+  },
+  {
+   "title": "Tennessi shtati Milliy gvardiyasi havo kuchlari xodimi qotil bo'lish uchun onlayn ariza topshirdi, deya xabar beradi FQB. Bu soxta veb-sayt edi va endi unga ayblovlar qo'yilmoqda.",
+   "summary": "Adliya vazirligi ma'lumotlariga ko'ra, Tennessi shtati Milliy gvardiyasi havo kuchlari xodimi \"qotil ijaraga oling\" soxta veb-saytida qotil bo'lish uchun ariza berganidan keyin ayblovlarga duch kelmoqda.",
+   "link": "https://www.cnn.com/2023/04/17/us/tennessee-air-national-guardsman-hitman-online-application/index.html",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "CNN",
+   "ts": 1681722372,
+   "date": "2023-04-17"
   }
  ]
 }
