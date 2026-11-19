@@ -31,7 +31,7 @@ function show(){var q=document.getElementById("q").value.toLowerCase();
 var cats=["Hammasi"];D.forEach(function(n){if(cats.indexOf(n.cat)<0)cats.push(n.cat)});
 document.getElementById("tabs").innerHTML=cats.map(function(c){return '<button data-c="'+esc(c)+'" class="'+(c===cur?"on":"")+'">'+esc(c)+'</button>'}).join("");
 document.getElementById("l").innerHTML=D.filter(function(n){return(cur==="Hammasi"||n.cat===cur)&&(dec(n.title)+dec(n.summary)).toLowerCase().indexOf(q)>-1}).map(function(n){
-return '<article><div class="t">'+esc(n.cat)+' · '+esc(n.source)+' · '+esc(n.date)+'</div><h2>'+esc(n.title)+'</h2><p>'+esc(n.summary)+'</p>'+(n.ok===false?'<div class="en">Tarjima kutilmoqda (hozircha inglizcha)</div>':'')+'<a href="'+esc(n.link)+'" target="_blank" rel="noopener">Asl maqola (inglizcha) →</a></article>'}).join("")}
+return '<article><div class="t">'+esc(n.cat)+' · '+esc(n.source)+' · '+esc(n.date)+'</div><h2>'+esc(n.title)+'</h2><p>'+esc(n.summary)+'</p>'+(n.ok===false?'<div class="en">Tarjima kutilmoqda (hozircha inglizcha)</div>':'')+'<a href="https://translate.google.com/translate?sl=en&amp;tl=uz&amp;u='+encodeURIComponent(n.link)+'" target="_blank" rel="noopener">Maqolani o‘zbekcha o‘qish →</a> <a class="en" href="'+esc(n.link)+'" target="_blank" rel="noopener">· asl (inglizcha)</a></article>'}).join("")}
 document.getElementById("tabs").addEventListener("click",function(e){var c=e.target.getAttribute("data-c");if(c){cur=c;show()}});
 var last="";
 function load(){fetch("news.json?t="+Date.now()).then(function(r){return r.json()}).then(function(d){
