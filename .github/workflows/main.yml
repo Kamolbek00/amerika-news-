@@ -1,7 +1,7 @@
 name: Yangiliklarni yangilash
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 12,23 * * *"
   workflow_dispatch:
 permissions:
   contents: write
