@@ -33,8 +33,11 @@ document.getElementById("tabs").innerHTML=cats.map(function(c){return '<button d
 document.getElementById("l").innerHTML=D.filter(function(n){return(cur==="Hammasi"||n.cat===cur)&&(dec(n.title)+dec(n.summary)).toLowerCase().indexOf(q)>-1}).map(function(n){
 return '<article><div class="t">'+esc(n.cat)+' · '+esc(n.source)+' · '+esc(n.date)+'</div><h2>'+esc(n.title)+'</h2><p>'+esc(n.summary)+'</p>'+(n.ok===false?'<div class="en">Tarjima kutilmoqda (hozircha inglizcha)</div>':'')+'<a href="'+esc(n.link)+'" target="_blank" rel="noopener">Asl maqola (inglizcha) →</a></article>'}).join("")}
 document.getElementById("tabs").addEventListener("click",function(e){var c=e.target.getAttribute("data-c");if(c){cur=c;show()}});
-fetch("news.json?t="+Date.now()).then(function(r){return r.json()}).then(function(d){D=d.items;
-document.getElementById("u").textContent="Oxirgi yangilanish: "+d.updated+" · Tarjima avtomatik";show()})
-.catch(function(){document.getElementById("u").textContent="Yangiliklar hali yuklanmagan. Birozdan keyin qayta urinib ko‘ring."});
+var last="";
+function load(){fetch("news.json?t="+Date.now()).then(function(r){return r.json()}).then(function(d){
+if(d.updated===last)return;last=d.updated;D=d.items;
+document.getElementById("u").textContent="Oxirgi yangilik: "+d.updated+" · Tarjima avtomatik · Sahifa o‘zi yangilanadi";show()})
+.catch(function(){if(!last)document.getElementById("u").textContent="Yangiliklar hali yuklanmagan. Birozdan keyin qayta urinib ko‘ring."})}
+load();setInterval(load,300000);
 document.getElementById("q").addEventListener("input",show);
 </script></body></html>
