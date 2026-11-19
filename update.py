@@ -80,6 +80,7 @@ for cat, src, url in FEEDS:
             ts, date = 0, ""
         if link in old and old[link].get("ok", True):
             item = dict(old[link])
+            item.setdefault("ok", True)
         else:
             desc = clean(it.findtext("description"))[:200]
             t, ok1 = tr(title)
@@ -93,6 +94,6 @@ if items:
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump({"updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"), "items": items},
                   f, ensure_ascii=False, indent=1)
-    print("saved", len(items), "pending:", sum(1 for x in items if not x["ok"]))
+    print("saved", len(items), "pending:", sum(1 for x in items if not x.get("ok", True)))
 else:
     print("no items; keeping old news.json")
