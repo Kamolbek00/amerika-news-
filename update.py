@@ -49,10 +49,12 @@ def tr(text):
     return text, False
 
 old = {}
+prev_items = None
 try:
     with open("news.json", encoding="utf-8") as f:
-        for it in json.load(f)["items"]:
-            old[it["link"]] = it
+        prev_items = json.load(f)["items"]
+    for it in prev_items:
+        old[it["link"]] = it
 except Exception:
     pass
 
@@ -91,9 +93,12 @@ for cat, src, url in FEEDS:
 
 if items:
     items.sort(key=lambda x: x["ts"], reverse=True)
-    with open("news.json", "w", encoding="utf-8") as f:
-        json.dump({"updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"), "items": items},
-                  f, ensure_ascii=False, indent=1)
-    print("saved", len(items), "pending:", sum(1 for x in items if not x.get("ok", True)))
+    if items == prev_items:
+        print("no changes")
+    else:
+        with open("news.json", "w", encoding="utf-8") as f:
+            json.dump({"updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"), "items": items},
+                      f, ensure_ascii=False, indent=1)
+        print("saved", len(items), "pending:", sum(1 for x in items if not x.get("ok", True)))
 else:
     print("no items; keeping old news.json")
