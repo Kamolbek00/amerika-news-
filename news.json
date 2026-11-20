@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-20 07:59 UTC",
+ "updated": "2026-11-20 09:04 UTC",
  "items": [
+  {
+   "title": "Rossiyaning yirik raketa hujumi paytida Kiyevdagi uchta ko'prik vayron bo'ldi",
+   "summary": "Ukrainaning Qrim ko'prigini muvaffaqiyatli nishonga olishi ortidan boshlangan hujumlar to'lqinida besh kishi halok bo'ldi.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795165266,
+   "date": "2026-11-20"
+  },
   {
    "title": "Konservalangan mahsulotlar va uzoq muddatli sut \"Tayyor bo'ling\" kampaniyasi boshlanganidan keyin chakana savdoni oshirdi",
    "summary": "Rasmiy ma'lumotlarga ko'ra, odamlar uzoq muddatli oziq-ovqat mahsulotlarini zaxiraga olishlari oktyabr oyida chakana savdo savdosini oshirdi.",
@@ -8,7 +18,7 @@
    "ok": true,
    "cat": "Iqtisod",
    "source": "BBC",
-   "ts": 1795160669,
+   "ts": 1795164573,
    "date": "2026-11-20"
   },
   {
@@ -16,7 +26,7 @@
    "summary": "Ipoteka, avtomobil krediti yoki mobil telefon shartnomasini olish kerakmi yoki yo'qligini aniqlash uchun sun'iy intellekt yaxshi baho beradimi?",
    "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795159939,
    "date": "2026-11-20"
@@ -52,33 +62,23 @@
    "date": "2026-11-20"
   },
   {
-   "title": "Chet elda axloqiy investitsiya sifatida sotilgan zaif odamlar uchun mog'orlangan, zararlangan uy-joylar",
-   "summary": "BBC ma'lumotlariga ko'ra, mulklar \"hukumat tomonidan qo'llab-quvvatlanadigan\" daromadlar da'volari bilan yuqori narxlarda sotiladi.",
-   "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795154433,
-   "date": "2026-11-20"
-  },
-  {
    "title": "Sanoat hisob-kitoblariga ko'ra, GTA 6 rekord darajadagi savdo bilan 2 milliard dollardan oshdi",
    "summary": "Rockstar Games 13 yillik kutishga tarixdagi eng katta ko'ngilochar ishga tushirish bilan yakun yasadi.",
    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795143280,
    "date": "2026-11-20"
   },
   {
-   "title": "Yevropa rahbarlari Ukrainadagi urushni tugatish bo'yicha Rossiya bilan muzokaralarga tayyorligini aytishdi",
-   "summary": "Ukrainaning Yevropadagi ittifoqchilari Berlindagi sammitda \"birlashgan\" muzokara pozitsiyasiga ega ekanliklarini aytishdi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "title": "Nima uchun Kanada AI ma'lumotlar markazlarini qabul qilmoqda, AQSh esa orqaga chekinmoqda",
+   "summary": "Shark Tank kompaniyasining Kevin O'Liri Kanadani ma'lumotlar markazini rivojlantirish yo'nalishi sifatida ko'rib chiqayotgan yirik investorlar qatorida, uning AQShdagi loyihasi esa mahalliy qarshilikka duch kelmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Dunyo",
+   "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795135824,
+   "ts": 1795133604,
    "date": "2026-11-20"
   },
   {
@@ -89,6 +89,16 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795133601,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Airbnb’ning yangi uy qoidalari kuchga kirdi",
+   "summary": "Airbnb xostlari mehmonlardan nimani qilishni oqilona so'rashi mumkinligi haqidagi yangi qoidalar kamroq uy yumushlarini, ammo mijozlar uchun yuqori xarajatlarni anglatishi mumkin.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795133548,
    "date": "2026-11-20"
   },
   {
@@ -136,9 +146,19 @@
    "summary": "Anthropic ommaviy ravishda ro'yxatga olingan birinchi sof sun'iy intellekt kompaniyasi bo'lib, butun sanoat uchun sinov bo'ldi.",
    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795131231,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Erta tug'ilgan chaqaloqdan ijtimoiy tarmoq yulduziga qadar - Mashhur begemot Fiona vafot etdi",
+   "summary": "Sevimli begemot Sinsinnati hayvonot bog'ida tasodifan uning qo'rasiga tushib qolgan to'qilgan shlyapani yutib yuborganidan bir necha kun o'tgach vafot etdi.",
+   "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795128843,
    "date": "2026-11-19"
   },
   {
@@ -222,16 +242,6 @@
    "date": "2026-11-19"
   },
   {
-   "title": "Anthropic rekord darajadagi fond bozori debyutida 81 milliard dollar mablagʻ jalb qildi",
-   "summary": "Klod chatboti ortidagi kompaniya dunyodagi eng qimmat firmalardan biriga aylanadi.",
-   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795103938,
-   "date": "2026-11-19"
-  },
-  {
    "title": "Oraliq saylovlar har ikki partiya uchun 50 yil ichidagi eng katta g'alaba bo'ldi",
    "summary": "Vakillar palatasi saylovlarida demokratlarga ovoz berganlarning qariyb 56 foizi, respublikachilarga esa 42 foiz ovoz bergan. Bu 14 balllik farq Uotergeytdan keyingi 50 yil ichida har ikki partiya uchun eng katta g'alabadir.",
    "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
@@ -249,16 +259,6 @@
    "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795091381,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "O'yin butun dunyo bo'ylab sotuvga chiqarilishi bilan Buyuk Britaniya ham GTA 6 ga qo'shildi",
-   "summary": "O'yin juda katta shov-shuvga sabab bo'ldi, ammo uni yaratuvchisi kasaba uyushmasiga a'zo ishchilarni ishdan bo'shatishda ayblandi.",
-   "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795091199,
    "date": "2026-11-19"
   },
   {
