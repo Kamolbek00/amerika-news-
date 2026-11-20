@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-20 14:52 UTC",
+ "updated": "2026-11-20 15:54 UTC",
  "items": [
+  {
+   "title": "Airbnb’ning yangi uy qoidalari kuchga kirdi",
+   "summary": "Airbnb xostlari mehmonlardan nimani qilishni oqilona so'rashi mumkinligi haqidagi yangi qoidalar kamroq uy yumushlarini, ammo mijozlar uchun yuqori xarajatlarni anglatishi mumkin.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795189715,
+   "date": "2026-11-20"
+  },
   {
    "title": "Blokbaster ochilishidan bir kun o'tib, antropik aksiyalar pasayib ketdi",
    "summary": "Aksiya bozorlari keng miqyosda pasayib borayotgani sababli, boshqa texnologik kompaniyalar ham zarar ko'rdi.",
@@ -8,17 +18,47 @@
    "ok": true,
    "cat": "Iqtisod",
    "source": "BBC",
-   "ts": 1795186014,
+   "ts": 1795189493,
    "date": "2026-11-20"
   },
   {
-   "title": "Arteta \"Arsenal\" futbolchilarini FPL jamoasi haqidagi yangiliklarning tarqalishi haqida ogohlantirdi",
-   "summary": "Mikel Artetaning aytishicha, uning \"Arsenal\" futbolchilari Fantasy Premier League orqali jamoa yangiliklarini bexosdan tarqatmaslik haqida ogohlantirilgan.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
+   "title": "Nima uchun jarohat olgan Joao Pedro \"Chelsi\"ning eng muhim o'yinchisi bo'lishi mumkin?",
+   "summary": "Shanba kuni Joao Pedro yana \"Chelsi\" safida maydonga tusha olmasligi sababli, BBC Sport braziliyalik futbolchining \"ko'klar\" uchun ahamiyatiga nazar tashlaydi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Sport",
    "source": "BBC",
-   "ts": 1795183735,
+   "ts": 1795187922,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Dronlar yordamida mashg'ulotlarni suratga olish noqonuniy bo'lishi kerak - Iraola",
+   "summary": "\"Liverpul\" bosh murabbiyi Andoni Iraola mashg'ulot maydonlari atrofida dronlar yordamida suratga olish noqonuniy bo'lishi kerakligini aytdi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795187331,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Tramp Si Szinpin va Putin bilan uchrashuvdan so'ng matbuot anjumani o'tkazadi",
+   "summary": "Tramp Xitoyga safari oxirida rasman savollarga javob bermadi, garchi bu odatda prezidentning xorijiy safarlarida kutilsa ham.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795186800,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Alcaraz jarohatlar haqidagi xavotirlarni chetga surib, Kobollini mag'lub etdi",
+   "summary": "Shafqatsiz Karlos Alkaras jarohatlar haqidagi xavotirlarini chetga surib, Flavio Kobollini mag'lubiyatga uchratdi va ATP finalining guruh bosqichida mukammal natijani ta'minladi.",
+   "link": "https://www.bbc.co.uk/sport/tennis/articles/cqrkgn17emr2o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795186549,
    "date": "2026-11-20"
   },
   {
@@ -92,16 +132,6 @@
    "date": "2026-11-20"
   },
   {
-   "title": "Buyuk Britaniya terma jamoasining Devis kubogi sohibi sardori 17 yillik faoliyatini yakunladi",
-   "summary": "Leon Smitning aytishicha, Britaniyaga Devis kubogini yutish uchun 79 yillik kutishga chek qo'yishga yordam bergani uning faoliyatidagi \"eng faxrli onlardan biri\" bo'lgan.",
-   "link": "https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795176010,
-   "date": "2026-11-20"
-  },
-  {
    "title": "Biz kiberhujumlarga qanchalik zaifmiz?",
    "summary": "Bir haftalik uzilishlar natijasida biz sun'iy intellektga asoslangan kiberhujumlar tahdidining ortib borayotgani haqida o'ylayapmiz. Lekin ba'zida tashvishga soladigan narsa eng murakkab hujum emas, balki eski dasturiy ta'minotda ko'milgan oson nishonlardir.",
    "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
@@ -126,7 +156,7 @@
    "summary": "Amerikaliklar energiya narxlarining oshishi va sun'iy intellekt tufayli talabning ortishi bilan kurashayotgan bir paytda, Senat ma'lumotlar markazlari va elektr stansiyalari uchun tasdiqlash jarayonini tezlashtiradigan ikki partiyali qonun loyihasini qabul qildi.",
    "link": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795172428,
    "date": "2026-11-20"
@@ -182,16 +212,6 @@
    "date": "2026-11-20"
   },
   {
-   "title": "Airbnb’ning yangi uy qoidalari kuchga kirdi",
-   "summary": "Airbnb xostlari mehmonlardan nimani qilishni oqilona so'rashi mumkinligi haqidagi yangi qoidalar kamroq uy yumushlarini, ammo mijozlar uchun yuqori xarajatlarni anglatishi mumkin.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795168520,
-   "date": "2026-11-20"
-  },
-  {
    "title": "Konservalangan mahsulotlar va uzoq muddatli sut \"Tayyor bo'ling\" kampaniyasi boshlanganidan keyin chakana savdoni oshirdi",
    "summary": "Rasmiy ma'lumotlarga ko'ra, odamlar uzoq muddatli oziq-ovqat mahsulotlarini zaxiraga olishlari oktyabr oyida chakana savdo savdosini oshirdi.",
    "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
@@ -229,16 +249,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795167744,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "\"Rams\" yulduzi Nacua hujumga oid sud jarayonidan so'ng diskvalifikatsiya qilindi",
-   "summary": "Puka Nakuaga NFLning shaxsiy xulq-atvor qoidalarini buzgani uchun uch o'yinga diskvalifikatsiya qilindi, garchi Los-Anjeles Rams keng qabul qiluvchisi allaqachon jarohat olgan edi.",
-   "link": "https://www.bbc.co.uk/sport/american-football/articles/c6vg21xdgpqgo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795167494,
    "date": "2026-11-20"
   },
   {
@@ -339,16 +349,6 @@
    "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795107791,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Oraliq saylovlar har ikki partiya uchun 50 yil ichidagi eng katta g'alaba bo'ldi",
-   "summary": "Vakillar palatasi saylovlarida demokratlarga ovoz berganlarning qariyb 56 foizi, respublikachilarga esa 42 foiz ovoz bergan. Bu 14 balllik farq Uotergeytdan keyingi 50 yil ichida har ikki partiya uchun eng katta g'alabadir.",
-   "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795103705,
    "date": "2026-11-19"
   },
   {
