@@ -1,14 +1,24 @@
 {
- "updated": "2026-11-20 03:20 UTC",
+ "updated": "2026-11-20 04:23 UTC",
  "items": [
   {
    "title": "Sanoat hisob-kitoblariga ko'ra, GTA 6 rekord darajadagi savdo bilan 2 milliard dollardan oshdi",
    "summary": "Rockstar Games 13 yillik kutishga tarixdagi eng katta ko'ngilochar ishga tushirish bilan yakun yasadi.",
    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "AQSh",
    "source": "BBC",
    "ts": 1795143280,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Buyuk Britaniya va Yevropa Ittifoqi yoshlar mobilligi sxemasi bo'yicha kelishib olishadi, deb xabar beradi BBC",
+   "summary": "Ushbu sxema juma kuni bo'lib o'tadigan Buyuk Britaniya-Yevropa Ittifoqi sammitida tasdiqlanishi kutilmoqda, oziq-ovqat savdosi va uglerod chiqindilari bo'yicha yangi kelishuvlar ham muhokama qilinmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795142449,
    "date": "2026-11-20"
   },
   {
@@ -19,16 +29,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795135824,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Nima uchun Kanada AI ma'lumotlar markazlarini qabul qilmoqda, AQSh esa orqaga chekinmoqda",
-   "summary": "Shark Tank kompaniyasining Kevin O'Liri Kanadani ma'lumotlar markazini rivojlantirish yo'nalishi sifatida ko'rib chiqayotgan yirik investorlar qatorida, uning AQShdagi loyihasi esa mahalliy qarshilikka duch kelmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795133604,
    "date": "2026-11-20"
   },
   {
@@ -49,6 +49,16 @@
    "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795133548,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Baliq va tuxumlar stolda yeyiladimi? Tushlik tanaffusida nima qilish kerak va nima qilmaslik kerak",
+   "summary": "Hamkasblaringizni bezovta qilmasdan, stolingizda nima yeyishingiz mumkin?",
+   "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795133317,
    "date": "2026-11-20"
   },
   {
@@ -169,16 +179,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795110915,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Tramp, Putin va Si Tszinpin tarixiy uchrashuvdan so'ng \"tinchlik deklaratsiyasi\"ni e'lon qilishdi",
-   "summary": "Prezidentlar ilgari yakkama-yakka uchrashuvlar o'tkazishgan bo'lsa-da, bu ularning birinchi uch tomonlama muzokarasi.",
-   "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795109902,
    "date": "2026-11-19"
   },
   {
@@ -372,9 +372,9 @@
    "date": "2026-11-18"
   },
   {
-   "title": "Griffindor loyihasi: Metaning Instagramdan ko'proq maktab o'quvchilarini jalb qilish rejasi",
-   "summary": "Meta o'smirlarning xavfsizligini ta'minlash uchun \"maktab hamkorlik dasturi\"ni ishga tushirganini aytdi, ammo ichki hujjatlar boshqacha hikoya qiladi.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+   "title": "OpenAI yangi AI xavfsizlik dasturini e'lon qildi; tadqiqotchilar bu yetarli bo'lmasligidan xavotirda",
+   "summary": "OpenAI bosh direktori Sem Altman sun'iy intellekt xavfsizligini baholash uchun tashqi tadqiqotchilarga \"xodimlar darajasida\" kirish huquqini berishini aytdi. Sinov dasturi ancha cheklangan ko'rinadi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
    "ok": true,
    "cat": "Texnologiya",
    "source": "NPR",
@@ -382,9 +382,9 @@
    "date": "2026-11-18"
   },
   {
-   "title": "OpenAI yangi AI xavfsizlik dasturini e'lon qildi; tadqiqotchilar bu yetarli bo'lmasligidan xavotirda",
-   "summary": "OpenAI bosh direktori Sem Altman sun'iy intellekt xavfsizligini baholash uchun tashqi tadqiqotchilarga \"xodimlar darajasida\" kirish huquqini berishini aytdi. Sinov dasturi ancha cheklangan ko'rinadi.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+   "title": "Griffindor loyihasi: Metaning Instagramdan ko'proq maktab o'quvchilarini jalb qilish rejasi",
+   "summary": "Meta o'smirlarning xavfsizligini ta'minlash uchun \"maktab hamkorlik dasturi\"ni ishga tushirganini aytdi, ammo ichki hujjatlar boshqacha hikoya qiladi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
    "ok": true,
    "cat": "Texnologiya",
    "source": "NPR",
