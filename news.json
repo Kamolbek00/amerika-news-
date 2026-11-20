@@ -1,14 +1,44 @@
 {
- "updated": "2026-11-20 09:04 UTC",
+ "updated": "2026-11-20 10:12 UTC",
  "items": [
   {
-   "title": "Rossiyaning yirik raketa hujumi paytida Kiyevdagi uchta ko'prik vayron bo'ldi",
-   "summary": "Ukrainaning Qrim ko'prigini muvaffaqiyatli nishonga olishi ortidan boshlangan hujumlar to'lqinida besh kishi halok bo'ldi.",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "title": "Tanqidchilar qaysi yangi nashrni durdona deb atashmoqda? Viktorina biladi",
+   "summary": "Qo'shimcha: Jeyms Bond haqidagi yangiliklardan xabardormisiz? Agar shunday bo'lsa, kamida bitta savolga to'g'ri javob olasiz.",
+   "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
    "ok": true,
-   "cat": "Dunyo",
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795168800,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Tramp qanday qilib kriptovalyutada bunchalik boyib ketdi? Biz tushuntiramiz",
+   "summary": "Prezident Tramp ikkinchi muddatda milliardlab dollar ishlab topdi — uning asosiy qismi kriptovalyutalarda. Demokratlar kelasi yili Kongressni egallashga tayyorgarlik ko'rayotgan bir paytda uning biznesini tekshirishga va'da bermoqdalar.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795168800,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Nyu-York shahri qamoqxonalarini Rikers orolidan ko'chirish bo'yicha dadil rejani e'lon qildi",
+   "summary": "Nyu-York shahri rasmiylari shaharning asosiy qamoqxona majmuasi bo'lgan Rikersni yillar davomida muhokama qilgandan so'ng yopish rejalarini amalga oshirishda davom etmoqdalar. Qamoqxona hujumlar va mahbuslarning o'limi bilan to'lib-toshgan.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795168800,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Airbnb’ning yangi uy qoidalari kuchga kirdi",
+   "summary": "Airbnb xostlari mehmonlardan nimani qilishni oqilona so'rashi mumkinligi haqidagi yangi qoidalar kamroq uy yumushlarini, ammo mijozlar uchun yuqori xarajatlarni anglatishi mumkin.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
    "source": "BBC",
-   "ts": 1795165266,
+   "ts": 1795168520,
    "date": "2026-11-20"
   },
   {
@@ -18,7 +48,77 @@
    "ok": true,
    "cat": "Iqtisod",
    "source": "BBC",
-   "ts": 1795164573,
+   "ts": 1795167896,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Mutaxassislarning ta'kidlashicha, ma'lumotlar markazlarini quvvatlantirish ularni sovutishdan ko'ra ko'proq suv sarflaydi",
+   "summary": "Ma'lumotlar markazlari suvidan foydalanish haqidagi xavotirlar, ayniqsa, Arizonada keskin. Ammo serverlarni salqin saqlash ma'lumotlar markazlari juda ko'p talab qiladigan elektr energiyasini ishlab chiqarishga qaraganda ancha kam suv sarflaydi.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795167819,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Sun'iy intellekt modellari tez o'sishni ta'minlamoqda va zaifliklarni ochib bermoqda",
+   "summary": "Sun'iy intellekt modellari internetning uzoq vaqtdan beri mavjud bo'lgan xavfsizlik muammosini fosh qilmoqda, tez o'zgarishlar va texnik uzilishlarga olib kelmoqda.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795167791,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Biznes imkoniyatimi yoki xavfsizlikka tahdidmi? Nvidia ishi Xitoy haqida savollar tug'diradi",
+   "summary": "Nvidia ishi Xitoyga yuqori texnologiyali mahsulotlar sotishni istagan Silikon vodiysi va AQSh texnologiyalarini Xitoy bilan cheklashni maqsad qilgan milliy xavfsizlik hamjamiyati o'rtasidagi kelishmovchilikni ko'rsatadi.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6043838/business-opportunity-or-security-threat-nvidia-case-raises-questions-about-china",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795167744,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "\"Rams\" yulduzi Nakua shaxsiy xulq-atvorini buzgani uchun diskvalifikatsiya qilindi",
+   "summary": "Puka Nakuaga NFLning shaxsiy xulq-atvor qoidalarini buzgani uchun uch o'yinga diskvalifikatsiya qilindi, garchi Los-Anjeles Rams keng qabul qiluvchisi allaqachon jarohat olgan edi.",
+   "link": "https://www.bbc.co.uk/sport/american-football/articles/c6vg21xdgpqgo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795167494,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Oq uy ketma-ket texnik uzilishlar tufayli kiberxavfsizlik boshlig'ini ishdan bo'shatdi",
+   "summary": "CBS telekanali xabar berishicha, u Oq uy apparati rahbari Stiven Millerning ishonchini yo'qotgani uchun ishdan bo'shatilgan.",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "BBC",
+   "ts": 1795167479,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Rossiyaning yirik raketa hujumi paytida Kiyevdagi uchta ko'prik vayron bo'ldi",
+   "summary": "Ukrainaning Qrim ko'prigini muvaffaqiyatli nishonga olishi ortidan boshlangan hujumlar to'lqinida besh kishi halok bo'ldi.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795167084,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Buyuk Britaniya va Yevropa Ittifoqi aloqalarni mustahkamlash uchun noyob sammit o'tkazmoqda",
+   "summary": "Buyuk Britaniya xalqi Yevropa Ittifoqidan chiqish uchun ovoz berganidan o'n yil o'tgach, Yevropa Ittifoqining yuqori lavozimli amaldorlari juma kuni Bosh vazir Endi Bernxem bilan ko'proq muammolarni hal qilish uchun uchrashmoqdalar.",
+   "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795166081,
    "date": "2026-11-20"
   },
   {
@@ -29,6 +129,16 @@
    "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795159939,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Mur Keynning futbolkasiga ko'z tikdi, chunki \"Tottenxem\"ning o'tmishdagi va kelajakdagi yulduzlari uchrashadi",
+   "summary": "\"Kyoln\"dan ijaraga olingan Mayki Mur juma kuni \"Bavariya\"ga qarshi o'yinda \"Tottenxem\"ning sobiq jamoadoshi Harri Keyn bilan futbolka almashishga umid qilayotganini aytdi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795159596,
    "date": "2026-11-20"
   },
   {
@@ -92,16 +202,6 @@
    "date": "2026-11-20"
   },
   {
-   "title": "Airbnb’ning yangi uy qoidalari kuchga kirdi",
-   "summary": "Airbnb xostlari mehmonlardan nimani qilishni oqilona so'rashi mumkinligi haqidagi yangi qoidalar kamroq uy yumushlarini, ammo mijozlar uchun yuqori xarajatlarni anglatishi mumkin.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795133548,
-   "date": "2026-11-20"
-  },
-  {
    "title": "Baliq va tuxumlar stolda yeyiladimi? Tushlik tanaffusida nima qilish kerak va nima qilmaslik kerak",
    "summary": "Hamkasblaringizni bezovta qilmasdan, stolingizda nima yeyishingiz mumkin?",
    "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
@@ -120,16 +220,6 @@
    "source": "BBC",
    "ts": 1795132927,
    "date": "2026-11-20"
-  },
-  {
-   "title": "\"Arsenal\"da \"tarkibiy qismlar\" bor, ammo Yevropa elitasi boshqa darajada",
-   "summary": "Fransiya giganti \"Lion\"dan qiyin mag'lubiyatga uchragan \"Arsenal\" Chempionlar Ligasi yo'llanmasi uchun kurashish uchun zarur bo'lgan bo'shliqni ko'rsatdi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795132674,
-   "date": "2026-11-19"
   },
   {
    "title": "Anthropic fond bozoridagi debyuti qanday rivojlandi?",
@@ -162,16 +252,6 @@
    "date": "2026-11-19"
   },
   {
-   "title": "Saylovga qo'yilmagan Sayks \"Katta dubulg'a\" trillerida Hamfrisni hayratda qoldirdi",
-   "summary": "Lyuk Xamfris Lyuk Littlerning ortidan ikkinchi raunddagi trillerda saralanmagan Tom Sayksga 10-9 hisobida yutqazib, \"Katta dubulg'a\" musobaqasini tark etdi.",
-   "link": "https://www.bbc.co.uk/sport/darts/articles/ckzd9n5996zno?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795128341,
-   "date": "2026-11-19"
-  },
-  {
    "title": "Sun'iy intellekt giganti Anthropic aksiyalari blokbaster IPOdan so'ng debyut qildi",
    "summary": "Sun'iy intellekt sohasidagi ulkan Anthropic aksiyalari endi fond bozorida savdoga qo'yildi. Ular rekord darajadagi IPOdan so'ng payshanba kuni debyut qilishdi.",
    "link": "https://www.npr.org/2026/11/19/nx-s1-6042560/ai-giant-anthropics-shares-pop-in-debut-after-blockbuster-ipo",
@@ -196,19 +276,9 @@
    "summary": "Federal sudya Tramp arkining qurilishini ikki marta kechiktirdi. Yana biri Sharqiy Potomak bog'ini ochiq qoldirmoqda. Payshanba kuni golf maydonini qayta loyihalash bo'yicha taklif federal san'at hay'ati tomonidan turlicha fikr-mulohazalarga sabab bo'ldi.",
    "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795117587,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "\"Sehrli oltilik\": O'rta yoshda nikohingizni qanday mustahkamlash mumkin",
-   "summary": "Yoshimiz o'tgan sari sog'lom romantik munosabatlarni qanday saqlab qolamiz? Allison Obri va Skott Detrou sog'lom, keyingi hayotdagi munosabatlar haqidagi ilm-fan haqida suhbatlashishadi.",
-   "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "NPR",
-   "ts": 1795112903,
    "date": "2026-11-19"
   },
   {
@@ -226,19 +296,9 @@
    "summary": "Skott Kolom endi Janubiy shtatning qariyb 150 yil ichidagi birinchi qora tanli AQSh senatori. Olimlar va Missisipi shtatida tug'ilgan Eddi Glod va Kise Laymon uning g'alabasining tarixiy ahamiyatini muhokama qilmoqdalar.",
    "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795107791,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Gollandiya kuzatuv tashkiloti odamlarga sun'iy intellektga asoslangan aqlli ko'zoynaklarni sotib olmaslikni maslahat berdi",
-   "summary": "Ko'zoynaklarni tekshirishda ba'zi dori ko'rsatmalari noto'g'ri o'qilganligi yoki tez yordam chaqirgandek o'zini ko'rsatganligi aniqlandi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795105997,
    "date": "2026-11-19"
   },
   {
@@ -246,7 +306,7 @@
    "summary": "Vakillar palatasi saylovlarida demokratlarga ovoz berganlarning qariyb 56 foizi, respublikachilarga esa 42 foiz ovoz bergan. Bu 14 balllik farq Uotergeytdan keyingi 50 yil ichida har ikki partiya uchun eng katta g'alabadir.",
    "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795103705,
    "date": "2026-11-19"
@@ -266,19 +326,9 @@
    "summary": "Sun'iy intellekt pufagining paydo bo'lishi mumkinligi haqidagi xavotirlar ortib borayotganiga qaramay, Anthropic rekord darajadagi birlamchi ommaviy taklifga ega bo'ldi. Va Hakeem Jeffries Vakillar palatasining birinchi qora tanli spikeri bo'lishi mumkin.",
    "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
    "ok": true,
-   "cat": "Siyosat",
+   "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795091161,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Vakillar palatasining yangi ko'pchilik yetakchisi Ketrin Klark demokratlarning birligini ta'kidlamoqda",
-   "summary": "Demokratlar Vakillar palatasini nazorat qilishga tayyorgarlik ko'rayotgan bir paytda, ko'pchilikning yangi yetakchisi Ketrin Klark partiyaning ambitsiyali kun tartibi va saflaridagi bo'linishlarni muhokama qilmoqda.",
-   "link": "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795087242,
    "date": "2026-11-19"
   },
   {
@@ -286,7 +336,7 @@
    "summary": "Vakil Gregori Miks Trampning Si va Putin bilan sammitidan keyin AQSh ittifoqlari haqida xavotir bildirmoqda. Shuningdek, u Nvidia mojarosi fonida Xitoy josusligi haqida ham gapirmoqda.",
    "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
    "ok": true,
-   "cat": "Siyosat",
+   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795087237,
    "date": "2026-11-19"
@@ -338,28 +388,8 @@
    "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
    "date": "2026-11-18",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "Dunyo",
    "ts": 1795025759
-  },
-  {
-   "title": "Meri Peltola Alyaskaning Senatdagi o'rnini almashtirdi. Va Nvidia Jensen Huangni qayta tiklamaydi",
-   "summary": "Sobiq Demokrat vakil Meri Peltola AQShning eng ko'p tomosha qilinadigan Senat saylovlaridan birida g'alaba qozondi. Nvidia boshqaruvi esa sobiq bosh direktor Jensen Xuangni ittifoqchilarining bosimiga qaramay, lavozimiga qaytarish niyatida emasligini aytdi.",
-   "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795004068,
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Tramp Rossiya prezidenti Putin va Xitoy rahbari Si Szinpin bilan tarixiy qo'shma uchrashuv o'tkazadi",
-   "summary": "Prezident Tramp payshanba kuni Rossiya prezidenti Vladimir Putin va Xitoy raisi Si Tszinpin bilan tarixiy uch tomonlama uchrashuv o'tkazadi.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795003030,
-   "date": "2026-11-18"
   },
   {
    "title": "Grand Theft Auto VI – bu asosli sevgi hikoyasi, gonzo jinoyat trilleri va oʻyin gʻalabasi.",
@@ -369,36 +399,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1794999600,
-   "date": "2026-11-18"
-  },
-  {
-   "title": "OpenAI yangi AI xavfsizlik dasturini e'lon qildi; tadqiqotchilar bu yetarli bo'lmasligidan xavotirda",
-   "summary": "OpenAI bosh direktori Sem Altman sun'iy intellekt xavfsizligini baholash uchun tashqi tadqiqotchilarga \"xodimlar darajasida\" kirish huquqini berishini aytdi. Sinov dasturi ancha cheklangan ko'rinadi.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1794996000,
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Griffindor loyihasi: Metaning Instagramdan ko'proq maktab o'quvchilarini jalb qilish rejasi",
-   "summary": "Meta o'smirlarning xavfsizligini ta'minlash uchun \"maktab hamkorlik dasturi\"ni ishga tushirganini aytdi, ammo ichki hujjatlar boshqacha hikoya qiladi.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1794996000,
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Nvidia yangi bosh direktordan ko'proq narsaga muhtoj. Mutaxassis oldinga siljish yo'lini taklif qiladi",
-   "summary": "Nvidiaga yangi bosh direktor kerak. Muhandislarini saqlab qolish esa boshqa gap.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1794995024,
    "date": "2026-11-18"
   },
   {
