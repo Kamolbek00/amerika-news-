@@ -1,14 +1,34 @@
 {
- "updated": "2026-11-20 10:12 UTC",
+ "updated": "2026-11-20 11:21 UTC",
  "items": [
   {
-   "title": "Tanqidchilar qaysi yangi nashrni durdona deb atashmoqda? Viktorina biladi",
-   "summary": "Qo'shimcha: Jeyms Bond haqidagi yangiliklardan xabardormisiz? Agar shunday bo'lsa, kamida bitta savolga to'g'ri javob olasiz.",
-   "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
+   "title": "Rossiyaning yirik raketa hujumi paytida Kiyevdagi uchta ko'prik vayron bo'ldi",
+   "summary": "Ukrainaning Qrim ko'prigini muvaffaqiyatli nishonga olishi ortidan boshlangan hujumlar to'lqinida besh kishi halok bo'ldi.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795173177,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Senat atrof-muhit bilan bog'liq muammolar tufayli ikki partiyali energetika qonun loyihasini qabul qildi",
+   "summary": "Amerikaliklar energiya narxlarining oshishi va sun'iy intellekt tufayli talabning ortishi bilan kurashayotgan bir paytda, Senat ma'lumotlar markazlari va elektr stansiyalari uchun tasdiqlash jarayonini tezlashtiradigan ikki partiyali qonun loyihasini qabul qildi.",
+   "link": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
    "ok": true,
    "cat": "AQSh",
    "source": "NPR",
-   "ts": 1795168800,
+   "ts": 1795172428,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Cummins sardor sifatida Cricket Australia qo'llab-quvvatlashini saqlab qoladi",
+   "summary": "Pat Cummins zımpara qog'ozi bilan bog'liq mojaroga oid davom etayotgan va portlovchi ayblovlarga qaramay, Cricket Australia tomonidan qo'llab-quvvatlanadigan Test sardori bo'lib qoladi.",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795169603,
    "date": "2026-11-20"
   },
   {
@@ -25,6 +45,16 @@
    "title": "Nyu-York shahri qamoqxonalarini Rikers orolidan ko'chirish bo'yicha dadil rejani e'lon qildi",
    "summary": "Nyu-York shahri rasmiylari shaharning asosiy qamoqxona majmuasi bo'lgan Rikersni yillar davomida muhokama qilgandan so'ng yopish rejalarini amalga oshirishda davom etmoqdalar. Qamoqxona hujumlar va mahbuslarning o'limi bilan to'lib-toshgan.",
    "link": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795168800,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Tanqidchilar qaysi yangi nashrni durdona deb atashmoqda? Viktorina biladi",
+   "summary": "Qo'shimcha: Jeyms Bond haqidagi yangiliklardan xabardormisiz? Agar shunday bo'lsa, kamida bitta savolga to'g'ri javob olasiz.",
+   "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
    "ok": true,
    "cat": "AQSh",
    "source": "NPR",
@@ -96,19 +126,9 @@
    "summary": "CBS telekanali xabar berishicha, u Oq uy apparati rahbari Stiven Millerning ishonchini yo'qotgani uchun ishdan bo'shatilgan.",
    "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Texnologiya",
+   "cat": "AQSh",
    "source": "BBC",
    "ts": 1795167479,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Rossiyaning yirik raketa hujumi paytida Kiyevdagi uchta ko'prik vayron bo'ldi",
-   "summary": "Ukrainaning Qrim ko'prigini muvaffaqiyatli nishonga olishi ortidan boshlangan hujumlar to'lqinida besh kishi halok bo'ldi.",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795167084,
    "date": "2026-11-20"
   },
   {
@@ -116,7 +136,7 @@
    "summary": "Buyuk Britaniya xalqi Yevropa Ittifoqidan chiqish uchun ovoz berganidan o'n yil o'tgach, Yevropa Ittifoqining yuqori lavozimli amaldorlari juma kuni Bosh vazir Endi Bernxem bilan ko'proq muammolarni hal qilish uchun uchrashmoqdalar.",
    "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795166081,
    "date": "2026-11-20"
@@ -159,16 +179,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795156804,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Yolg'izlik va kayfiyat o'zgarishi - jarohat tufayli mavsumni o'tkazib yuborish qanday?",
-   "summary": "Jahon chempionatiga bormasligingiz aytilganidan keyin soatlab devorga tikilib turish yoqimli emas - jiddiy jarohat tufayli mavsumni o'tkazib yuborgan futbolchilar uchun bu qanday tuyg'u?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795155203,
    "date": "2026-11-20"
   },
   {
@@ -242,16 +252,6 @@
    "date": "2026-11-19"
   },
   {
-   "title": "Erta tug'ilgan chaqaloqdan ijtimoiy tarmoq yulduziga qadar - Mashhur begemot Fiona vafot etdi",
-   "summary": "Sevimli begemot Sinsinnati hayvonot bog'ida tasodifan uning qo'rasiga tushib qolgan to'qilgan shlyapani yutib yuborganidan bir necha kun o'tgach vafot etdi.",
-   "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795128843,
-   "date": "2026-11-19"
-  },
-  {
    "title": "Sun'iy intellekt giganti Anthropic aksiyalari blokbaster IPOdan so'ng debyut qildi",
    "summary": "Sun'iy intellekt sohasidagi ulkan Anthropic aksiyalari endi fond bozorida savdoga qo'yildi. Ular rekord darajadagi IPOdan so'ng payshanba kuni debyut qilishdi.",
    "link": "https://www.npr.org/2026/11/19/nx-s1-6042560/ai-giant-anthropics-shares-pop-in-debut-after-blockbuster-ipo",
@@ -299,6 +299,16 @@
    "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795107791,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Gollandiya kuzatuv tashkiloti odamlarga sun'iy intellektga asoslangan aqlli ko'zoynaklarni sotib olmaslikni maslahat berdi",
+   "summary": "Ko'zoynaklarni tekshirishda ba'zi dori ko'rsatmalari noto'g'ri o'qilganligi yoki tez yordam chaqirgandek o'zini ko'rsatganligi aniqlandi.",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "BBC",
+   "ts": 1795105997,
    "date": "2026-11-19"
   },
   {
@@ -380,16 +390,6 @@
    "source": "NPR",
    "ts": 1795046096,
    "date": "2026-11-18"
-  },
-  {
-   "source": "NPR",
-   "title": "Karl Kani o&#39;nlab yillar davomida hip-hop qirollik oilasi a&#39;zolarini kiyintirdi. Endi u o&#39;z hikoyasini aytib bermoqda",
-   "summary": "NPRning Morning Edition ko&#39;rsatuvida modelyer Karl Kani o&#39;zining yangi memuarlari, hip-hopning eng mashhur yulduzlaridan ba&#39;zilarini kiyintirishi va nima uchun tor jinsi shimlar hamma uchun ham mos kelmasligi haqida gapirib beradi.",
-   "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-   "date": "2026-11-18",
-   "ok": true,
-   "cat": "Dunyo",
-   "ts": 1795025759
   },
   {
    "title": "Grand Theft Auto VI – bu asosli sevgi hikoyasi, gonzo jinoyat trilleri va oʻyin gʻalabasi.",
