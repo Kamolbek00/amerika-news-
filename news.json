@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-20 01:14 UTC",
+ "updated": "2026-11-20 02:26 UTC",
  "items": [
+  {
+   "title": "Follow live: Stroud delivers deep for 24-yard Boutte TD as Texans extend lead",
+   "summary": "null",
+   "link": "https://www.espn.com/nfl/story/_/id/50535018/colts-texans-highlights-best-plays-moments-touchdowns",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795141032,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+   "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795140785,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "LSU president tells Wade not to play Luis amid eligibility battle",
+   "summary": "Wade Rousse said his decision -- a day after RJ Luis Jr. made his debut for the LSU men's basketball team -- came \"after further review.\"",
+   "link": "https://www.espn.com/mens-college-basketball/story/_/id/50535062/lsu-president-tells-wade-not-play-rj-luis-jr",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795136415,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Rams WR Nacua suspended 3 games, to serve while on IR",
+   "summary": "Los Angeles Rams standout wide receiver Puka Nacua has been suspended three games for violating the league's personal conduct policy, the NFL announced Thursday.",
+   "link": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795136415,
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Agents push back against 'fundamentally unfair' SEC standardized player contracts",
+   "summary": "The SEC's new uniform NIL and revenue sharing agreements are causing an uproar among agents concerned that the contracts are loaded with terms that are unfair.",
+   "link": "https://www.espn.com/college-football/story/_/id/50535591/sec-standardized-nil-contracts-unfair-players-agents-say",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795136415,
+   "date": "2026-11-19"
+  },
   {
    "title": "Yevropa rahbarlari Ukrainadagi urushni tugatish bo'yicha Rossiya bilan muzokaralarga tayyorligini aytishdi",
    "summary": "Ukrainaning Yevropadagi ittifoqchilari Berlindagi sammitda \"birlashgan\" muzokara pozitsiyasiga ega ekanliklarini aytishdi.",
@@ -9,6 +59,16 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795135824,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Why Canada is embracing AI data centres while the US pushes back",
+   "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795133604,
    "date": "2026-11-20"
   },
   {
@@ -29,16 +89,6 @@
    "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795133548,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Baliq va tuxumlar stolda yeyiladimi? Tushlik tanaffusida nima qilish kerak va nima qilmaslik kerak",
-   "summary": "Hamkasblaringizni bezovta qilmasdan, stolingizda nima yeyishingiz mumkin?",
-   "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795133317,
    "date": "2026-11-20"
   },
   {
@@ -169,16 +219,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795109902,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Tramp, Si Szinpin va Putin tarixiy uchrashuvdan nimani olishdi?",
-   "summary": "Tramp, Putin va Si Tszinpin tarixiy uch tomonlama muzokaralardan so'ng \"qo'shma tinchlik deklaratsiyasi\"ni e'lon qilishdi, ammo ular uchrashuvdan nimani olishdi?",
-   "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795109009,
    "date": "2026-11-19"
   },
   {
@@ -372,9 +412,9 @@
    "date": "2026-11-18"
   },
   {
-   "title": "OpenAI yangi AI xavfsizlik dasturini e'lon qildi; tadqiqotchilar bu yetarli bo'lmasligidan xavotirda",
-   "summary": "OpenAI bosh direktori Sem Altman sun'iy intellekt xavfsizligini baholash uchun tashqi tadqiqotchilarga \"xodimlar darajasida\" kirish huquqini berishini aytdi. Sinov dasturi ancha cheklangan ko'rinadi.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+   "title": "Griffindor loyihasi: Metaning Instagramdan ko'proq maktab o'quvchilarini jalb qilish rejasi",
+   "summary": "Meta o'smirlarning xavfsizligini ta'minlash uchun \"maktab hamkorlik dasturi\"ni ishga tushirganini aytdi, ammo ichki hujjatlar boshqacha hikoya qiladi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
    "ok": true,
    "cat": "Texnologiya",
    "source": "NPR",
@@ -382,9 +422,9 @@
    "date": "2026-11-18"
   },
   {
-   "title": "Griffindor loyihasi: Metaning Instagramdan ko'proq maktab o'quvchilarini jalb qilish rejasi",
-   "summary": "Meta o'smirlarning xavfsizligini ta'minlash uchun \"maktab hamkorlik dasturi\"ni ishga tushirganini aytdi, ammo ichki hujjatlar boshqacha hikoya qiladi.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+   "title": "OpenAI yangi AI xavfsizlik dasturini e'lon qildi; tadqiqotchilar bu yetarli bo'lmasligidan xavotirda",
+   "summary": "OpenAI bosh direktori Sem Altman sun'iy intellekt xavfsizligini baholash uchun tashqi tadqiqotchilarga \"xodimlar darajasida\" kirish huquqini berishini aytdi. Sinov dasturi ancha cheklangan ko'rinadi.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
    "ok": true,
    "cat": "Texnologiya",
    "source": "NPR",
