@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-20 13:50 UTC",
+ "updated": "2026-11-20 14:52 UTC",
  "items": [
+  {
+   "title": "Blokbaster ochilishidan bir kun o'tib, antropik aksiyalar pasayib ketdi",
+   "summary": "Aksiya bozorlari keng miqyosda pasayib borayotgani sababli, boshqa texnologik kompaniyalar ham zarar ko'rdi.",
+   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795186014,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Arteta \"Arsenal\" futbolchilarini FPL jamoasi haqidagi yangiliklarning tarqalishi haqida ogohlantirdi",
+   "summary": "Mikel Artetaning aytishicha, uning \"Arsenal\" futbolchilari Fantasy Premier League orqali jamoa yangiliklarini bexosdan tarqatmaslik haqida ogohlantirilgan.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795183735,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Tuskning so'zlariga ko'ra, Ukraina ittifoqchilari harbiy mashqlar o'tkazayotgan bir paytda Rossiya raketasi Polshaga zarba berdi",
+   "summary": "Hech kim jabrlanmagan va hech qanday zarar haqida xabar berilmagan, ammo Varshava bu hodisani Moskvaning \"provokatsiyasi\" deb ta'riflagan.",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795182724,
+   "date": "2026-11-20"
+  },
   {
    "title": "Oq uy ketma-ket texnik uzilishlar tufayli kiberxavfsizlik boshlig'ini ishdan bo'shatdi",
    "summary": "CBS telekanali xabar berishicha, u Oq uy apparati rahbari Stiven Millerning ishonchini yo'qotgani uchun ishdan bo'shatilgan.",
@@ -9,16 +39,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795181312,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "\"Sautgempton\" bosh murabbiy Ekertga yangi shartnoma taklif qildi",
-   "summary": "\"Sautgempton\" bosh murabbiyi Tonda Ekert klub bilan 2029-yilgacha mo'ljallangan yangi shartnoma imzoladi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795180233,
    "date": "2026-11-20"
   },
   {
@@ -39,16 +59,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795179676,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Tuskning so'zlariga ko'ra, Ukraina ittifoqchilari harbiy mashqlar o'tkazayotgan bir paytda Rossiya raketasi Polshaga zarba berdi",
-   "summary": "Hech kim jabrlanmagan va hech qanday zarar haqida xabar berilmagan, ammo Varshava bu hodisani Moskvaning \"provokatsiyasi\" deb ta'riflagan.",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795179408,
    "date": "2026-11-20"
   },
   {
@@ -286,7 +296,7 @@
    "summary": "Anthropic ommaviy ravishda ro'yxatga olingan birinchi sof sun'iy intellekt kompaniyasi bo'lib, butun sanoat uchun sinov bo'ldi.",
    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795131231,
    "date": "2026-11-19"
@@ -329,16 +339,6 @@
    "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795107791,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Gollandiya kuzatuv tashkiloti odamlarga sun'iy intellektga asoslangan aqlli ko'zoynaklarni sotib olmaslikni maslahat berdi",
-   "summary": "Ko'zoynaklarni tekshirishda ba'zi dori ko'rsatmalari noto'g'ri o'qilganligi yoki tez yordam chaqirgandek o'zini ko'rsatganligi aniqlandi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795105997,
    "date": "2026-11-19"
   },
   {
