@@ -1,14 +1,54 @@
 {
- "updated": "2026-11-20 15:54 UTC",
+ "updated": "2026-11-20 16:57 UTC",
  "items": [
   {
-   "title": "Airbnb’ning yangi uy qoidalari kuchga kirdi",
-   "summary": "Airbnb xostlari mehmonlardan nimani qilishni oqilona so'rashi mumkinligi haqidagi yangi qoidalar kamroq uy yumushlarini, ammo mijozlar uchun yuqori xarajatlarni anglatishi mumkin.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+   "title": "\"Manchester Yunayted\" muxlislarining tanqidi ba'zan haddan oshib ketgan - Berrada",
+   "summary": "\"Manchester Yunayted\" bosh ijrochi direktori Omar Berrada klub ierarxiyasiga nisbatan yaqinda bildirilgan ba'zi tanqidlar \"chegaradan oshib ketganini\" aytdi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795193711,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Tuskning so'zlariga ko'ra, Ukraina ittifoqchilari harbiy mashqlar o'tkazayotgan bir paytda Rossiya raketasi Polshaga zarba berdi",
+   "summary": "Hech kim jabrlanmagan va hech qanday zarar haqida xabar berilmagan, ammo Varshava bu hodisani Moskvaning \"provokatsiyasi\" deb ta'riflagan.",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795193669,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Angliya uslubni to'ldirishga va \"qora tanlilar\"ga azob-uqubatlarni kuchaytirishga intiladi",
+   "summary": "Angliyaning ko'zga ko'rinadigan darajada tiklanishi shanba kuni to'satdan bosim ostida bo'lgan Yangi Zelandiya jamoasi tomonidan stress sinovidan o'tkaziladi.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrmgjpp0l48o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795193477,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Faysal Islom: Buyuk Britaniya va Yevropa Ittifoqining xarajatlarni kamaytirish bo'yicha kelishuvi narxlarning pasayishini anglatmaydi",
+   "summary": "Savdo bitimi xaridorlar uchun oziq-ovqat narxlarini pasaytirishi ehtimoldan yiroq, ammo Brexitdan keyingi boshqa kelishuvlarga qaraganda iqtisodiyotni ko'proq rivojlantirishi kerak.",
+   "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Iqtisod",
    "source": "BBC",
-   "ts": 1795189715,
+   "ts": 1795192912,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "\"Hech kim bizni sindira olmaydi\" - qarshilik ko'rsatuvchi bokschilar Irlandiyaga Erasmussiz qarshi o'ynaydi",
+   "summary": "Janubiy Afrika terma jamoasi bosh murabbiyi Rassi Erasmussiz Dublinda bo'lib o'tadigan uzoq kutilgan Millatlar chempionati testida Irlandiyaga qarshi o'yinga tayyorgarlik ko'rmoqda.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795192127,
    "date": "2026-11-20"
   },
   {
@@ -18,17 +58,37 @@
    "ok": true,
    "cat": "Iqtisod",
    "source": "BBC",
-   "ts": 1795189493,
+   "ts": 1795192067,
    "date": "2026-11-20"
   },
   {
-   "title": "Nima uchun jarohat olgan Joao Pedro \"Chelsi\"ning eng muhim o'yinchisi bo'lishi mumkin?",
-   "summary": "Shanba kuni Joao Pedro yana \"Chelsi\" safida maydonga tusha olmasligi sababli, BBC Sport braziliyalik futbolchining \"ko'klar\" uchun ahamiyatiga nazar tashlaydi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
+   "title": "Orkestr Noir klassik musiqani qanday qilib madaniy harakatga aylantirdi",
+   "summary": "Orchestra Noir gastrol safariga qaytdi, butun mamlakat bo'ylab sahnalari sotilib ketdi va mumtoz musiqa siz xohlagan narsaga aylanishi mumkinligini isbotladi.",
+   "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
    "ok": true,
-   "cat": "Sport",
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795191138,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Janubiy Afrikada uch oy ichida qariyb 600 ayol o'ldirildi",
+   "summary": "Politsiya rasmiylari ayollar va bolalarga nisbatan \"zo'ravonlikning oldini olish uchun ko'proq sa'y-harakatlar\" qilishga chaqirdilar.",
+   "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795187922,
+   "ts": 1795190116,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Ketrin Zeta-Jonsning qizi ota-onasi uni \"nepo baby\" yorlig'i haqida ogohlantirganini aytdi",
+   "summary": "23 yoshli Keris Duglas bu yil AQShda Anton Chexovning \"Chayka\" spektaklida sahnada debyut qildi.",
+   "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795190102,
    "date": "2026-11-20"
   },
   {
@@ -49,26 +109,6 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795186800,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Alcaraz jarohatlar haqidagi xavotirlarni chetga surib, Kobollini mag'lub etdi",
-   "summary": "Shafqatsiz Karlos Alkaras jarohatlar haqidagi xavotirlarini chetga surib, Flavio Kobollini mag'lubiyatga uchratdi va ATP finalining guruh bosqichida mukammal natijani ta'minladi.",
-   "link": "https://www.bbc.co.uk/sport/tennis/articles/cqrkgn17emr2o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795186549,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Tuskning so'zlariga ko'ra, Ukraina ittifoqchilari harbiy mashqlar o'tkazayotgan bir paytda Rossiya raketasi Polshaga zarba berdi",
-   "summary": "Hech kim jabrlanmagan va hech qanday zarar haqida xabar berilmagan, ammo Varshava bu hodisani Moskvaning \"provokatsiyasi\" deb ta'riflagan.",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795182724,
    "date": "2026-11-20"
   },
   {
@@ -136,9 +176,19 @@
    "summary": "Bir haftalik uzilishlar natijasida biz sun'iy intellektga asoslangan kiberhujumlar tahdidining ortib borayotgani haqida o'ylayapmiz. Lekin ba'zida tashvishga soladigan narsa eng murakkab hujum emas, balki eski dasturiy ta'minotda ko'milgan oson nishonlardir.",
    "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795176000,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Respublikachilar partiyasidan senator Jonson hukumat mablag'larini Eron urushiga chek qo'yish bilan bog'lashni rad etdi",
+   "summary": "\"Biz urushni to'xtatmaymiz\", dedi senator Ron Jonson respublikachilar va demokratlar hukumatni moliyalashtirish bo'yicha kelishuvga erishish uchun kurashayotgan bir paytda.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+   "ok": true,
+   "cat": "Siyosat",
+   "source": "NPR",
+   "ts": 1795174655,
    "date": "2026-11-20"
   },
   {
@@ -159,36 +209,6 @@
    "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795172428,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Janubiy Afrikada uch oy ichida qariyb 600 ayol o'ldirildi",
-   "summary": "Politsiya rasmiylari ayollar va bolalarga nisbatan \"zo'ravonlikning oldini olish uchun ko'proq sa'y-harakatlar\" qilishga chaqirdilar.",
-   "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795172162,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Janubiy Koreyada imtihon firibgarligiga qarshi yangi choralar qo'llanildi - 111 talaba qo'lga olindi",
-   "summary": "Talabalar Suneung imtihonini topshirish paytida taqiqlangan aqlli qurilmalar bilan qo'lga olindi.",
-   "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795169779,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Cummins sardor sifatida Cricket Australia qo'llab-quvvatlashini saqlab qoladi",
-   "summary": "Pat Cummins zımpara qog'ozi bilan bog'liq mojaroga oid davom etayotgan va portlovchi ayblovlarga qaramay, Cricket Australia tomonidan qo'llab-quvvatlanadigan Test sardori bo'lib qoladi.",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795169603,
    "date": "2026-11-20"
   },
   {
@@ -342,16 +362,6 @@
    "date": "2026-11-19"
   },
   {
-   "title": "\"Barak Obamaning saylovlaridan ham muhimroq\": Olimlar Missisipi Senatidagi poyga haqida fikr yuritmoqdalar",
-   "summary": "Skott Kolom endi Janubiy shtatning qariyb 150 yil ichidagi birinchi qora tanli AQSh senatori. Olimlar va Missisipi shtatida tug'ilgan Eddi Glod va Kise Laymon uning g'alabasining tarixiy ahamiyatini muhokama qilmoqdalar.",
-   "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795107791,
-   "date": "2026-11-19"
-  },
-  {
    "title": "BMT Oliy sudi Myanmada rohingyalarga qarshi genotsid sodir etilgan deb topdi",
    "summary": "Xalqaro Sud Myanma xavfsizlik kuchlari 2017-yilda Shimoliy Rakxayn shtatida harbiy operatsiyalar paytida rohingyalarga qarshi \"genotsid niyatida harakat qilgan\" deb topdi.",
    "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
@@ -366,7 +376,7 @@
    "summary": "Sun'iy intellekt pufagining paydo bo'lishi mumkinligi haqidagi xavotirlar ortib borayotganiga qaramay, Anthropic rekord darajadagi birlamchi ommaviy taklifga ega bo'ldi. Va Hakeem Jeffries Vakillar palatasining birinchi qora tanli spikeri bo'lishi mumkin.",
    "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795091161,
    "date": "2026-11-19"
@@ -389,16 +399,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795082400,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Eronning Hormuz bo'g'ozidagi kemalarga hujumlari kuchayib bormoqda",
-   "summary": "Eron Hormuz bo'g'ozidagi kemalarga hujum qilish va Fors ko'rfazi atrofidagi bir nechta mamlakatlarga havo hujumlari bilan hujumga o'tdi.",
-   "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795081584,
    "date": "2026-11-19"
   },
   {
