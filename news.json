@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-20 20:53 UTC",
+ "updated": "2026-11-20 21:46 UTC",
  "items": [
+  {
+   "title": "AQShda o'ldirilgan ganalik bola \"bundan ham yaxshiroq jazoga loyiq\", dedi Nyu-York meri Mamdani",
+   "summary": "O'tgan oy otib o'ldirilgan 15 yoshli o'smirning dafn marosimida Mamdani bolaning otasi va fuqarolik huquqlari faollari bilan birga nutq so'zladi.",
+   "link": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795210845,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Anthropicning mega-IPOsiga qaramay, texnologiya aksiyalari haftani pasayish bilan yakunladi",
+   "summary": "Anthropic’ning eng katta IPOsi va Nvidia’ning kuchli daromad hisobotiga qaramay, fond bozori haftani pasayish bilan yakunlamoqda, bu asosan investorlarning sun’iy intellekt kelajagi haqidagi xavotirlari tufayli.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795210712,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Trampning matbuot kotibi",
+   "summary": "Prezident Tramp Osiyoga tarixiy safari yakunida Xitoy Prezidenti Si Szinpin va Rossiya Prezidenti Putin bilan uchrashganidan so'ng keng ko'lamli matbuot anjumani o'tkazdi.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+   "ok": true,
+   "cat": "Siyosat",
+   "source": "NPR",
+   "ts": 1795210701,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Mashina xudolari: Antropiklarning dastlabki kunlari",
+   "summary": "Sun'iy intellekt giganti Anthropicning rekord darajadagi IPOsidan so'ng, Machine Gods boshlovchilari Kevin Roose va Casey Newton kompaniyaning dastlabki kunlarini eslashadi, o'sha paytda tor ofisda 200 dan kam ishchi obsesif edi.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6047503/machine-gods-anthropics-early-days",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795210694,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Ukrainadagi oila uchun yana bir omon qolish kuni",
+   "summary": "Kiyev chekkasida bir oila Rossiyaga qarshi urushning beshinchi qishiga tayyorgarlik ko'rmoqda – oziq-ovqat va yoqilg'i zaxirasini to'plamoqda va iloji boricha normal hayotni saqlashga harakat qilmoqda.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "NPR",
+   "ts": 1795210351,
+   "date": "2026-11-20"
+  },
   {
    "title": "Tramp AQSh firmalariga chet elda AI ma'lumotlar markazlarini qurishni taqiqlash bilan tahdid qilmoqda",
    "summary": "AQSh prezidenti potentsial siyosat haqida juda kam ma'lumot berdi va uning jamoasidagi boshqalar bu haqda birinchi marta eshitayotganini aytdi.",
@@ -8,7 +58,7 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795206926,
+   "ts": 1795208052,
    "date": "2026-11-20"
   },
   {
@@ -39,16 +89,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795203920,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "AQShda o'ldirilgan ganalik bola \"bundan ham yaxshiroq jazoga loyiq\", dedi Nyu-York meri Mamdani",
-   "summary": "O'tgan oy otib o'ldirilgan 15 yoshli o'smirning dafn marosimida Mamdani bolaning otasi va fuqarolik huquqlari faollari bilan birga nutq so'zladi.",
-   "link": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795203446,
    "date": "2026-11-20"
   },
   {
@@ -242,16 +282,6 @@
    "date": "2026-11-20"
   },
   {
-   "title": "Senat atrof-muhit bilan bog'liq muammolar tufayli ikki partiyali energetika qonun loyihasini qabul qildi",
-   "summary": "Amerikaliklar energiya narxlarining oshishi va sun'iy intellekt tufayli talabning ortishi bilan kurashayotgan bir paytda, Senat ma'lumotlar markazlari va elektr stansiyalari uchun tasdiqlash jarayonini tezlashtiradigan ikki partiyali qonun loyihasini qabul qildi.",
-   "link": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795172428,
-   "date": "2026-11-20"
-  },
-  {
    "title": "Tramp qanday qilib kriptovalyutada bunchalik boyib ketdi? Biz tushuntiramiz",
    "summary": "Prezident Tramp ikkinchi muddatda milliardlab dollar ishlab topdi — uning asosiy qismi kriptovalyutalarda. Demokratlar kelasi yili Kongressni egallashga tayyorgarlik ko'rayotgan bir paytda uning biznesini tekshirishga va'da bermoqdalar.",
    "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
@@ -289,16 +319,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795167791,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Biznes imkoniyatimi yoki xavfsizlikka tahdidmi? Nvidia ishi Xitoy haqida savollar tug'diradi",
-   "summary": "Nvidia ishi Xitoyga yuqori texnologiyali mahsulotlar sotishni istagan Silikon vodiysi va AQSh texnologiyalarini Xitoy bilan cheklashni maqsad qilgan milliy xavfsizlik hamjamiyati o'rtasidagi kelishmovchilikni ko'rsatadi.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6043838/business-opportunity-or-security-threat-nvidia-case-raises-questions-about-china",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795167744,
    "date": "2026-11-20"
   },
   {
@@ -379,26 +399,6 @@
    "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795091161,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Vakillar palatasidagi demokratlar Tramp Si va Putin sammitida nimalarga erishganini shubha ostiga qo'yishdi",
-   "summary": "Vakil Gregori Miks Trampning Si va Putin bilan sammitidan keyin AQSh ittifoqlari haqida xavotir bildirmoqda. Shuningdek, u Nvidia mojarosi fonida Xitoy josusligi haqida ham gapirmoqda.",
-   "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795087237,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Sun'iy intellekt giganti Anthropic rekord darajadagi IPOda 100 milliard dollardan ortiq mablag'ni jalb qildi",
-   "summary": "Mashhur Claude sun'iy intellekt modelini ishlab chiqaruvchi kompaniyaning aksiyalari payshanba kuni Nasdaq birjasida savdo qilishni boshlaydi.",
-   "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795082400,
    "date": "2026-11-19"
   },
   {
