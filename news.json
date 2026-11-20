@@ -1,55 +1,15 @@
 {
- "updated": "2026-11-20 02:26 UTC",
+ "updated": "2026-11-20 03:20 UTC",
  "items": [
   {
-   "title": "Follow live: Stroud delivers deep for 24-yard Boutte TD as Texans extend lead",
-   "summary": "null",
-   "link": "https://www.espn.com/nfl/story/_/id/50535018/colts-texans-highlights-best-plays-moments-touchdowns",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795141032,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
-   "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+   "title": "Sanoat hisob-kitoblariga ko'ra, GTA 6 rekord darajadagi savdo bilan 2 milliard dollardan oshdi",
+   "summary": "Rockstar Games 13 yillik kutishga tarixdagi eng katta ko'ngilochar ishga tushirish bilan yakun yasadi.",
    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "ok": false,
+   "ok": true,
    "cat": "Iqtisod",
    "source": "BBC",
-   "ts": 1795140785,
+   "ts": 1795143280,
    "date": "2026-11-20"
-  },
-  {
-   "title": "LSU president tells Wade not to play Luis amid eligibility battle",
-   "summary": "Wade Rousse said his decision -- a day after RJ Luis Jr. made his debut for the LSU men's basketball team -- came \"after further review.\"",
-   "link": "https://www.espn.com/mens-college-basketball/story/_/id/50535062/lsu-president-tells-wade-not-play-rj-luis-jr",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795136415,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Rams WR Nacua suspended 3 games, to serve while on IR",
-   "summary": "Los Angeles Rams standout wide receiver Puka Nacua has been suspended three games for violating the league's personal conduct policy, the NFL announced Thursday.",
-   "link": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795136415,
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Agents push back against 'fundamentally unfair' SEC standardized player contracts",
-   "summary": "The SEC's new uniform NIL and revenue sharing agreements are causing an uproar among agents concerned that the contracts are loaded with terms that are unfair.",
-   "link": "https://www.espn.com/college-football/story/_/id/50535591/sec-standardized-nil-contracts-unfair-players-agents-say",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795136415,
-   "date": "2026-11-19"
   },
   {
    "title": "Yevropa rahbarlari Ukrainadagi urushni tugatish bo'yicha Rossiya bilan muzokaralarga tayyorligini aytishdi",
@@ -62,10 +22,10 @@
    "date": "2026-11-20"
   },
   {
-   "title": "Why Canada is embracing AI data centres while the US pushes back",
-   "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+   "title": "Nima uchun Kanada AI ma'lumotlar markazlarini qabul qilmoqda, AQSh esa orqaga chekinmoqda",
+   "summary": "Shark Tank kompaniyasining Kevin O'Liri Kanadani ma'lumotlar markazini rivojlantirish yo'nalishi sifatida ko'rib chiqayotgan yirik investorlar qatorida, uning AQShdagi loyihasi esa mahalliy qarshilikka duch kelmoqda.",
    "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
-   "ok": false,
+   "ok": true,
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795133604,
