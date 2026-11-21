@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-21 13:27 UTC",
+ "updated": "2026-11-21 14:25 UTC",
  "items": [
+  {
+   "title": "Qotil robotlar: BMT muzokaralari qonuniy majburiy qoidalarga bo'lgan umidlarni oqlamadi",
+   "summary": "Jenevadagi BMT muzokaralari avtonom qurollar bo'yicha majburiy qoidalarni yetkaza olmadi, chunki gumanitar guruhlar harbiy sun'iy intellekt diplomatiyadan ancha tezroq rivojlanayotgani haqida ogohlantirmoqda.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795270697,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Melo Xamfrining Baltimordagi gaplariga e'tiroz bildirdi: Kechirimingizni amalda qo'llab-quvvatlang",
+   "summary": "NBAning sobiq yulduzi Karmelo Entoni \"Ravens\"ning himoyachisi Marlon Xamfrini Baltimor \"jinoyatchilarni yaratishda eng yaxshisi\" deganidan keyin uzr so'rashdan ko'ra ko'proq narsa qilishga undadi.",
+   "link": "https://www.espn.com/nfl/story/_/id/50548223/carmelo-anthony-calls-ravens-humphrey-baltimore-remark",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795270210,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Federal sud hay'ati Los-Anjelesdagi 2025-yilgi Palisades yong'inini qo'zg'atgan erkakni aybdor deb topdi",
+   "summary": "Prokurorlarning ta'kidlashicha, sudlanuvchi, 30 yoshli Jonatan Rinderknecht, 2025-yil yanvar oyida 12 kishining hayotiga zomin bo'lgan yong'indan oldingi kunlarda \"hamma narsaga jahli chiqqan\".",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795269513,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Reid Saintsga xayrlashuv taklifini yuboradi: \"Har doim ham siz rejalashtirgandek bo'lavermaydi\"",
+   "summary": "\"Saints\" jamoasi Jastin Reidning ozodlikka chiqish haqidagi iltimosini qondirdi va xavfsizlik xizmati ijtimoiy tarmoqlarda shunday post qoldirdi: \"Hayotda va sportda hamma narsa har doim ham siz rejalashtirgan yoki umid qilganingizdek bo'lavermaydi\".",
+   "link": "https://www.espn.com/nfl/story/_/id/50543025/justin-reid-posts-saints-farewell-team-works-release",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795269138,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Harden \"vintage\" o'yinida 51 ochko to'pladi va Kobedan o'tib, eng ko'p 50 ochko to'plagan uchinchi o'yin bo'ldi",
+   "summary": "Jeyms Harden faoliyatidagi 26-50 ochkolik o'yinni o'tkazdi va marhum Kobi Brayantni ortda qoldirib, NBA tarixida eng ko'p 50 ochkolik o'yinlar to'plagan uchinchi o'ringa ko'tarildi.",
+   "link": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795269137,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Udoka \"Rokets\"ni \"ruhiy jihatdan zaif\" deb tanqid qildi va \"Nuggets\"ga qarshi o'yinda mag'lubiyatdan so'ng himoyani buzdi",
+   "summary": "Murabbiy Ime Udoka \"Rokets\" jamoasining jismoniy tayyorgarligi va harakatlarining yetishmasligidan xafa bo'ldi, chunki ular \"Nuggets\"ga qarshi o'yinda mavsumdagi eng yuqori ochkoni qo'lga kiritishdi va himoyani \"men ko'rgan darajada yomon\" deb atadi.",
+   "link": "https://www.espn.com/nba/story/_/id/50549254/ime-udoka-frustrated-rockets-defense-loss-nuggets",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795269137,
+   "date": "2026-11-21"
+  },
   {
    "title": "Zelenskiy Qrim ko'prigi Buyuk Britaniyaning \"Streeting\" ko'rsatuvi bilan uchrashganida \"adolatli javob\" berganini aytdi",
    "summary": "Ukraina prezidentining aytishicha, Kiyev Rossiyaning Ukrainadagi ko'priklarga 109 ta alohida havo hujumidan keyin choralar ko'rgan.",
@@ -9,6 +69,16 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795267058,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "FQBning eng ko'p qidirilayotgan 10 kishi ro'yxatidagi meksikalik narkobaron otishmada hibsga olindi",
+   "summary": "Giyohvand moddalar savdosi va qiynoqlarda ayblangan Fausto Isidro \"Chapo Idisro\" Meza Flores rasmiylar bilan qurolli to'qnashuvdan so'ng hibsga olindi.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795266921,
    "date": "2026-11-21"
   },
   {
@@ -29,26 +99,6 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795266000,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Harden \"vintage\" o'yinida 51 ochko to'pladi va Kobedan o'tib, eng ko'p 50 ochko to'plagan uchinchi o'yin bo'ldi",
-   "summary": "Jeyms Harden faoliyatidagi 26-50 ochkolik o'yinni o'tkazdi va marhum Kobi Brayantni ortda qoldirib, NBA tarixida eng ko'p 50 ochkolik o'yinlar to'plagan uchinchi o'ringa ko'tarildi.",
-   "link": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795265407,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Udoka \"Rokets\"ni \"ruhiy jihatdan zaif\" deb tanqid qildi va \"Nuggets\"ga qarshi o'yinda mag'lubiyatdan so'ng himoyani buzdi",
-   "summary": "Murabbiy Ime Udoka \"Rokets\" jamoasining jismoniy tayyorgarligi va harakatlarining yetishmasligidan xafa bo'ldi, chunki ular \"Nuggets\"ga qarshi o'yinda mavsumdagi eng yuqori ochkoni qo'lga kiritishdi va himoyani \"men ko'rgan darajada yomon\" deb atadi.",
-   "link": "https://www.espn.com/nba/story/_/id/50549254/ime-udoka-frustrated-rockets-defense-loss-nuggets",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795265407,
    "date": "2026-11-21"
   },
   {
@@ -106,7 +156,7 @@
    "summary": "Sun'iy intellekt giganti Anthropic kompaniyasida ishlaydigan matematik, kompaniyaning AI vositasi Claude yordamida matematika masalalarining Muqaddas Qadahini yechganini da'vo qilmoqda. Bu so'nggi ikki marta qabul qilindi.",
    "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795264216,
    "date": "2026-11-21"
@@ -119,16 +169,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795263873,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Kun tugaganidan keyin \"ish miyangizni\" o'chirishning 5 usuli",
-   "summary": "Ishdagi muammolaringiz uyingizga ergashishiga yo'l qo'ymang. Psixolog Gay Vinch sizga soat 9 dan 5 gacha bo'lgan vaqtingiz haqida o'ylashni to'xtatishga yordam beradigan usullar bilan o'rtoqlashadi, shunda siz haqiqatan ham muhim bo'lgan narsalarga e'tibor qaratishingiz mumkin.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "NPR",
-   "ts": 1795255260,
    "date": "2026-11-21"
   },
   {
@@ -182,16 +222,6 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Harden Bryantni 50 ochkolik o'yinlarga ortda qoldirdi",
-   "summary": "Jeyms Harden NBA kubogi finalida \"Klivlend Kavalyers\" jamoasi \"Indiana Pacers\"ni 128-119 hisobida mag'lub etib, 50 ochkolik o'yinlar bilan NBA tarixidagi uchinchi o'ringa ko'tarildi.",
-   "link": "https://www.bbc.co.uk/sport/basketball/articles/cwx2e8y1lr8lo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795252218,
-   "date": "2026-11-21"
-  },
-  {
    "title": "\"Kimdir bu yigitga qarshi turishi kerak\" - va Rassellning Vegasda o'z imkoniyati bor",
    "summary": "Jorj Rassel va Maks Verstappen o'rtasidagi mojaro Las-Vegasda yana bir bor yuzaga keldi va ular birinchi qatordan start oladigan poygaga jon bag'ishladi.",
    "link": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
@@ -209,26 +239,6 @@
    "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795248481,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Tennessi, Big Ten yo'l sinovlari va boshqa 40 ta muhim musobaqa uchun qiyin sinov",
-   "summary": "Vols va Lane Kiffin yana uchrashishadi va CFPning chet ellik da'vogarlari 12-haftaning hiyla-nayrangli jadvalida omon qolishga harakat qilishadi.",
-   "link": "https://www.espn.com/college-football/story/_/id/50532397/connelly-week-12-preview-big-ten-tennessee",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795241157,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "O'yin kunining boshlanishi: 12-haftaga tayyorlanish va Jeremiah Smithning buyukligini qadrlash",
-   "summary": "Bu dam olish kunlari nima kutish kerak, eng yaxshi o'yinlar va o'yinchilardan tortib, shoshilinch vaziyatga tushib qolgan jamoalargacha.",
-   "link": "https://www.espn.com/college-football/story/_/page/gamedaykickoff111926/week-12-top-games-upsets-preview",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795241157,
    "date": "2026-11-21"
   },
   {
@@ -256,7 +266,7 @@
    "summary": "Anthropic matematikasi mashhur Riman gipotezasini isbotlash uchun sun'iy intellektdan foydalanganini aytdi, ammo tasdiqlash biroz vaqt talab etadi.",
    "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795216137,
    "date": "2026-11-20"
@@ -352,6 +362,16 @@
    "date": "2026-11-20"
   },
   {
+   "title": "Osimhen \"Manchester Yunayted\"ga o'tishni istamoqda - shanba kungi mish-mishlar",
+   "summary": "Viktor Osimxen \"Manchester Yunayted\"ga o'tishni istamoqda, \"Aston Villa\" Amad Dialloga qiziqmoqda va Ivan Toney \"Kristal Pelas\"ning nishonida.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795205211,
+   "date": "2026-11-20"
+  },
+  {
    "title": "Oq uy ketma-ket texnik uzilishlar tufayli kiberxavfsizlik boshlig'ini ishdan bo'shatdi",
    "summary": "CBS telekanali xabar berishicha, u Oq uy apparati rahbari Stiven Millerning ishonchini yo'qotgani uchun ishdan bo'shatilgan.",
    "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
@@ -379,16 +399,6 @@
    "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795192912,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Tramp Si Szinpin va Putin bilan uchrashuvdan so'ng matbuot anjumani o'tkazadi",
-   "summary": "Tramp Xitoyga safari oxirida rasman savollarga javob bermadi, garchi bu odatda prezidentning xorijiy safarlarida kutilsa ham.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795186800,
    "date": "2026-11-20"
   },
   {
@@ -430,16 +440,6 @@
    "source": "BBC",
    "ts": 1795132927,
    "date": "2026-11-20"
-  },
-  {
-   "title": "Anthropic fond bozorida debyut qilganida dunyodagi eng qimmatli ommaviy kompaniyalardan biriga aylandi",
-   "summary": "Anthropic ommaviy ravishda ro'yxatga olingan birinchi sof sun'iy intellekt kompaniyasi bo'lib, butun sanoat uchun sinov bo'ldi.",
-   "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795131231,
-   "date": "2026-11-19"
   },
   {
    "title": "Jorjiya shtatining Fulton okrugidagi qamoqxona rahbariyati mahbusning o'limi va antisanitariya sharoitlari ayblovlaridan so'ng iste'foga chiqdi",
