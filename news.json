@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 08:51 UTC",
+ "updated": "2026-11-21 09:46 UTC",
  "items": [
   {
    "title": "\"Kimdir bu yigitga qarshi turishi kerak\" - va Rassellning Vegasda o'z imkoniyati bor",
@@ -32,16 +32,6 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Cumminsning yaxlitligi buzilmaydi - Cricket Australia",
-   "summary": "Avstraliya kriket jamoasi sardor Pat Kamminsning yaxlitligi zımpara bilan bog'liq mojaro tufayli buzilganligi haqidagi taxminni \"aniq rad etdi\".",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795247706,
-   "date": "2026-11-21"
-  },
-  {
    "title": "Qazilma yoqilg'ilar bo'yicha kurash COP31 iqlim muzokaralarini boshi berk ko'chaga olib keldi",
    "summary": "200 ga yaqin davlatdan kelgan mamlakatlar yangi global iqlim kelishuviga erishishga urinishda boshi berk ko'chada.",
    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
@@ -52,13 +42,23 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Milibandning aytishicha, Yevropa Ittifoqi bilan kelishuv o'qish to'lovlari bo'yicha kelishuvga bog'liq emas",
-   "summary": "Bryussel manbalari ilgari Britaniyadagi Yevropa Ittifoqi talabalari uchun to'lovlar kamaytirilmaguncha, blok kengroq kelishuvni qo'llamasligi mumkinligini taxmin qilishgan edi.",
-   "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+   "title": "Hujumda qo'lini qutqarib qolgan do'stlarini yo'qotgan sportchi \"buni yana takrorlagan bo'lardi\"",
+   "summary": "Ismael Ox 11 yoshida do'stlarini granatadan himoya qilishga urinayotganda qo'lini yo'qotdi va hozirda AQSh nomidan para-taekvondo bo'yicha musobaqalarda qatnashmoqda.",
+   "link": "https://www.bbc.co.uk/sport/taekwondo/articles/crpdwljj0v89o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795242906,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Los-Anjelesda Palisadesda yong'in uyushtirganlikda aybdor deb topilgan erkak sudlandi",
+   "summary": "30 yoshli Los-Anjeleslik fuqaro 12 kishining hayotiga zomin bo'lgan va 6800 dan ortiq binoni vayron qilgan o'rmon yong'inlariga olib kelgan o't qo'yishda aybdor deb topildi.",
+   "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795240809,
+   "ts": 1795235640,
    "date": "2026-11-21"
   },
   {
