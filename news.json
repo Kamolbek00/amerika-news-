@@ -1,15 +1,55 @@
 {
- "updated": "2026-11-21 23:14 UTC",
+ "updated": "2026-11-21 23:57 UTC",
  "items": [
   {
-   "title": "Kunning eng yaxshi o'yini",
-   "summary": "Premer-liganing yettita o'yinidan olingan eng yaxshi lavhalar, jumladan, peshqadam \"Arsenal\" va \"Nyukasl\" o'rtasidagi o'yin.",
-   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "title": "FQBning eng ko'p qidirilayotgan 10 kishi ro'yxatidagi meksikalik narkobaron otishmada hibsga olindi",
+   "summary": "Giyohvand moddalar savdosi va qiynoqlarda ayblangan Fausto Isidro \"Chapo Idisro\" Meza Flores rasmiylar bilan qurolli to'qnashuvdan so'ng hibsga olindi.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795303877,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "\"Bu ular uchun\": Huskers jamoasi Ogayo shtati ustidan qozonilgan seriyali g'alabani muxlislarga bag'ishladi",
+   "summary": "Nebraska shanba kuni AP Top 25 raqiblariga qarshi 31 o'yinlik mag'lubiyat seriyasini 16-raqamli Ogayo shtati ustidan 31-28 hisobida g'alaba qozonib, to'xtatdi.",
+   "link": "https://www.espn.com/college-football/story/_/id/50553426/nebraska-snaps-ap-top-25-losing-skid-upsets-ohio-state",
    "ok": true,
    "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795338000,
-   "date": "2026-11-22"
+   "source": "ESPN",
+   "ts": 1795303854,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Herroning 50 ochkosiga qaramay, 76ers yana omon qoldi",
+   "summary": "\"76ers\" jamoasi Tayler Herrodan 50 ochko ortda qoldirib, o'yin oxirida 10 ochkolik farqni yo'qotishga yaqinlashdi va yana bir bor g'alaba qozondi.",
+   "link": "https://www.espn.com/nba/story/_/id/50555316/76ers-survive-clutch-again-tyler-herro-50",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795303854,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "15-jamoada yangi Cardinals QB Jonson Beckni maydonga tushirmagan holda maydonga tushishga tayyor.",
+   "summary": "Cardinals jamoasining yangi o'yinchisi, yarim himoyachi Karson Bekning o'yin darajasi pasaydi va bu 40 yoshli Josh Jonsonga Chiefsga qarshi o'yinda asosiy tarkibda maydonga tushish imkonini berdi.",
+   "link": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795303854,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Titans DL Harrell Tampa shahrida avtohalokatdan so'ng kasalxonaga yotqizildi",
+   "summary": "Jamoa ma'lumotlariga ko'ra, Titans himoya chizig'i o'yinchisi Jaylen Harrell juma kuni jiddiy avtohalokatga uchradi va kasalxonada qolmoqda.",
+   "link": "https://www.espn.com/nfl/story/_/id/50551434/titans-dl-jaylen-harrell-hospitalized-car-accident-tampa",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795303854,
+   "date": "2026-11-21"
   },
   {
    "title": "Tramp federal pudratchilarga Kongressga javob berishdan oldin Oq uy bilan tekshirishni buyurdi",
@@ -72,16 +112,6 @@
    "date": "2026-11-21"
   },
   {
-   "title": "FQBning eng ko'p qidirilayotgan 10 kishi ro'yxatidagi meksikalik narkobaron otishmada hibsga olindi",
-   "summary": "Giyohvand moddalar savdosi va qiynoqlarda ayblangan Fausto Isidro \"Chapo Idisro\" Meza Flores rasmiylar bilan qurolli to'qnashuvdan so'ng hibsga olindi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795295129,
-   "date": "2026-11-21"
-  },
-  {
    "title": "Bayer kompaniyaga milliardlab dollarga tushishi mumkin bo'lgan Roundup kelishuviga erishdi",
    "summary": "Bu pul gerbitsid bilan bog'liq qon saratoni - Xodjkin bo'lmagan limfoma tashxisi qo'yilgan yoki qo'yilishi mumkin bo'lgan minglab odamlarga beriladi.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
@@ -119,6 +149,16 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795291142,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "\"Koventri\" Frankning so'nggi daqiqalardagi avtogolidan so'ng birinchi o'yinida \"Palas\"ni mag'lub etdi",
+   "summary": "85-daqiqada Duayt Maknilning avtogoli \"Koventri Siti\"ga 3:2 hisobida g'alaba keltirdi va Tomas Frankning \"Kristal Pelas\"dagi birinchi o'yini mag'lubiyat bilan yakunlandi.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795291132,
    "date": "2026-11-21"
   },
   {
@@ -242,9 +282,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
-   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
+   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
@@ -252,9 +292,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
-   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
+   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
