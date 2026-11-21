@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 16:09 UTC",
+ "updated": "2026-11-21 16:58 UTC",
  "items": [
   {
    "title": "Sobiq kapitan Mudi Angliyaga qo'shilib, hissiy haka javobini berdi",
@@ -8,7 +8,87 @@
    "ok": true,
    "cat": "Sport",
    "source": "BBC",
-   "ts": 1795273428,
+   "ts": 1795279375,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "FQB o'zining jinoiy ma'lumotlar bazasiga qilingan hujumni tekshirayotgani haqida xabar berilgan",
+   "summary": "Milliy jinoyatchilik haqida ma'lumot markazi ma'lumotlar bazasi federal va mahalliy huquqni muhofaza qilish organlari tomonidan ma'lumot almashish uchun ishlatiladi.",
+   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795278915,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Makkonnell Shotlandiyaning 11 ta urinishida Yaponiyani mag'lub etishiga sabab bo'ldi",
+   "summary": "Liam Makkonnellning xet-trigi Shotlandiyaga ilhom bag'ishladi va Myurreyfildda Yaponiyani 11 ta gol bilan mag'lub etdi.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2x00w08keo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795278191,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Ajoyib Angliya Yangi Zelandiya ustidan rekord darajadagi g'alabaga erishdi",
+   "summary": "Angliya terma jamoasining o'yini yangilanib, sobiq sardor Lyuis Mudi mezbonlarning hakaga javob qaytarishiga sabab bo'ldi. Ular Yangi Zelandiyani rekord farq bilan mag'lub etishdi.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795277339,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Fernandes yutqazdi, Anderson gol urdi - \"Man Siti\"ning 327 million funt sterlinglik yarim himoya muammosi",
+   "summary": "\"Manchester Siti\" yozda yarim himoya chizig'ini ta'mirlash uchun 327 million funt sterling sarfladi - ammo Enzo Mareska qanday qilib to'g'ri muvozanatni topadi?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795277239,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Melo Xamfrining Baltimordagi gaplariga e'tiroz bildirdi: Kechirimingizni amalda qo'llab-quvvatlang",
+   "summary": "NBAning sobiq yulduzi Karmelo Entoni \"Ravens\"ning himoyachisi Marlon Xamfrini Baltimor \"jinoyatchilarni yaratishda eng yaxshisi\" deganidan keyin uzr so'rashdan ko'ra ko'proq narsa qilishga undadi.",
+   "link": "https://www.espn.com/nfl/story/_/id/50548223/carmelo-anthony-calls-ravens-humphrey-baltimore-remark",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795275225,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Manbalar: Qiyin ahvolda qolgan Aggies Reedni zaxira o'rindig'iga qo'yishi va Hart va Sooners o'rtasidagi o'yinni boshlashi kutilmoqda.",
+   "summary": "Texas A&M jamoasi chorak himoyachi sifatida o'zgarishi kutilmoqda, ikkinchi kurs talabasi Bredi Xart Oklaxomaga qarshi o'yinda Marsel Rid o'rniga maydonga tushadi, deb xabar beradi manbalar ESPNga.",
+   "link": "https://www.espn.com/college-football/story/_/id/50549670/sources-texas-expected-bench-marcel-reed-vs-sooners",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795274322,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Manbalar: Michigan Underwoodni Carr va UCLA o'rtasidagi o'yindan ustun qo'yishi kutilmoqda",
+   "summary": "Michigan yana chorak himoyachi sifatida o'zgarish qilmoqda va Tommi Karr so'nggi to'rtta o'yinda maydonga tushganidan so'ng, 4-raqamli UCLAga qarshi Bryce Underwoodga qaytmoqda, deb xabar beradi manbalar ESPNga.",
+   "link": "https://www.espn.com/college-football/story/_/id/50549879/sources-michigan-expected-start-bryce-underwood-vs-ucla",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795274322,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Gil, '24 AL yilning eng yaxshi yangi o'yinchisi, MLB tenderining oxirgi muddatida Yankees tomonidan bo'shatildi",
+   "summary": "\"Yankees\" jamoasi juma kuni bo'lib o'tadigan tender muddati tugagunga qadar 2027-yilgi shartnomalarni taklif qilishdan bosh tortgan 44 nafar futbolchi qatorida ALning \"Yilning eng yaxshi yangi o'yinchisi\" Luis Gilni ham qo'yib yubordi.",
+   "link": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795274322,
    "date": "2026-11-21"
   },
   {
@@ -22,16 +102,6 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Anderson oldinga o'tdi, Berge taassurot qoldirdi - \"Man Siti\" - \"Fulxem\" o'yini uchun o'yinchilar reytingi",
-   "summary": "\"Manchester Siti\" va \"Fulxem\" futbolchilari Premer-ligadagi o'yinda qanday baho berishdi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqwy06p44g3no?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795270891,
-   "date": "2026-11-21"
-  },
-  {
    "title": "Qotil robotlar: BMT muzokaralari qonuniy majburiy qoidalarga bo'lgan umidlarni oqlamadi",
    "summary": "Jenevadagi BMT muzokaralari avtonom qurollar bo'yicha majburiy qoidalarni yetkaza olmadi, chunki gumanitar guruhlar harbiy sun'iy intellekt diplomatiyadan ancha tezroq rivojlanayotgani haqida ogohlantirmoqda.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
@@ -39,6 +109,16 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795270697,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Sudya Roundup saraton kasalligiga qarshi dori vositasi bilan bog'liq da'volar bo'yicha 7,25 milliard dollarlik kelishuvni ma'qulladi",
+   "summary": "To'lov Bayer tomonidan allaqachon Xodjkin bo'lmagan limfoma bilan kasallangan va kelajakda kasal bo'lib qoladigan foydalanuvchilarga to'lanadi.",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795269723,
    "date": "2026-11-21"
   },
   {
@@ -66,7 +146,7 @@
    "summary": "Giyohvand moddalar savdosi va qiynoqlarda ayblangan Fausto Isidro \"Chapo Idisro\" Meza Flores rasmiylar bilan qurolli to'qnashuvdan so'ng hibsga olindi.",
    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795266921,
    "date": "2026-11-21"
@@ -142,16 +222,6 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Avstraliyalik Chaudhary T20da Angliyani birinchi bo'lib mag'lub etdi",
-   "summary": "Avstraliya terma jamoasining ehtimoliy o'yinchisi Nikhil Chaudhary Angliyani larzaga keltirdi va birinchi T20 musobaqasida keskin va qo'rqinchli finalda g'alaba qozondi.",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795263873,
-   "date": "2026-11-21"
-  },
-  {
    "title": "Saylovchilar hay'atini chetlab o'tishga urinish mumkin. Ammo to'siqlar hali ham mavjud",
    "summary": "Faqat xalq ovozi g'oliblari prezident bo'lishini ta'minlashga qaratilgan milliy sa'y-harakatlar yaqin orada muhim bosqichga erishishi mumkin.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
@@ -179,26 +249,6 @@
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795255200,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "FQB o'zining jinoiy ma'lumotlar bazasiga qilingan hujumni tekshirayotgani haqida xabar berilgan",
-   "summary": "Milliy jinoyatchilik haqida ma'lumot markazi ma'lumotlar bazasi federal va mahalliy huquqni muhofaza qilish organlari tomonidan ma'lumot almashish uchun ishlatiladi.",
-   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795253660,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "\"Kimdir bu yigitga qarshi turishi kerak\" - va Rassellning Vegasda o'z imkoniyati bor",
-   "summary": "Jorj Rassel va Maks Verstappen o'rtasidagi mojaro Las-Vegasda yana bir bor yuzaga keldi va ular birinchi qatordan start oladigan poygaga jon bag'ishladi.",
-   "link": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795248838,
    "date": "2026-11-21"
   },
   {
@@ -256,7 +306,7 @@
    "summary": "Aksiya bozorlari keng miqyosda pasayib borayotgani sababli, boshqa texnologik kompaniyalar ham zarar ko'rdi.",
    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795214567,
    "date": "2026-11-20"
@@ -386,19 +436,9 @@
    "summary": "Ipoteka, avtomobil krediti yoki mobil telefon shartnomasini olish kerakmi yoki yo'qligini aniqlash uchun sun'iy intellekt yaxshi baho beradimi?",
    "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795159939,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Buyuk Britaniyada o'n minglab muzlatgichlar xakerlardan butun mamlakat bo'ylab maxfiy operatsiya orqali himoyalangan",
-   "summary": "Supermarketlar, omborlar, restoranlar va stadionlar o'z qurilmalarini xavfsiz qilish uchun tinimsiz harakat qilishmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
    "cat": "Texnologiya",
    "source": "BBC",
-   "ts": 1795132927,
+   "ts": 1795159939,
    "date": "2026-11-20"
   },
   {
