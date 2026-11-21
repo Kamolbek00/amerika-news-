@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-21 09:46 UTC",
+ "updated": "2026-11-21 10:34 UTC",
  "items": [
+  {
+   "title": "Kun tugaganidan keyin \"ish miyangizni\" o'chirishning 5 usuli",
+   "summary": "Ishdagi muammolaringiz uyingizga ergashishiga yo'l qo'ymang. Psixolog Gay Vinch sizga soat 9 dan 5 gacha bo'lgan vaqtingiz haqida o'ylashni to'xtatishga yordam beradigan usullar bilan o'rtoqlashadi, shunda siz haqiqatan ham muhim bo'lgan narsalarga e'tibor qaratishingiz mumkin.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795255260,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
+   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795255200,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
+   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795255200,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Saylovchilar hay'atini chetlab o'tishga urinish mumkin. Ammo to'siqlar hali ham mavjud",
+   "summary": "Faqat xalq ovozi g'oliblari prezident bo'lishini ta'minlashga qaratilgan milliy sa'y-harakatlar yaqin orada muhim bosqichga erishishi mumkin.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795255200,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Qazilma yoqilg'ilar bo'yicha kurash COP31 iqlim muzokaralarini boshi berk ko'chaga olib keldi",
+   "summary": "200 ga yaqin davlatdan kelgan mamlakatlar yangi global iqlim kelishuviga erishishga urinishda boshi berk ko'chada.",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795254731,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "FQB o'zining jinoiy ma'lumotlar bazasiga qilingan hujumni tekshirayotgani haqida xabar berilgan",
+   "summary": "Milliy jinoyatchilik haqida ma'lumot markazi ma'lumotlar bazasi federal va mahalliy huquqni muhofaza qilish organlari tomonidan ma'lumot almashish uchun ishlatiladi.",
+   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795253660,
+   "date": "2026-11-21"
+  },
   {
    "title": "\"Kimdir bu yigitga qarshi turishi kerak\" - va Rassellning Vegasda o'z imkoniyati bor",
    "summary": "Jorj Rassel va Maks Verstappen o'rtasidagi mojaro Las-Vegasda yana bir bor yuzaga keldi va ular birinchi qatordan start oladigan poygaga jon bag'ishladi.",
@@ -26,19 +86,9 @@
    "summary": "Sun'iy intellektga asoslangan qotil robotlar va dronlar uchun qoidalarni o'rnatishga urinishlar muvaffaqiyatsizlikka uchradi. Jenevada BMT tomonidan qo'llab-quvvatlangan muzokaralar shanba kuni muzokaralarni yana ikki yilga uzaytirish to'g'risidagi kelishuv bilan yakunlandi.",
    "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795248481,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Qazilma yoqilg'ilar bo'yicha kurash COP31 iqlim muzokaralarini boshi berk ko'chaga olib keldi",
-   "summary": "200 ga yaqin davlatdan kelgan mamlakatlar yangi global iqlim kelishuviga erishishga urinishda boshi berk ko'chada.",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795246265,
    "date": "2026-11-21"
   },
   {
@@ -49,16 +99,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795242906,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Los-Anjelesda Palisadesda yong'in uyushtirganlikda aybdor deb topilgan erkak sudlandi",
-   "summary": "30 yoshli Los-Anjeleslik fuqaro 12 kishining hayotiga zomin bo'lgan va 6800 dan ortiq binoni vayron qilgan o'rmon yong'inlariga olib kelgan o't qo'yishda aybdor deb topildi.",
-   "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795235640,
    "date": "2026-11-21"
   },
   {
@@ -136,7 +176,7 @@
    "summary": "Sun'iy intellekt aksiyalari katta bozor qiymatiga ega va bozor yo'nalishiga ancha katta ta'sir ko'rsatadi. Ular Wall Streetning bu yilgi katta daromadlari uchun javobgar edi va endi bozorning katta pasayishi ortida.",
    "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795212689,
    "date": "2026-11-20"
@@ -166,7 +206,7 @@
    "summary": "Prezident Tramp Osiyoga tarixiy safari yakunida Xitoy Prezidenti Si Szinpin va Rossiya Prezidenti Putin bilan uchrashganidan so'ng keng ko'lamli matbuot anjumani o'tkazdi.",
    "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795210701,
    "date": "2026-11-20"
@@ -179,16 +219,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795210694,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Dengiz sathining ko'tarilishi ushbu Quinault qishlog'ini boshqa joyga ko'chirishga majbur qildi",
-   "summary": "Quinault hind millati o'zining eng katta qishlog'ini dengiz sathi ko'tarilishi va tsunamidan uzoqlashtirdi",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "NPR",
-   "ts": 1795210693,
    "date": "2026-11-20"
   },
   {
@@ -282,16 +312,6 @@
    "date": "2026-11-20"
   },
   {
-   "title": "Texasda qatl qilish bir soatdan ko'proq vaqt davom etdi, chunki xodimlar tomirni topishga qiynalmoqda; Reynaldo Dennes og'riqdan nolidi",
-   "summary": "Dennesga o'limga olib keladigan in'ektsiya qilingan kuni Florida shtati yilning rekord darajadagi 20-qatlini amalga oshirdi.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795177480,
-   "date": "2026-11-20"
-  },
-  {
    "title": "Demokratlar Eron urushini moliyalashtirishni to'xtatishga harakat qilmoqdalar. Va armiya Ayova shtatida qo'rg'oshin azidini portlatish jarayonini kechiktirdi",
    "summary": "Kongress kelasi oyda yopilishning oldini olish uchun moliyalashtirish chorasini qabul qilishi kerak, bu esa demokratlarga hokimiyatdan foydalanish imkoniyatini beradi. Armiya qo'rg'oshin azidini portlatishini kutish xavfli bo'lishi mumkinligini aytmoqda.",
    "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
@@ -332,16 +352,6 @@
    "date": "2026-11-20"
   },
   {
-   "title": "Tramp qanday qilib kriptovalyutada bunchalik boyib ketdi? Biz tushuntiramiz",
-   "summary": "Prezident Tramp ikkinchi muddatda milliardlab dollar ishlab topdi — uning asosiy qismi kriptovalyutalarda. Demokratlar kelasi yili Kongressni egallashga tayyorgarlik ko'rayotgan bir paytda uning biznesini tekshirishga va'da bermoqdalar.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "NPR",
-   "ts": 1795168800,
-   "date": "2026-11-20"
-  },
-  {
    "title": "Mutaxassislarning ta'kidlashicha, ma'lumotlar markazlarini quvvatlantirish ularni sovutishdan ko'ra ko'proq suv sarflaydi",
    "summary": "Ma'lumotlar markazlari suvidan foydalanish haqidagi xavotirlar, ayniqsa, Arizonada keskin. Ammo serverlarni salqin saqlash ma'lumotlar markazlari juda ko'p talab qiladigan elektr energiyasini ishlab chiqarishga qaraganda ancha kam suv sarflaydi.",
    "link": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
@@ -359,16 +369,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795167791,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Buyuk Britaniya va Yevropa Ittifoqi aloqalarni mustahkamlash uchun noyob sammit o'tkazmoqda",
-   "summary": "Buyuk Britaniya xalqi Yevropa Ittifoqidan chiqish uchun ovoz berganidan o'n yil o'tgach, Yevropa Ittifoqining yuqori lavozimli amaldorlari juma kuni Bosh vazir Endi Bernxem bilan ko'proq muammolarni hal qilish uchun uchrashmoqdalar.",
-   "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795166081,
    "date": "2026-11-20"
   },
   {
