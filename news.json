@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 22:27 UTC",
+ "updated": "2026-11-21 23:14 UTC",
  "items": [
   {
    "title": "Kunning eng yaxshi o'yini",
@@ -10,6 +10,16 @@
    "source": "BBC",
    "ts": 1795338000,
    "date": "2026-11-22"
+  },
+  {
+   "title": "Tramp federal pudratchilarga Kongressga javob berishdan oldin Oq uy bilan tekshirishni buyurdi",
+   "summary": "Prezident Tramp federal pudratchilarga Kongressdan kelayotgan so'rovlar bo'yicha Oq uy bilan maslahatlashishni va uning ma'muriyati imtiyozli deb hisoblagan har qanday xabarlarni yashirishni buyurmoqda.",
+   "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795300836,
+   "date": "2026-11-21"
   },
   {
    "title": "Qazilma yoqilg'ilar bo'yicha kurash COP31 iqlim muzokaralarini boshi berk ko'chaga olib keldi",
@@ -156,7 +166,7 @@
    "summary": "Jenevadagi BMT muzokaralari avtonom qurollar bo'yicha majburiy qoidalarni yetkaza olmadi, chunki gumanitar guruhlar harbiy sun'iy intellekt diplomatiyadan ancha tezroq rivojlanayotgani haqida ogohlantirmoqda.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795270697,
    "date": "2026-11-21"
@@ -379,16 +389,6 @@
    "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795192912,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Mutaxassislarning ta'kidlashicha, ma'lumotlar markazlarini quvvatlantirish ularni sovutishdan ko'ra ko'proq suv sarflaydi",
-   "summary": "Ma'lumotlar markazlari suvidan foydalanish haqidagi xavotirlar, ayniqsa, Arizonada keskin. Ammo serverlarni salqin saqlash ma'lumotlar markazlari juda ko'p talab qiladigan elektr energiyasini ishlab chiqarishga qaraganda ancha kam suv sarflaydi.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795167819,
    "date": "2026-11-20"
   },
   {
