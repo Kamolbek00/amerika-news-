@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 10:34 UTC",
+ "updated": "2026-11-21 11:27 UTC",
  "items": [
   {
    "title": "Kun tugaganidan keyin \"ish miyangizni\" o'chirishning 5 usuli",
@@ -62,6 +62,36 @@
    "date": "2026-11-21"
   },
   {
+   "title": "Harden Bryantni 50 ochkolik o'yinlarga ortda qoldirdi",
+   "summary": "Jeyms Harden NBA kubogi finalida \"Klivlend Kavalyers\" jamoasi \"Indiana Pacers\"ni 128-119 hisobida mag'lub etib, 50 ochkolik o'yinlar bilan NBA tarixidagi uchinchi o'ringa ko'tarildi.",
+   "link": "https://www.bbc.co.uk/sport/basketball/articles/cwx2e8y1lr8lo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795252218,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "\"Oltin to'p\" sohibi Keyn \"Bavariya\" bilan durang o'yinda to'pig'idan olgan jarohatidan so'ng bir necha oy davomida safdan chiqdi",
+   "summary": "\"Oltin to'p\" sohibi Harri Keyn \"Bavariya\"ning \"Kyoln\"ga qarshi o'yinida chap to'pig'idagi jarohati tufayli bir necha oyga safdan chiqishi mumkin.",
+   "link": "https://www.espn.com/soccer/story/_/id/50543079/harry-kane-injury-bayern-munich",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795251533,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Harden \"vintage\" o'yinida 51 ochko to'pladi va Kobedan o'tib, eng ko'p 50 ochko to'plagan uchinchi o'yin bo'ldi",
+   "summary": "Jeyms Harden faoliyatidagi 26-50 ochkolik o'yinni o'tkazdi va marhum Kobi Brayantni ortda qoldirib, NBA tarixida eng ko'p 50 ochkolik o'yinlar to'plagan uchinchi o'ringa ko'tarildi.",
+   "link": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795251532,
+   "date": "2026-11-21"
+  },
+  {
    "title": "\"Kimdir bu yigitga qarshi turishi kerak\" - va Rassellning Vegasda o'z imkoniyati bor",
    "summary": "Jorj Rassel va Maks Verstappen o'rtasidagi mojaro Las-Vegasda yana bir bor yuzaga keldi va ular birinchi qatordan start oladigan poygaga jon bag'ishladi.",
    "link": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
@@ -102,6 +132,26 @@
    "date": "2026-11-21"
   },
   {
+   "title": "Tennessi, Big Ten yo'l sinovlari va boshqa 40 ta muhim musobaqa uchun qiyin sinov",
+   "summary": "Vols va Lane Kiffin yana uchrashishadi va CFPning chet ellik da'vogarlari 12-haftaning hiyla-nayrangli jadvalida omon qolishga harakat qilishadi.",
+   "link": "https://www.espn.com/college-football/story/_/id/50532397/connelly-week-12-preview-big-ten-tennessee",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795241157,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "O'yin kunining boshlanishi: 12-haftaga tayyorlanish va Jeremiah Smithning buyukligini qadrlash",
+   "summary": "Bu dam olish kunlari nima kutish kerak, eng yaxshi o'yinlar va o'yinchilardan tortib, shoshilinch vaziyatga tushib qolgan jamoalargacha.",
+   "link": "https://www.espn.com/college-football/story/_/page/gamedaykickoff111926/week-12-top-games-upsets-preview",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795241157,
+   "date": "2026-11-21"
+  },
+  {
    "title": "Ular hibsga olingan migrantlarni aldaganliklari uchun 811 million dollar jarimaga tortildi, ammo firibgarliklar to'xtamadi",
    "summary": "Sudlangan firibgarlar qanday qilib hibsga olingan immigrantlardan millionlab pul ishlab topishgan, garov puli bilan bog'liq bizneslarini yopishga urinishdan qochib, migrantlarni panjara ortiga tashlab ketishgan.",
    "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
@@ -120,16 +170,6 @@
    "source": "BBC",
    "ts": 1795219571,
    "date": "2026-11-21"
-  },
-  {
-   "title": "Prays Kotaskovani mag'lub etib, mutlaq chempionga aylandi",
-   "summary": "Lauren Prays Michaela Kotaskovani mag'lub etib, yarim o'rta vazn toifasida jahon chempioni unvoniga sazovor bo'ldi va tarixdagi o'rnini mustahkamladi.",
-   "link": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795217456,
-   "date": "2026-11-20"
   },
   {
    "title": "Sun'iy intellekt matematika masalalarini yechgan bir yil ichida Anthropic eng katta muammolarni yechgan bo'lishi mumkin",
