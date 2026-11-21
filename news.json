@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-20 23:27 UTC",
+ "updated": "2026-11-21 00:22 UTC",
  "items": [
+  {
+   "title": "Sun'iy intellekt Qora Juma kunidagi takliflarni aniqlashga chindan ham yordam bera oladimi? Biz buni sinovdan o'tkazdik",
+   "summary": "Biz yangi televizor sotib olishda pulni tejashga qodirmi yoki yo'qligini bilish uchun to'rtta sun'iy intellekt modelini sinovdan o'tkazdik.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "BBC",
+   "ts": 1795219571,
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Prays Kotaskovani mag'lub etib, mutlaq chempionga aylandi",
+   "summary": "Lauren Prays Michaela Kotaskovani mag'lub etib, yarim o'rta vazn toifasida jahon chempioni unvoniga sazovor bo'ldi va tarixdagi o'rnini mustahkamladi.",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795217456,
+   "date": "2026-11-20"
+  },
   {
    "title": "\"Manchester Yunayted\" murabbiylarni yollash va ishdan bo'shatish xarajatlari 100 million funt sterlingga yaqinlashdi",
    "summary": "\"Manchester Yunayted\" Maurisio Pochettinoning yangi bosh murabbiy bo'lishini tasdiqlaganidan uch kun o'tgach, 10 million funt sterling qarz oldi, bu esa ularga US Soccerga 7,5 million funt sterling miqdorida kompensatsiya to'lashga majbur qiladi.",
@@ -59,16 +79,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795214195,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Prays match dartlaridan omon qoldi va \"Katta dubulg'a\" yarim finaliga chiqdi",
-   "summary": "Gervin Prays ikkita match dart bilan to'qnash keladi va keyin Katta Dubulg'a musobaqasida Niko Springerga qarshi ajoyib chorak finalda g'alaba qozonadi, Lyuk Littlerning g'olibi Jermayn Vattimena esa nokautga uchraydi.",
-   "link": "https://www.bbc.co.uk/sport/darts/articles/ck7928yjd1dgo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795213834,
    "date": "2026-11-20"
   },
   {
@@ -380,16 +390,6 @@
    "source": "BBC",
    "ts": 1795132927,
    "date": "2026-11-20"
-  },
-  {
-   "title": "Anthropic fond bozorida debyut qilganida dunyodagi eng qimmatli ommaviy kompaniyalardan biriga aylandi",
-   "summary": "Anthropic ommaviy ravishda ro'yxatga olingan birinchi sof sun'iy intellekt kompaniyasi bo'lib, butun sanoat uchun sinov bo'ldi.",
-   "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795131231,
-   "date": "2026-11-19"
   },
   {
    "title": "Sun'iy intellekt giganti Anthropic aksiyalari blokbaster IPOdan so'ng debyut qildi",
