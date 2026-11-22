@@ -1,14 +1,24 @@
 {
- "updated": "2026-11-22 22:52 UTC",
+ "updated": "2026-11-22 23:40 UTC",
  "items": [
   {
-   "title": "Kunning eng yaxshi o'yini",
-   "summary": "\"Liverpul\" - \"Manchester Yunayted\" va \"Xall Siti\" - \"Brayton\" uchrashuvlarining eng yaxshi lavhalari.",
-   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "title": "\"Voy\" o'yinchi - nima uchun Ngumoha allaqachon Liverpul o'yinini o'zgartiruvchi omilga aylangan",
+   "summary": "\"Kun o'yini\" eksperti Denni Merfi Rio Ngumoha \"Liverpul\"ning \"Manchester Yunayted\" ustidan qozonilgan 4:0 hisobidagi g'alabasida barchaga o'zining nimalarga qodirligini qanday ko'rsatganini tushuntirdi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Sport",
    "source": "BBC",
-   "ts": 1795389776,
+   "ts": 1795389616,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Muzokaralar barbod bo'lgan bir paytda iqlim konferensiyasi qanday o'tadi",
+   "summary": "Ikki haftalik muzokaralardan so'ng, xalqaro iqlim muzokaralari kelishuvga erisha olmadi. NPR muxbiri Reychel Valdxolts konferensiya uchun Turkiyada edi.",
+   "link": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795387223,
    "date": "2026-11-22"
   },
   {
@@ -146,7 +156,7 @@
    "summary": "Turkiyaning Antaliya shahrida COP31 - yillik iqlim muzokaralari uchun 200 ga yaqin davlat yig'ildi. Qazilma yoqilg'ilarning asosiy omili bo'lgan qazilma yoqilg'ilar bo'yicha mojarodan so'ng mamlakatlar kelishuvga erisha olmadilar.",
    "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795365202,
    "date": "2026-11-22"
@@ -259,16 +269,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795298500,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Janubiy Amerikadagi tarixiy oyni yoritishning diqqatga sazovor joylari va qiyinchiliklari",
-   "summary": "NPRning Janubiy Amerika muxbiri tarixiy saylovlardagi muvaffaqiyatsizlik va papa tashrifini yoritishdagi faoliyati haqida gapirdi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795298495,
    "date": "2026-11-21"
   },
   {
