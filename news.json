@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-22 21:17 UTC",
+ "updated": "2026-11-22 22:05 UTC",
  "items": [
+  {
+   "title": "\"Dunyoning eng yaxshi jamoasi 4:0 hisobida yutqazishi mumkin edi\" - lekin \"Manchester Yunayted\" \"Enfild\"da ko'proq ish qilishi kerak edimi?",
+   "summary": "Maurisio Pochettinoning fikricha, hatto dunyoning eng yaxshi jamoasi ham \"Manchester Yunayted\" sharoitida \"Liverpul\"ga qarshi o'yinda to'rtta gol o'tkazib yuborishi mumkin edi - ammo \"qizil iblislar\" mag'lubiyatda ko'proq harakat qilishlari kerak edimi?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795383360,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Pochettino uchun tartibsiz hafta, dahshatli boshlanish va ulkan haqiqat sinovi",
+   "summary": "Saymon Stounning yozishicha, Maurisio Pochettinoning \"Manchester Yunayted\" bosh murabbiyi sifatidagi faoliyati bundan ham yaxshiroq boshlangan bo'lishi mumkin emas edi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795382530,
+   "date": "2026-11-22"
+  },
   {
    "title": "Prays \"Katta dubulg'a\"da g'alaba qozonib, yirik chempionlik uchun kutishga chek qo'ydi",
    "summary": "Gervin Prays to'rt yillik yirik PDC chempionligi uchun kutganini yakunladi va Dartsning \"Katta dubulg'a\" finalida Jan van Veen ustidan 16-11 hisobida ajoyib g'alaba qozondi.",
@@ -19,16 +39,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795379289,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Alcaraz Zverevni mag'lub etib, o'zining ilk ATP finalida g'alaba qozondi",
-   "summary": "Karlos Alkaraz Turin shahrida dunyoning birinchi raketkasi Aleksandr Zverevni mag'lub etib, o'zining ilk ATP final chempionligi uchun kurashini yakunladi.",
-   "link": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795378548,
    "date": "2026-11-22"
   },
   {
@@ -79,16 +89,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795370263,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "\"Liverpul\" - \"Manchester Yunayted\" o'yinini o'zgartirgan qizil kartochka: to'g'ri qarormi?",
-   "summary": "Leni Yoroning sakkizinchi daqiqadan so'ng qizil kartochkasi \"Liverpul\" - \"Manchester Yunayted\" o'yinini o'zgartirdi - hakamlar to'g'ri qaror qabul qilishdimi?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795370154,
    "date": "2026-11-22"
   },
   {
@@ -292,9 +292,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
-   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
+   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
@@ -302,9 +302,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
-   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
+   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
