@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-22 10:29 UTC",
+ "updated": "2026-11-22 11:21 UTC",
  "items": [
+  {
+   "title": "Verstappen tartibsizliklar orasida doimiy bo'lib, u Rassell \"mening darajamdan ancha past\" ekanligini aytdi",
+   "summary": "Maks Verstappen Las-Vegas Gran-prisida 50 aylanada 34 ta quvib o'tish bilan peshqadamlik uchun kurashgan yulduz figurasi bo'ldi.",
+   "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795345652,
+   "date": "2026-11-22"
+  },
   {
    "title": "Jarohatlangan Jeklar T20 Avstraliya turidan chetda qolishdi",
    "summary": "Angliya terma jamoasining ko'pkurash bo'yicha yetakchisi Uill Jeks qo'li singanligi sababli Avstraliya bo'ylab turnening qolgan qismida qatnasha olmaydi.",
@@ -29,16 +39,6 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795341600,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Verstappenning ajoyib poyga mashinasi va Rassellning qimmatga tushgan xatosi - haydovchilar reytingi",
-   "summary": "BBC Radio 5 Live F1 sharhlovchisi Garri Benjamin Las-Vegas Gran-prisi dam olish kunlari piyodalar qanday o'yin ko'rsatganiga baho berdi.",
-   "link": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795340105,
    "date": "2026-11-22"
   },
   {
@@ -242,9 +242,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
-   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
+   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
@@ -252,9 +252,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
-   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
+   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
