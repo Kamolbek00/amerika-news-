@@ -1,14 +1,24 @@
 {
- "updated": "2026-11-22 16:58 UTC",
+ "updated": "2026-11-22 17:42 UTC",
  "items": [
   {
-   "title": "Xalqaro iqlim muzokaralari umidsizlikka uchradi",
-   "summary": "Turkiyaning Antaliya shahrida COP31 - yillik iqlim muzokaralari uchun 200 ga yaqin davlat yig'ildi. Qazilma yoqilg'ilarning asosiy omili bo'lgan qazilma yoqilg'ilar bo'yicha mojarodan so'ng mamlakatlar kelishuvga erisha olmadilar.",
-   "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+   "title": "Yosh mualliflar bilan tanishing! Savodxonlik dasturi Janubiy Afrikadagi bolalarni ilhomlantiradi",
+   "summary": "Janubiy Afrika bolalarning savodxonlik inqirozini yengib o'tish ustida ishlamoqda. Yoxannesburg shaharchalaridan birida o'qish klubi bolalarda kitoblarga mehr uyg'otmoqda va ularni yozuvchi bo'lishga ilhomlantirmoqda.",
+   "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
    "ok": true,
    "cat": "AQSh",
    "source": "NPR",
-   "ts": 1795365202,
+   "ts": 1795368860,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Finlyandiya ko'rfazida Rossiyaga yo'l olgan kemaga hujum qilindi",
+   "summary": "Finlyandiya mudofaa kuchlari kemaga qilingan dron hujumi ortida Ukraina turgan bo'lishi mumkinligini ta'kidlamoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795367906,
    "date": "2026-11-22"
   },
   {
@@ -18,7 +28,57 @@
    "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795363525,
+   "ts": 1795367807,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Kris Berman bilan birgalikda ESPN tandemiga asos solgan Tom Jekson 75 yoshida vafot etdi",
+   "summary": "Broncos \"Orange Crush\" himoyasining asosiy o'yinchisi va ESPNda Shon-sharaf zalining boshlovchisi sifatida faoliyat yurituvchi Tom Jekson 75 yoshida vafot etdi.",
+   "link": "https://www.espn.com/nfl/story/_/id/50561778/tom-jackson-broncos-star-espn-legend-dies-75",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795365865,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Manbalar: Florida shtati murabbiylik qidiruvi Jorjiya shtati DC Schumannga qaratilgan",
+   "summary": "Florida shtati murabbiylik qidiruvi Jorjiya himoya koordinatori Glenn Shumannga qaratilgan, deb xabar beradi manbalar ESPN muxbirlari Pit Tamel va Andrea Adelsonga.",
+   "link": "https://www.espn.com/college-football/story/_/id/50562506/sources-florida-st-coaching-search-focused-schumann",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795365865,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Bizning NFL 11-hafta kristalli to'pimiz: Besh tahlilchi bashorat qilmoqda, xafagarchiliklardan tortib TD gollarigacha",
+   "summary": "\"Eagles\" \"Steelers\"ni mag'lub etayaptimi? Kristian Makkaffri uchun muhim qabul kuni? Josh Dauns uchun \"tachdaun\"? Keling, 15 ta narsani taxmin qilaylik.",
+   "link": "https://www.espn.com/nfl/story/_/id/50521728/week-11-predictions-upsets-fantasy-sleepers-stats-2026",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795365856,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Har bir o'yin bo'yicha qo'llanmamiz: Uchrashuvlarga oldindan ko'rish, bashoratlar, tanlovlar va nuggetlar",
+   "summary": "11-haftada yana 12 ta o'yin bor va bizda ularning barchasi uchun tanlovlar, asosiy statistika va boshqa ma'lumotlar mavjud.",
+   "link": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795365856,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Xalqaro iqlim muzokaralari umidsizlikka uchradi",
+   "summary": "Turkiyaning Antaliya shahrida COP31 - yillik iqlim muzokaralari uchun 200 ga yaqin davlat yig'ildi. Qazilma yoqilg'ilarning asosiy omili bo'lgan qazilma yoqilg'ilar bo'yicha mojarodan so'ng mamlakatlar kelishuvga erisha olmadilar.",
+   "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795365202,
    "date": "2026-11-22"
   },
   {
@@ -102,16 +162,6 @@
    "date": "2026-11-22"
   },
   {
-   "title": "Finlyandiya ko'rfazida Rossiyaga yo'l olgan kemaga hujum qilindi",
-   "summary": "Finlyandiya mudofaa kuchlari kemaga qilingan dron hujumi ortida Ukraina turgan bo'lishi mumkinligini ta'kidlamoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795346714,
-   "date": "2026-11-22"
-  },
-  {
    "title": "Verstappen tartibsizliklar orasida doimiy bo'lib, u Rassell \"mening darajamdan ancha past\" ekanligini aytdi",
    "summary": "Maks Verstappen Las-Vegas Gran-prisida 50 aylanada 34 ta quvib o'tish bilan peshqadamlik uchun kurashgan yulduz figurasi bo'ldi.",
    "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
@@ -136,7 +186,7 @@
    "summary": "Amerikada kichik biznes uchun moliyalashtirishning eng tez o'sib borayotgan manbai ham eng kam tartibga solingan manbalardan biridir. Bir kishi o'zining og'ir xarajatlarini qoplash uchun uzoq va yolg'iz kurash olib bordi.",
    "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795341600,
    "date": "2026-11-22"
@@ -369,16 +419,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795210694,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Trampning Ogayo shtatidagi po'lat zavodiga ta'siri",
-   "summary": "Ogayo shtatining Middletown shahridagi ulkan po'lat zavodi koks, ya'ni tozalangan ko'mirdan foydalanishni to'xtatishni rejalashtirgan edi. Ushbu o'zgartirish xavfli havo ifloslanishini va issiqxona gazlari chiqindilarini kamaytirgan bo'lar edi. Ammo bu pl",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "NPR",
-   "ts": 1795210691,
    "date": "2026-11-20"
   },
   {
