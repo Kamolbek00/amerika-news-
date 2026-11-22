@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-22 22:05 UTC",
+ "updated": "2026-11-22 22:52 UTC",
  "items": [
+  {
+   "title": "Kunning eng yaxshi o'yini",
+   "summary": "\"Liverpul\" - \"Manchester Yunayted\" va \"Xall Siti\" - \"Brayton\" uchrashuvlarining eng yaxshi lavhalari.",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795389776,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Ukrainadagi urush NATO hududiga ham ta'sir ko'rsatmoqda",
+   "summary": "Rossiya va Ukraina o'rtasidagi urush yana bir bor Yevropa hududiga kirib bormoqda - kemalarga qilingan hujumlardan tortib, Polshadagi raketalar va Daniya ichidagi Rossiya operatsiyalari haqidagi yangi da'volargacha.",
+   "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "NPR",
+   "ts": 1795387222,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Filadelfiya festivaliga tashrif buyuruvchilar tuzlangan bodringlar juda katta ukrop ekanligini aytishmoqda",
+   "summary": "Ta'sir o'tkazuvchi va tuzlangan bodring ishqibozi Den Pankoast Filadelfiyadagi \"Katta arpabodiyon\" festivalidagi tantanalar haqida bevosita hikoya qiladi.",
+   "link": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795387219,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Ba'zi albanlarning aytishicha, Jared Kushnerning emas, balki o'zlarining yerlarida hashamatli qurilish rejalashtirilgan",
+   "summary": "Prezident Trampning kuyovi Jared Kushner uchun ishlaydigan kompaniya aprel oyida 130 million dollardan ortiqqa 300 akr alban yerini sotib oldi. Ammo hududdagi albanlar NPRga bu Kushnerning yeri emasligini aytishdi.",
+   "link": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "NPR",
+   "ts": 1795387187,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "\"Xavf tobora kattaroq ko'rinadi\": Ukrainaliklar Rossiya hujumlaridan keyin bedarak yo'qolganlarni qidirmoqda",
+   "summary": "BBC muxbiri Sara Reynsford Ukrainaning Kiyev viloyatida qulagan turar-joy binosi voqea joyidan reportaj tayyorlamoqda.",
+   "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795387063,
+   "date": "2026-11-22"
+  },
   {
    "title": "\"Dunyoning eng yaxshi jamoasi 4:0 hisobida yutqazishi mumkin edi\" - lekin \"Manchester Yunayted\" \"Enfild\"da ko'proq ish qilishi kerak edimi?",
    "summary": "Maurisio Pochettinoning fikricha, hatto dunyoning eng yaxshi jamoasi ham \"Manchester Yunayted\" sharoitida \"Liverpul\"ga qarshi o'yinda to'rtta gol o'tkazib yuborishi mumkin edi - ammo \"qizil iblislar\" mag'lubiyatda ko'proq harakat qilishlari kerak edimi?",
@@ -42,16 +92,6 @@
    "date": "2026-11-22"
   },
   {
-   "title": "Ngumoha \"Liverpul\"ning 10 kishilik o'yinida \"Manchester Yunayted\"ni mag'lub etishiga sabab bo'ldi",
-   "summary": "Maurisio Pochettinoning \"Manchester Yunayted\" bosh murabbiyi lavozimidagi faoliyati umidsiz tarzda boshlandi, chunki uning jamoasi Premer-ligada qolish zonasida qolish uchun raqibi \"Liverpul\"ga mag'lub bo'ldi.",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795377575,
-   "date": "2026-11-22"
-  },
-  {
    "title": "COP31 iqlim muzokaralarida kelishuvga erishilmaganidan keyin keyingi nima bo'ladi?",
    "summary": "Turkiyada bo'lib o'tgan COP31 iqlim sammiti davlatlar kelishuvga erisha olmaganidan so'ng rasman yakunlandi.",
    "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
@@ -79,16 +119,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795371479,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "\"Xavf tobora kattaroq ko'rinadi\": Ukrainaliklar Rossiya hujumlaridan keyin bedarak yo'qolganlarni qidirmoqda",
-   "summary": "BBC muxbiri Sara Reynsford Ukrainaning Kiyev viloyatida qulagan turar-joy binosi voqea joyidan reportaj tayyorlamoqda.",
-   "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795370263,
    "date": "2026-11-22"
   },
   {
@@ -156,7 +186,7 @@
    "summary": "Medicare uchun ochiq ro'yxatdan o'tish 7-dekabrgacha davom etadi va bu yil odamlar e'tibor berishlari kerak bo'lgan bir nechta turli xil xavflar mavjud. Sizning dori-darmon rejangiz yoki Medicare Advantage rejangiz juda o'zgarishi mumkin.",
    "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795353064,
    "date": "2026-11-22"
@@ -242,16 +272,6 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Livandagi qayg'uga botgan oila o'z qishlog'iga qaytmoqda",
-   "summary": "Janubiy Livanda Isroil kuchlari chekinganidan keyin armiya boshqaruvni o'z qo'liga olmoqda. Qayg'uga botgan oila o'z qishlog'iga qaytib, uyidagi deyarli hamma narsa vayron bo'lganini ko'radi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795298492,
-   "date": "2026-11-21"
-  },
-  {
    "title": "AQShning sobiq prezidenti Jorj Vashingtonning soch turmagi 4000 dollarga sotildi",
    "summary": "Soch, uning sobiq egasining avlodlaridan birining so'zlariga ko'ra, 1799-yilda Vashingtonning o'limidan sal oldin do'stlik belgisi sifatida sovg'a qilingan.",
    "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
@@ -262,16 +282,6 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Meksikada kartelning yetakchi boshlig'i \"El Chapo Isidro\" hibsga olindi, bu esa zo'ravonlikni keltirib chiqardi",
-   "summary": "\"El Chapo Isidro\" nomi bilan tanilgan Fausto Isidro Meza Flores FQBning eng ko'p qidirilayotgan qochqinlaridan biri edi. Uning shanba kuni Meksikaning shimoli-g'arbiy qismida hibsga olinishi mintaqada zo'ravonliklarni keltirib chiqardi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795284535,
-   "date": "2026-11-21"
-  },
-  {
    "title": "Qotil robotlar: BMT muzokaralari qonuniy majburiy qoidalarga bo'lgan umidlarni oqlamadi",
    "summary": "Jenevadagi BMT muzokaralari avtonom qurollar bo'yicha majburiy qoidalarni yetkaza olmadi, chunki gumanitar guruhlar harbiy sun'iy intellekt diplomatiyadan ancha tezroq rivojlanayotgani haqida ogohlantirmoqda.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
@@ -279,16 +289,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795270697,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Shimoliy Karolinada Respublikachilar partiyasidan qayta okrug tuzuvchi \"qo'pol odam\" qanday qilib 2 o'ringa qarshi natija berdi",
-   "summary": "Shimoliy Karolinada respublikachi qonun chiqaruvchilar Kongressda bitta o'ringa ega bo'lishni maqsad qilib, ovoz berish xaritalarini qayta tuzdilar. Buning o'rniga ular ikkita o'rinni yo'qotishdi, bu siyosatshunoslar \"qo'pol odam\" deb ataydigan narsaning klassik namunasidir.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795264821,
    "date": "2026-11-21"
   },
   {
