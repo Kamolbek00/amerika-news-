@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-22 11:21 UTC",
+ "updated": "2026-11-22 12:16 UTC",
  "items": [
+  {
+   "title": "Finlyandiya ko'rfazida Rossiyaga yo'l olgan kemaga hujum qilindi",
+   "summary": "Finlyandiya mudofaa kuchlari kemaga qilingan dron hujumi ortida Ukraina turgan bo'lishi mumkinligini ta'kidlamoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795346714,
+   "date": "2026-11-22"
+  },
   {
    "title": "Verstappen tartibsizliklar orasida doimiy bo'lib, u Rassell \"mening darajamdan ancha past\" ekanligini aytdi",
    "summary": "Maks Verstappen Las-Vegas Gran-prisida 50 aylanada 34 ta quvib o'tish bilan peshqadamlik uchun kurashgan yulduz figurasi bo'ldi.",
@@ -159,16 +169,6 @@
    "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795298492,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Finlyandiya ko'rfazida Rossiyaga yo'l olgan kemaga hujum qilindi",
-   "summary": "Finlyandiya mudofaa kuchlari kemaga qilingan dron hujumi ortida Ukraina turgan bo'lishi mumkinligini ta'kidlamoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795288822,
    "date": "2026-11-21"
   },
   {
