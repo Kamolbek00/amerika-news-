@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-22 20:21 UTC",
+ "updated": "2026-11-22 21:17 UTC",
  "items": [
+  {
+   "title": "Prays \"Katta dubulg'a\"da g'alaba qozonib, yirik chempionlik uchun kutishga chek qo'ydi",
+   "summary": "Gervin Prays to'rt yillik yirik PDC chempionligi uchun kutganini yakunladi va Dartsning \"Katta dubulg'a\" finalida Jan van Veen ustidan 16-11 hisobida ajoyib g'alaba qozondi.",
+   "link": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795381607,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Liviya portidagi Rossiya kemasidagi portlash dron hujumi natijasida bo'lishi mumkin, deydi rasmiylar",
+   "summary": "Liviyaning sharqiy raqib hukumati voqeani tekshirish uchun Rossiya bilan hamkorlik qilayotganini aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795379289,
+   "date": "2026-11-22"
+  },
   {
    "title": "Alcaraz Zverevni mag'lub etib, o'zining ilk ATP finalida g'alaba qozondi",
    "summary": "Karlos Alkaraz Turin shahrida dunyoning birinchi raketkasi Aleksandr Zverevni mag'lub etib, o'zining ilk ATP final chempionligi uchun kurashini yakunladi.",
@@ -22,16 +42,6 @@
    "date": "2026-11-22"
   },
   {
-   "title": "Liviya portidagi Rossiya kemasidagi portlash dron hujumi natijasida bo'lishi mumkin, deydi rasmiylar",
-   "summary": "Liviyaning sharqiy raqib hukumati voqeani tekshirish uchun Rossiya bilan hamkorlik qilayotganini aytdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795377170,
-   "date": "2026-11-22"
-  },
-  {
    "title": "COP31 iqlim muzokaralarida kelishuvga erishilmaganidan keyin keyingi nima bo'ladi?",
    "summary": "Turkiyada bo'lib o'tgan COP31 iqlim sammiti davlatlar kelishuvga erisha olmaganidan so'ng rasman yakunlandi.",
    "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
@@ -49,16 +59,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795372186,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Yoro qizil kartochka oldi, Ngumoha esa porladi - Liverpul - Manchester Yunayted o'yinchilarining reytingi",
-   "summary": "\"Liverpul\" va \"Manchester Yunayted\" futbolchilari Premer-ligadagi o'yindan keyin qanday baho berishdi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795372131,
    "date": "2026-11-22"
   },
   {
@@ -292,9 +292,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
-   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
+   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
@@ -302,9 +302,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
-   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
+   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
