@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-22 17:42 UTC",
+ "updated": "2026-11-22 18:27 UTC",
  "items": [
+  {
+   "title": "The red card that changed Liverpool-Man Utd: correct call?",
+   "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795370154,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Kris Berman bilan birgalikda ESPN tandemiga asos solgan Tom Jekson 75 yoshida vafot etdi",
+   "summary": "Broncos \"Orange Crush\" himoyasining asosiy o'yinchisi va ESPNda Shon-sharaf zalining boshlovchisi sifatida faoliyat yurituvchi Tom Jekson 75 yoshida vafot etdi.",
+   "link": "https://www.espn.com/nfl/story/_/id/50561778/tom-jackson-broncos-star-espn-legend-dies-75",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795370075,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "AQSh armiyasi sud qaroriga qaramay, Ayova shtatida tonnalab beqaror portlovchi moddalarni portlatadi",
+   "summary": "Armiya Ayova shtatidagi o'q-dori zavodi atrofidagi shaxsiy tarkibi va yaqin atrofdagi aholi punktlarini himoya qilish uchun \"tezkor choralar\" zarurligini aytmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795370069,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+   "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+   "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+   "ok": false,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795369492,
+   "date": "2026-11-22"
+  },
   {
    "title": "Yosh mualliflar bilan tanishing! Savodxonlik dasturi Janubiy Afrikadagi bolalarni ilhomlantiradi",
    "summary": "Janubiy Afrika bolalarning savodxonlik inqirozini yengib o'tish ustida ishlamoqda. Yoxannesburg shaharchalaridan birida o'qish klubi bolalarda kitoblarga mehr uyg'otmoqda va ularni yozuvchi bo'lishga ilhomlantirmoqda.",
@@ -32,13 +72,23 @@
    "date": "2026-11-22"
   },
   {
-   "title": "Kris Berman bilan birgalikda ESPN tandemiga asos solgan Tom Jekson 75 yoshida vafot etdi",
-   "summary": "Broncos \"Orange Crush\" himoyasining asosiy o'yinchisi va ESPNda Shon-sharaf zalining boshlovchisi sifatida faoliyat yurituvchi Tom Jekson 75 yoshida vafot etdi.",
-   "link": "https://www.espn.com/nfl/story/_/id/50561778/tom-jackson-broncos-star-espn-legend-dies-75",
-   "ok": true,
+   "title": "Sources: Mayfield dealing with plantar fasciitis, determined to keep playing",
+   "summary": "Baker Mayfield is dealing with a painful case of plantar fasciitis, sources told NFL Network, an injury that the Bucs QB is determined to play through.",
+   "link": "https://www.espn.com/nfl/story/_/id/50550285/sources-buccaneers-qb-baker-mayfield-plantar-fasciitis",
+   "ok": false,
    "cat": "Sport",
    "source": "ESPN",
-   "ts": 1795365865,
+   "ts": 1795365866,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Wemby makes history in 18 minutes, finishes game with 50 points",
+   "summary": "Victor Wembanyama had his third career 50-point outing during a win over the Pelicans to go along with 19 rebounds, five blocks and four steals.",
+   "link": "https://www.espn.com/nba/story/_/id/50559763/victor-wembanyama-shows-50-point-5-block-performance",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795365866,
    "date": "2026-11-22"
   },
   {
@@ -52,26 +102,6 @@
    "date": "2026-11-22"
   },
   {
-   "title": "Bizning NFL 11-hafta kristalli to'pimiz: Besh tahlilchi bashorat qilmoqda, xafagarchiliklardan tortib TD gollarigacha",
-   "summary": "\"Eagles\" \"Steelers\"ni mag'lub etayaptimi? Kristian Makkaffri uchun muhim qabul kuni? Josh Dauns uchun \"tachdaun\"? Keling, 15 ta narsani taxmin qilaylik.",
-   "link": "https://www.espn.com/nfl/story/_/id/50521728/week-11-predictions-upsets-fantasy-sleepers-stats-2026",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795365856,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Har bir o'yin bo'yicha qo'llanmamiz: Uchrashuvlarga oldindan ko'rish, bashoratlar, tanlovlar va nuggetlar",
-   "summary": "11-haftada yana 12 ta o'yin bor va bizda ularning barchasi uchun tanlovlar, asosiy statistika va boshqa ma'lumotlar mavjud.",
-   "link": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795365856,
-   "date": "2026-11-22"
-  },
-  {
    "title": "Xalqaro iqlim muzokaralari umidsizlikka uchradi",
    "summary": "Turkiyaning Antaliya shahrida COP31 - yillik iqlim muzokaralari uchun 200 ga yaqin davlat yig'ildi. Qazilma yoqilg'ilarning asosiy omili bo'lgan qazilma yoqilg'ilar bo'yicha mojarodan so'ng mamlakatlar kelishuvga erisha olmadilar.",
    "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
@@ -79,26 +109,6 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795365202,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "AQSh armiyasi sud qaroriga qaramay, Ayova shtatida tonnalab beqaror portlovchi moddalarni portlatadi",
-   "summary": "Armiya Ayova shtatidagi o'q-dori zavodi atrofidagi shaxsiy tarkibi va yaqin atrofdagi aholi punktlarini himoya qilish uchun \"tezkor choralar\" zarurligini aytmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795362628,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Uelsni mag'lub etganlar hali ham uzoq yo'lni bosib o'tganliklarini ko'rsatdimi?",
-   "summary": "Uels Millatlar chempionatida Avstraliyaga mag'lub bo'lgan Yangi Zelandiya ustidan qozonilgan g'alabani qo'llab-quvvatlay olmaganiga qaramay, yuqoriga ko'tarilganiga ishonadi.",
-   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjr4gn7yd9d5o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795360026,
    "date": "2026-11-22"
   },
   {
@@ -169,16 +179,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795345652,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "NPRning Kattalar Podkasti Challenge: Bizga yoqadigan dastlabki ishtirokchilar",
-   "summary": "65 yosh va undan katta yoshdagi odamlar bosh sovrinni yutib olish imkoniyati uchun hikoyalarini taqdim etishmoqda — NPRga tashrif buyuring, Weekend Edition’da podkastingizni jonli efirda tomosha qiling. Ishtirok etish uchun hali vaqt bor!",
-   "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "NPR",
-   "ts": 1795341600,
    "date": "2026-11-22"
   },
   {
@@ -332,9 +332,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
-   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
+   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
@@ -342,9 +342,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
-   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
+   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
