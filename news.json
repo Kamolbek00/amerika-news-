@@ -1,24 +1,34 @@
 {
- "updated": "2026-11-22 18:27 UTC",
+ "updated": "2026-11-22 19:28 UTC",
  "items": [
   {
-   "title": "The red card that changed Liverpool-Man Utd: correct call?",
-   "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
-   "ok": false,
-   "cat": "Sport",
+   "title": "Liviya portidagi Rossiya kemasidagi portlash dron hujumi natijasida bo'lishi mumkin, deydi rasmiylar",
+   "summary": "Liviyaning sharqiy raqib hukumati voqeani tekshirish uchun Rossiya bilan hamkorlik qilayotganini aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795370154,
+   "ts": 1795375614,
    "date": "2026-11-22"
   },
   {
-   "title": "Kris Berman bilan birgalikda ESPN tandemiga asos solgan Tom Jekson 75 yoshida vafot etdi",
-   "summary": "Broncos \"Orange Crush\" himoyasining asosiy o'yinchisi va ESPNda Shon-sharaf zalining boshlovchisi sifatida faoliyat yurituvchi Tom Jekson 75 yoshida vafot etdi.",
-   "link": "https://www.espn.com/nfl/story/_/id/50561778/tom-jackson-broncos-star-espn-legend-dies-75",
+   "title": "Yetti gol o'tkazib yuborishdan tortib, Xall qahramonliklarigacha - Tzolakis qanday qilib Braytonga qarshi o'zini tikladi",
+   "summary": "Gretsiya terma jamoasi safida 7:0 hisobida mag'lub bo'lganidan to'qqiz kun o'tgach, darvozabon Konstantinos Tzolakis \"Xall\"ning Premer-ligada \"Brayton\" ustidan qozongan g'alabasida muhim rol o'ynadi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795370075,
+   "source": "BBC",
+   "ts": 1795374212,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "COP31 iqlim muzokaralarida kelishuvga erishilmaganidan keyin keyingi nima bo'ladi?",
+   "summary": "Turkiyada bo'lib o'tgan COP31 iqlim sammiti davlatlar kelishuvga erisha olmaganidan so'ng rasman yakunlandi.",
+   "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795373844,
    "date": "2026-11-22"
   },
   {
@@ -28,14 +38,54 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795370069,
+   "ts": 1795372186,
    "date": "2026-11-22"
   },
   {
-   "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
-   "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+   "title": "Yoro qizil kartochka oldi, Ngumoha esa porladi - Liverpul - Manchester Yunayted o'yinchilarining reytingi",
+   "summary": "\"Liverpul\" va \"Manchester Yunayted\" futbolchilari Premer-ligadagi o'yindan keyin qanday baho berishdi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795372131,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "COP31 muzokaralari chuqur kelishmovchiliklarni yuzaga chiqargani sababli yirik iqlim kelishuviga erisha olmadi",
+   "summary": "Qazilma yoqilg'ilar haqida gap ketganidan keyin muzokaralar iqlim o'zgarishiga qarshi kurashda muvaffaqiyatsizlikka uchradi.",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795371479,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "\"Xavf tobora kattaroq ko'rinadi\": Ukrainaliklar Rossiya hujumlaridan keyin bedarak yo'qolganlarni qidirmoqda",
+   "summary": "BBC muxbiri Sara Reynsford Ukrainaning Kiyev viloyatida qulagan turar-joy binosi voqea joyidan reportaj tayyorlamoqda.",
+   "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795370263,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "\"Liverpul\" - \"Manchester Yunayted\" o'yinini o'zgartirgan qizil kartochka: to'g'ri qarormi?",
+   "summary": "Leni Yoroning sakkizinchi daqiqadan so'ng qizil kartochkasi \"Liverpul\" - \"Manchester Yunayted\" o'yinini o'zgartirdi - hakamlar to'g'ri qaror qabul qilishdimi?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795370154,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Isroil armiyasi orqaga chekinayotgan bir paytda, Livan qishloq aholisi vayron bo'lgan uylariga qaytmoqda",
+   "summary": "Livan janubidagi qishloqda amalga oshirilgan sinov loyihasida Isroil kuchlari chiqib ketdi va Livan armiyasi uni boshqa joyga ko'chirdi. Ammo qaytib kelgan qishloq aholisi uylarini vayron bo'lgan holda topdilar.",
    "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
-   "ok": false,
+   "ok": true,
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795369492,
@@ -52,56 +102,6 @@
    "date": "2026-11-22"
   },
   {
-   "title": "Finlyandiya ko'rfazida Rossiyaga yo'l olgan kemaga hujum qilindi",
-   "summary": "Finlyandiya mudofaa kuchlari kemaga qilingan dron hujumi ortida Ukraina turgan bo'lishi mumkinligini ta'kidlamoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795367906,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Liviya portidagi Rossiya kemasidagi portlash dron hujumi natijasida bo'lishi mumkin, deydi rasmiylar",
-   "summary": "Liviyaning sharqiy raqib hukumati voqeani tekshirish uchun Rossiya bilan hamkorlik qilayotganini aytdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795367807,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Sources: Mayfield dealing with plantar fasciitis, determined to keep playing",
-   "summary": "Baker Mayfield is dealing with a painful case of plantar fasciitis, sources told NFL Network, an injury that the Bucs QB is determined to play through.",
-   "link": "https://www.espn.com/nfl/story/_/id/50550285/sources-buccaneers-qb-baker-mayfield-plantar-fasciitis",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795365866,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Wemby makes history in 18 minutes, finishes game with 50 points",
-   "summary": "Victor Wembanyama had his third career 50-point outing during a win over the Pelicans to go along with 19 rebounds, five blocks and four steals.",
-   "link": "https://www.espn.com/nba/story/_/id/50559763/victor-wembanyama-shows-50-point-5-block-performance",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795365866,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Manbalar: Florida shtati murabbiylik qidiruvi Jorjiya shtati DC Schumannga qaratilgan",
-   "summary": "Florida shtati murabbiylik qidiruvi Jorjiya himoya koordinatori Glenn Shumannga qaratilgan, deb xabar beradi manbalar ESPN muxbirlari Pit Tamel va Andrea Adelsonga.",
-   "link": "https://www.espn.com/college-football/story/_/id/50562506/sources-florida-st-coaching-search-focused-schumann",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795365865,
-   "date": "2026-11-22"
-  },
-  {
    "title": "Xalqaro iqlim muzokaralari umidsizlikka uchradi",
    "summary": "Turkiyaning Antaliya shahrida COP31 - yillik iqlim muzokaralari uchun 200 ga yaqin davlat yig'ildi. Qazilma yoqilg'ilarning asosiy omili bo'lgan qazilma yoqilg'ilar bo'yicha mojarodan so'ng mamlakatlar kelishuvga erisha olmadilar.",
    "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
@@ -109,16 +109,6 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795365202,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Indoneziyadagi fabrikada yong'in oqibatida uch kishi halok bo'ldi va o'nlab odamlar bedarak yo'qoldi",
-   "summary": "Qandolat fabrikasida sodir bo'lgan yong'in oqibatida kamida uch kishi halok bo'ldi va yana ko'p odamlar halok bo'lgan deb taxmin qilinmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795356320,
    "date": "2026-11-22"
   },
   {
@@ -162,16 +152,6 @@
    "date": "2026-11-22"
   },
   {
-   "title": "Angliya \"All Blacks\"ning g'alabasidan keyin taslim bo'lmaydi",
-   "summary": "Angliya terma jamoasining Jahon chempioni Mett Douson o'zining BBC Sportdagi so'nggi maqolasida Stiv Bortvik jamoasining Yangi Zelandiya ustidan qozongan rekord darajadagi g'alabasi haqida fikr yuritadi va Millatlar chempionatining so'nggi bosqich o'yinlari haqida qisqacha ma'lumot beradi.",
-   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gdpm1q5no?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795351557,
-   "date": "2026-11-22"
-  },
-  {
    "title": "Verstappen tartibsizliklar orasida doimiy bo'lib, u Rassell \"mening darajamdan ancha past\" ekanligini aytdi",
    "summary": "Maks Verstappen Las-Vegas Gran-prisida 50 aylanada 34 ta quvib o'tish bilan peshqadamlik uchun kurashgan yulduz figurasi bo'ldi.",
    "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
@@ -189,26 +169,6 @@
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795341600,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Janubiy Koreya ta'lim vaziri imtihonlardagi firibgarlik mojarosi tufayli iste'foga chiqdi",
-   "summary": "Choi Kyo-jin kollejga kirish imtihonlari paytida sun'iy intellekt yordamida firibgarlikning oldini olish bo'yicha so'nggi daqiqadagi choralar tartibsizliklarga sabab bo'lganini tan oldi.",
-   "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795339245,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Ferrari rahbari Hamilton va Lekler to'qnashuvi mutlaqo qabul qilib bo'lmaydigan holat ekanligini aytdi",
-   "summary": "Ferrari pilotlari Lyuis Xemilton va Charlz Lekler Las-Vegasda to'qnashuvdan so'ng, trassada birgalikda toza poyga qilish imkoniyatlari borasida yana bir keskin bahsga duch kelishmoqda.",
-   "link": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795338435,
    "date": "2026-11-22"
   },
   {
@@ -332,9 +292,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
-   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
+   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
@@ -342,9 +302,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
-   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
+   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
