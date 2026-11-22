@@ -1,14 +1,24 @@
 {
- "updated": "2026-11-22 06:26 UTC",
+ "updated": "2026-11-22 07:45 UTC",
  "items": [
   {
-   "title": "Ferrari to'qnashuvi natijasida Verstappen ajoyib poygada g'alaba qozondi",
-   "summary": "Red Bull vakili Maks Verstappen butun poyga davomida yetakchilik uchun uzluksiz kurash olib borilgan ajoyib Las-Vegas Gran-prisida g'olib chiqdi.",
-   "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+   "title": "Deputat Gernsi va Jersi kompaniyalariga egalik huquqini ro'yxatga olish rejalarini tanqid qildi",
+   "summary": "Ser Endryu Mitchellning aytishicha, moliyaviy jinoyatlarga qarshi kurashayotgan odamlar uchun kirish osonroq bo'lishi kerak.",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Sport",
+   "cat": "Iqtisod",
    "source": "BBC",
-   "ts": 1795328366,
+   "ts": 1795332125,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Italiyalik zargar va biznesmen Paolo Bulgari 89 yoshida vafot etdi",
+   "summary": "Italiya ommaviy axborot vositalariga bergan bayonotida uning oilasi uni \"zamonamizning eng buyuk zargar\" deb eslaydi.",
+   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795331561,
    "date": "2026-11-22"
   },
   {
@@ -18,7 +28,37 @@
    "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795325170,
+   "ts": 1795330446,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Ferrari to'qnashuvi natijasida Verstappen ajoyib poygada g'alaba qozondi",
+   "summary": "Red Bull vakili Maks Verstappen butun poyga davomida yetakchilik uchun uzluksiz kurash olib borilgan ajoyib Las-Vegas Gran-prisida g'olib chiqdi.",
+   "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795328826,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Pulis Pochettinoning birinchi o'yini haqida: \"U \"Manchester Yunayted\" nimalardan iborat ekanligini ko'radi\"",
+   "summary": "BBC Sport sharhlovchisi Toni Pulis \"Manchester Yunayted\"ning yangi bosh murabbiyi Maurisio Pochettino jamoasi bilan bir necha kundan so'ng yakshanba kuni bo'lib o'tadigan \"Liverpul\"ga qarshi o'yinga qanday tayyorgarlik ko'rishini tushuntirib berdi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795328515,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Uels terma jamoasi bosh murabbiyi Tandi Avstraliyaning mag'lubiyatidan xafa bo'ldi",
+   "summary": "Uels terma jamoasi bosh murabbiyi Stiv Tandi jamoasi Avstraliya ustidan qozonilgan g'alaba bilan Yangi Zelandiya ustidan qozonilgan ajoyib g'alabani qo'llab-quvvatlay olmaganidan keyin hafsalasi pir bo'lganini aytdi.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregq87258o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795323034,
    "date": "2026-11-22"
   },
   {
@@ -62,16 +102,6 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Avstraliya Uels ustidan kichik hisobda g'alaba qozondi",
-   "summary": "Uels Yangi Zelandiya ustidan qozonilgan mashhur g'alabasini takrorlay olmadi, Avstraliya esa Kardiffda Millatlar chempionatida g'oliblikni qo'lga kiritdi.",
-   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795299936,
-   "date": "2026-11-21"
-  },
-  {
    "title": "Si Tszinpin Shenchjen sammitida Tramp bilan ayiqcha quchoqlashishdan nimani oldi?",
    "summary": "NPR muxbiri Rob Shmits Merilend universitetining Davlat siyosati maktabining AQSh-Xitoy munosabatlari dasturi direktori Robert Deyli bilan Prezident Trampning shu hafta Xitoyga safari haqida suhbatlashdi.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
@@ -109,16 +139,6 @@
    "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795298492,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Raya jarohati bo'yicha tekshiruvdan o'tishi kerak - \"Arsenal\" uni qanchalik sog'inadi?",
-   "summary": "\"Arsenal\" darvozaboni Devid Raya shanba kuni \"Nyukasl\"ga qarshi 2:2 hisobidagi durang o'yinda jarohat olib, maydonni tark etganidan so'ng yelkasini tekshiruvdan o'tkazishga tayyorlanmoqda.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795295648,
    "date": "2026-11-21"
   },
   {
@@ -286,7 +306,7 @@
    "summary": "Rockstar Games 13 yillik kutishga tarixdagi eng katta ko'ngilochar ishga tushirish bilan yakun yasadi.",
    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795215204,
    "date": "2026-11-20"
@@ -372,16 +392,6 @@
    "date": "2026-11-20"
   },
   {
-   "title": "Faysal Islom: Buyuk Britaniya va Yevropa Ittifoqining xarajatlarni kamaytirish bo'yicha kelishuvi narxlarning pasayishini anglatmaydi",
-   "summary": "Savdo bitimi xaridorlar uchun oziq-ovqat narxlarini pasaytirishi ehtimoldan yiroq, ammo Brexitdan keyingi boshqa kelishuvlarga qaraganda iqtisodiyotni ko'proq rivojlantirishi kerak.",
-   "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795192912,
-   "date": "2026-11-20"
-  },
-  {
    "title": "Mutaxassislarning ta'kidlashicha, ma'lumotlar markazlarini quvvatlantirish ularni sovutishdan ko'ra ko'proq suv sarflaydi",
    "summary": "Ma'lumotlar markazlari suvidan foydalanish haqidagi xavotirlar, ayniqsa, Arizonada keskin. Ammo serverlarni salqin saqlash ma'lumotlar markazlari juda ko'p talab qiladigan elektr energiyasini ishlab chiqarishga qaraganda ancha kam suv sarflaydi.",
    "link": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
@@ -389,16 +399,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795167819,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Sun'iy intellekt bizning kreditga layoqatimizni baholashi kerakmi?",
-   "summary": "Ipoteka, avtomobil krediti yoki mobil telefon shartnomasini olish kerakmi yoki yo'qligini aniqlash uchun sun'iy intellekt yaxshi baho beradimi?",
-   "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795159939,
    "date": "2026-11-20"
   },
   {
