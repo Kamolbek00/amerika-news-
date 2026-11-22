@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-21 23:57 UTC",
+ "updated": "2026-11-22 01:02 UTC",
  "items": [
   {
-   "title": "FQBning eng ko'p qidirilayotgan 10 kishi ro'yxatidagi meksikalik narkobaron otishmada hibsga olindi",
-   "summary": "Giyohvand moddalar savdosi va qiynoqlarda ayblangan Fausto Isidro \"Chapo Idisro\" Meza Flores rasmiylar bilan qurolli to'qnashuvdan so'ng hibsga olindi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795303877,
+   "title": "Indiana's CFP hopes in peril after OT loss at Washington",
+   "summary": "Indiana might not get a chance to defend its national championship after losing 27-24 at Washington on Saturday.",
+   "link": "https://www.espn.com/college-football/story/_/id/50556327/indiana-cfp-hopes-take-hit-ot-loss-washington",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795308534,
    "date": "2026-11-21"
   },
   {
@@ -18,7 +18,7 @@
    "ok": true,
    "cat": "Sport",
    "source": "ESPN",
-   "ts": 1795303854,
+   "ts": 1795308534,
    "date": "2026-11-21"
   },
   {
@@ -28,27 +28,37 @@
    "ok": true,
    "cat": "Sport",
    "source": "ESPN",
-   "ts": 1795303854,
+   "ts": 1795308534,
    "date": "2026-11-21"
   },
   {
-   "title": "15-jamoada yangi Cardinals QB Jonson Beckni maydonga tushirmagan holda maydonga tushishga tayyor.",
-   "summary": "Cardinals jamoasining yangi o'yinchisi, yarim himoyachi Karson Bekning o'yin darajasi pasaydi va bu 40 yoshli Josh Jonsonga Chiefsga qarshi o'yinda asosiy tarkibda maydonga tushish imkonini berdi.",
-   "link": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
-   "ok": true,
+   "title": "Bryce Underwood delivers clutch TD in 3OT to topple Bruins",
+   "summary": "Tracking the top plays and developments from Week 12.",
+   "link": "https://www.espn.com/college-football/story/_/id/50541394/week-12-live-highlights",
+   "ok": false,
    "cat": "Sport",
    "source": "ESPN",
-   "ts": 1795303854,
+   "ts": 1795308324,
    "date": "2026-11-21"
   },
   {
-   "title": "Titans DL Harrell Tampa shahrida avtohalokatdan so'ng kasalxonaga yotqizildi",
-   "summary": "Jamoa ma'lumotlariga ko'ra, Titans himoya chizig'i o'yinchisi Jaylen Harrell juma kuni jiddiy avtohalokatga uchradi va kasalxonada qolmoqda.",
-   "link": "https://www.espn.com/nfl/story/_/id/50551434/titans-dl-jaylen-harrell-hospitalized-car-accident-tampa",
+   "title": "FQB o'zining jinoiy ma'lumotlar bazasiga qilingan hujumni tekshirayotgani haqida xabar berilgan",
+   "summary": "Milliy jinoyatchilik haqida ma'lumot markazi ma'lumotlar bazasi federal va mahalliy huquqni muhofaza qilish organlari tomonidan ma'lumot almashish uchun ishlatiladi.",
+   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795303854,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795306244,
+   "date": "2026-11-22"
+  },
+  {
+   "title": "FQBning eng ko'p qidirilayotgan 10 kishi ro'yxatidagi meksikalik narkobaron otishmada hibsga olindi",
+   "summary": "Giyohvand moddalar savdosi va qiynoqlarda ayblangan Fausto Isidro \"Chapo Idisro\" Meza Flores rasmiylar bilan qurolli to'qnashuvdan so'ng hibsga olindi.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795303877,
    "date": "2026-11-21"
   },
   {
@@ -86,7 +96,7 @@
    "summary": "550 dan ortiq Google xodimlari maktablarga sun'iy intellektsiz qidiruv tizimiga kirishga ruxsat berish to'g'risidagi petitsiyani imzoladilar. Ota-onalar va o'qituvchilar o'tgan hafta xuddi shu talab bilan 6 ta shaharda Google ofislari oldida norozilik bildirishdi.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
    "ok": true,
-   "cat": "Texnologiya",
+   "cat": "AQSh",
    "source": "NPR",
    "ts": 1795298500,
    "date": "2026-11-21"
@@ -96,7 +106,7 @@
    "summary": "NPRning Janubiy Amerika muxbiri tarixiy saylovlardagi muvaffaqiyatsizlik va papa tashrifini yoritishdagi faoliyati haqida gapirdi.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
    "ok": true,
-   "cat": "Dunyo",
+   "cat": "AQSh",
    "source": "NPR",
    "ts": 1795298495,
    "date": "2026-11-21"
@@ -172,33 +182,13 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Ikkala qirg'oqda ham kutilayotgan bo'ronlar Shukrona kuni sayohatlariga tahdid soladi",
-   "summary": "San-Fransisko meri shahar aholisidan \"juda zarur bo'lmaganda\" sayohat qilmaslikni so'ramoqda. Shu bilan birga, sharqiy qirg'oq bo'ylab harakatlanayotgan bo'ron ham Shukrona kuni oldidan sayohatlarda kechikishlarga olib kelishi mumkin.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "NPR",
-   "ts": 1795285366,
-   "date": "2026-11-21"
-  },
-  {
    "title": "Meksikada kartelning yetakchi boshlig'i \"El Chapo Isidro\" hibsga olindi, bu esa zo'ravonlikni keltirib chiqardi",
    "summary": "\"El Chapo Isidro\" nomi bilan tanilgan Fausto Isidro Meza Flores FQBning eng ko'p qidirilayotgan qochqinlaridan biri edi. Uning shanba kuni Meksikaning shimoli-g'arbiy qismida hibsga olinishi mintaqada zo'ravonliklarni keltirib chiqardi.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795284535,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "FQB o'zining jinoiy ma'lumotlar bazasiga qilingan hujumni tekshirayotgani haqida xabar berilgan",
-   "summary": "Milliy jinoyatchilik haqida ma'lumot markazi ma'lumotlar bazasi federal va mahalliy huquqni muhofaza qilish organlari tomonidan ma'lumot almashish uchun ishlatiladi.",
-   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795278915,
    "date": "2026-11-21"
   },
   {
@@ -282,9 +272,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
-   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
+   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
@@ -292,9 +282,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
-   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
+   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
@@ -429,6 +419,16 @@
    "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795192912,
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Experts say powering data centers uses more water than cooling them",
+   "summary": "Fears about data center water use are especially acute in Arizona. But keeping servers cool uses a lot less water than generating the electricity for which data centers are so thirsty.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
+   "ok": false,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795167819,
    "date": "2026-11-20"
   },
   {
