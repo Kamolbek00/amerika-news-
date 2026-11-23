@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-23 21:32 UTC",
+ "updated": "2026-11-23 22:32 UTC",
  "items": [
+  {
+   "title": "Oq uyning sobiq sun'iy intellekt bo'yicha maslahatchisi milliy xavfsizlik masalasida fikr bildirmoqda, Huang esa Nvidia bosh direktori lavozimiga qaytdi",
+   "summary": "Nvidia bosh direktori Jensen Huang yaqinda iste'foga chiqqanidan keyin yana rahbariyatga qaytdi. Bayden ma'muriyatining sun'iy intellekt bo'yicha maslahatchisi Ben Buchanan bu AQSh milliy xavfsizligi va chip eksporti uchun nimani anglatishini muhokama qiladi.",
+   "link": "https://www.npr.org/2026/11/23/nx-s1-6050936/ex-white-house-ai-advisor-weighs-in-on-national-security-as-huang-is-back-as-nvidia-ceo",
+   "ok": true,
+   "cat": "Siyosat",
+   "source": "NPR",
+   "ts": 1795472609,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Ular Trampning bahsli mem tangalari kechki ovqatida ishtirok etishdi. Bu yaxshi o'tmadi",
+   "summary": "Tramp oʻz kriptovalyutasining eng yaxshi egalari uchun yana bir mem tanga kechki ovqatini oʻtkazdi — bu tadbir qizgʻin bahs-munozaralarga sabab boʻldi. Mana, tashrif buyurgan va oʻz tajribalari bilan oʻrtoqlashgan ikki mehmonning ichki koʻrinishi.",
+   "link": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "NPR",
+   "ts": 1795472279,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "AQSh Nvidia mojarosidan keyin Osiyoning sun'iy intellekt kompaniyasi Megaspeedni qora ro'yxatga kiritdi",
+   "summary": "Megaspeed sobiq rahbarning Jensen Huang bilan bo'lgan ishqiy munosabati ommaga ma'lum bo'lganidan so'ng, Xitoyga sun'iy intellekt chiplarini yetkazib berishda ayblanmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795472126,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Texnologiya sohasidagi ba'zi ayollar Huangning qaytishi haqida xavotirda",
+   "summary": "Texnologiya sohasida DEIni himoya qilgan ayollarning aytishicha, Jensen Huangning NVIDIAga bosh direktor sifatida qaytishi Silikon vodiysida faqat pul muhim ekanligi haqidagi xabarni yuboradi.",
+   "link": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795471437,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Kaliforniyalik demokrat jinsiy zo'ravonlik dalillari tufayli Kongressdan iste'foga chiqadi",
+   "summary": "Bu oy saylovda mag'lub bo'lgan va faqat yil oxirigacha Vakillar palatasida ishlagan Jimmi Gomes xodim bilan jinsiy zo'ravonlikda ayblandi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795470683,
+   "date": "2026-11-23"
+  },
   {
    "title": "Jensen Huang qaytib kelganidan keyin Nvidia aksiyalari 30% ga oshdi va texnologiya aksiyalari ko'tarildi",
    "summary": "Nvidia aksiyalarining keskin o'sishi fond bozorlarini ham ko'tardi, texnologiyaga boy Nasdaq dastlabki savdolarda 6,5% ga oshdi.",
@@ -12,73 +62,33 @@
    "date": "2026-11-23"
   },
   {
-   "title": "Sources: 49ers releasing Aiyuk, ending WR's tumultuous tenure with team",
-   "summary": "The 49ers are releasing wide receiver Brandon Aiyuk on Monday, sources told ESPN's Adam Schefter.",
-   "link": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795468931,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Metcalf denies trying to poke DeJean in eye; NFL won't suspend Steelers WR",
-   "summary": "Steelers wide receiver DK Metcalf on Monday denied trying to poke Eagles cornerback Cooper DeJean in the eye before he was ejected Sunday.",
-   "link": "https://www.espn.com/nfl/story/_/id/50573989/steelers-metcalf-denies-trying-poke-eagles-dejean-eye",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795468931,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "De Bruyne's feelings for Man City will 'never change'",
-   "summary": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
+   "title": "De Bryuynening \"Man Siti\"ga bo'lgan his-tuyg'ulari \"hech qachon o'zgarmaydi\"",
+   "summary": "Kevin de Bryuyne \"Manchester Siti\" xo'jayinlariga \"muhabbat\" bilan qarashini va Premer-liga moliyaviy qoidalarini buzganlikda aybdor deb topilganiga qaramay, klubga bo'lgan his-tuyg'ulari \"hech qachon o'zgarmasligini\" aytdi.",
    "link": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
-   "ok": false,
+   "ok": true,
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795467923,
    "date": "2026-11-23"
   },
   {
-   "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
-   "summary": "Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what's going on. You might be asked to participate in a possible upcoming segment on A",
+   "title": "Bayramlarda munosabatlarni tiklashni rejalashtiryapsizmi? Sulh tuzishni ko'rib chiqyapsizmi? NPR bilishni xohlaydi",
+   "summary": "Siz uchun muhim bo'lgan munosabatlarni siyosiy yoki ijtimoiy muammo buzdimi? Uni tuzatish mumkinmi? Nima bo'layotganini bizga ayting. Sizdan A kanalida bo'lajak segmentda ishtirok etishingiz so'ralishi mumkin.",
    "link": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
-   "ok": false,
+   "ok": true,
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795467192,
    "date": "2026-11-23"
   },
   {
-   "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-   "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+   "title": "Liviyadagi Rossiya kemasiga qilingan hujum Ukrainadagi urushning tarqalishi haqida nima deydi?",
+   "summary": "Frank Gardnerning yozishicha, Ukrainaning Liviyadagi portda Rossiya jangovar kemasini cho'ktirishi urush xavfini bir pog'ona oshiradi.",
    "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-   "ok": false,
+   "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795466915,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "NFL playoff picture: Updated projections, chances to make the postseason",
-   "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to the Super Bowl.",
-   "link": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795463367,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Who has the most to gain -- or lose -- down the stretch? Barnwell on 11 NFL players under pressure",
-   "summary": "Big money on the line for George Pickens and Brian Branch? QB1 role at stake for J.J. McCarthy? Here are 11 players with something to prove over the next seven weeks.",
-   "link": "https://www.espn.com/nfl/story/_/id/50563331/week-11-most-gain-lose-2026-season-pickens-mccarthy",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795463192,
    "date": "2026-11-23"
   },
   {
@@ -92,16 +102,6 @@
    "date": "2026-11-23"
   },
   {
-   "title": "Birinchi xonim Melaniya Tramp bu yilgi Oq uyning Rojdestvo archasini kutib oldi",
-   "summary": "2026-yilgi Oq uyning rasmiy Rojdestvo archasi Viskonsin shtatining Endeavor shahridagi Silent Night Evergreens fermasidan olingan 18 futlik archa hisoblanadi.",
-   "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795459759,
-   "date": "2026-11-23"
-  },
-  {
    "title": "Eron rasmiylari hijobsiz chiqish qilgan qo'shiqchini qamchilashdi, deydi advokatlar",
    "summary": "Xabarlarga ko'ra, Parastoo Ahmadi, uch nafar musiqachi va bir prodyuser Qumda 74 ta qamchi bilan jazolangan.",
    "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
@@ -109,6 +109,16 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795457060,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "COP31 ning muvaffaqiyatsizligi bo'lingan dunyo haqida nimani ochib beradi",
+   "summary": "Neft qazib oluvchi mamlakatlarning manfaatlari, AQShning boykot qilishi va moliya bo'yicha nizolar iqlim muzokaralariga putur yetkazgan bo'lishi mumkin.",
+   "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795454665,
    "date": "2026-11-23"
   },
   {
@@ -212,31 +222,11 @@
    "date": "2026-11-23"
   },
   {
-   "title": "\"Men Fransiyani emas, kapitalizmni yo'q qilmoqchiman\": Fransiya ultra chap qanoti bilan ko'chalarda",
-   "summary": "BBC Fransiya prezidenti Emmanuel Makronning aytishicha, ular Respublikani ag'darishga urinayotgan o'ta chap qanot namoyishchilari bilan uchrashmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795439392,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Sietl aeroporti operatori ICE ikki yo'lovchining hibsga olinishidan \"g'azablandi\"",
-   "summary": "ICE ma'lumotlariga ko'ra, Meksika fuqarolari bo'lgan erkak va ayol vizalarining muddati o'tgani uchun hibsga olingan.",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy479wz91no?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795438257,
-   "date": "2026-11-23"
-  },
-  {
    "title": "Demokratlar Vakillar palatasida 50 yil ichida eng katta farq bilan g'alaba qozonishdi. Va COP31 hech qanday kelishuvsiz yakunlandi",
    "summary": "Demokratlar hozirda Vakillar palatasidagi 47 ta o'rinni almashtirdilar va jami 49 ta o'rinni almashtirishlari mumkin. COP31 da iqlim o'zgarishi bo'yicha muzokaralar kutilganidan ikki kunga ko'proq davom etdi va bu sammit tarixidagi eng uzun konferensiya bo'ldi.",
    "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795437723,
    "date": "2026-11-23"
@@ -322,26 +312,6 @@
    "date": "2026-11-22"
   },
   {
-   "title": "Xristian millatchi konferensiyasi Nik Fuentesni qabul qildi va MAGA kun tartibini ilgari surishda davom etishga va'da berdi",
-   "summary": "O'tgan hafta oxirida Texasda bir guruh xristian millatchilari yig'ilish o'tkazdi va MAGAning qolgan qismini iloji boricha o'ng tomonga siljitishga va'da berishdi. Ular antisemitik strimer Nik Fuentesni qabul qilishdi.",
-   "link": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795353128,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Medicare ro'yxatdan o'tish vaqti keldi. Bilishingiz kerak bo'lgan narsalar",
-   "summary": "Medicare uchun ochiq ro'yxatdan o'tish 7-dekabrgacha davom etadi va bu yil odamlar e'tibor berishlari kerak bo'lgan bir nechta turli xil xavflar mavjud. Sizning dori-darmon rejangiz yoki Medicare Advantage rejangiz juda o'zgarishi mumkin.",
-   "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795353064,
-   "date": "2026-11-22"
-  },
-  {
    "title": "U kichik biznes uchun kredit kutgan edi. Bu tuzoqqa aylanib qoldi.",
    "summary": "Amerikada kichik biznes uchun moliyalashtirishning eng tez o'sib borayotgan manbai ham eng kam tartibga solingan manbalardan biridir. Bir kishi o'zining og'ir xarajatlarini qoplash uchun uzoq va yolg'iz kurash olib bordi.",
    "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
@@ -386,7 +356,7 @@
    "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795255200,
    "date": "2026-11-21"
@@ -429,16 +399,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795212689,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Anthropicning mega-IPOsiga qaramay, texnologiya aksiyalari haftani pasayish bilan yakunladi",
-   "summary": "Anthropic’ning eng katta IPOsi va Nvidia’ning kuchli daromad hisobotiga qaramay, fond bozori haftani pasayish bilan yakunlamoqda, bu asosan investorlarning sun’iy intellekt kelajagi haqidagi xavotirlari tufayli.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795210712,
    "date": "2026-11-20"
   },
   {
