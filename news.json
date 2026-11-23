@@ -1,24 +1,14 @@
 {
- "updated": "2026-11-23 17:37 UTC",
+ "updated": "2026-11-23 18:36 UTC",
  "items": [
   {
-   "title": "Tahlil: Nima uchun Jensen Huang otish uchun juda katta ekanligi aniqlandi",
-   "summary": "Xuanning kompaniyasining sun'iy intellektni rivojlantirish yo'lidagi markaziy roli juda muhim bo'lib chiqdi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795453918,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Oxfamning ta'kidlashicha, Isroil hujumlari G'azoni \"zaharli xarobaga\" aylantirgan",
-   "summary": "Hisobotda aytilishicha, Isroilning harakatlari natijasida deyarli butun G'azoda ifloslanish belgilari mavjud.",
-   "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+   "title": "Eron rasmiylari hijobsiz chiqish qilgan qo'shiqchini qamchilashdi, deydi advokatlar",
+   "summary": "Xabarlarga ko'ra, Parastoo Ahmadi, uch nafar musiqachi va bir prodyuser Qumda 74 ta qamchi bilan jazolangan.",
+   "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795453645,
+   "ts": 1795457060,
    "date": "2026-11-23"
   },
   {
@@ -28,7 +18,37 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795452732,
+   "ts": 1795456107,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Jensen Huang qaytib kelganidan keyin Nvidia aksiyalari 30% ga oshdi va texnologiya aksiyalari ko'tarildi",
+   "summary": "Nvidia aksiyalarining keskin o'sishi fond bozorlarini ham ko'tardi, texnologiyaga boy Nasdaq dastlabki savdolarda 6,5% ga oshdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795455757,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "COP31 ning muvaffaqiyatsizligi bo'lingan dunyo haqida nimani ochib beradi",
+   "summary": "Neft qazib oluvchi mamlakatlarning manfaatlari, AQShning boykot qilishi va moliya bo'yicha nizolar iqlim muzokaralariga putur yetkazgan bo'lishi mumkin.",
+   "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795454665,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Tahlil: Nima uchun Jensen Huang otish uchun juda katta ekanligi aniqlandi",
+   "summary": "Xuanning kompaniyasining sun'iy intellektni rivojlantirish yo'lidagi markaziy roli juda muhim bo'lib chiqdi.",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795453918,
    "date": "2026-11-23"
   },
   {
@@ -92,16 +112,6 @@
    "date": "2026-11-23"
   },
   {
-   "title": "Jensen Huang qaytib kelganidan keyin Nvidia aksiyalari 30% ga oshdi va texnologiya aksiyalari ko'tarildi",
-   "summary": "Nvidia aksiyalarining keskin o'sishi fond bozorlarini ham ko'tardi, texnologiyaga boy Nasdaq dastlabki savdolarda 6,5% ga oshdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795448381,
-   "date": "2026-11-23"
-  },
-  {
    "title": "Raya Dortmundga qarshi o'yinni o'tkazib yuboradi, ammo jarohat \"jiddiy emas\"",
    "summary": "\"Arsenal\" darvozaboni David Raya seshanba kuni bo'lib o'tadigan Chempionlar Ligasi doirasida \"Borussiya Dortmund\"ga qarshi o'yinni o'tkazib yuboradi, ammo uning yelkasidan olgan jarohati operatsiyani talab qilmaydi.",
    "link": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
@@ -142,13 +152,13 @@
    "date": "2026-11-23"
   },
   {
-   "title": "Belgiyada yashash xarajatlari bo'yicha ish tashlash tufayli reyslar bekor qilindi",
-   "summary": "So'nggi oylarda Belgiyada bosh vazir xarajatlarni qisqartirish uchun byudjetni kelishib olishga qiynalayotgan bir paytda bir qator ish tashlashlar bo'lib o'tdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+   "title": "\"Men Fransiyani emas, kapitalizmni yo'q qilmoqchiman\": Fransiya ultra chap qanoti bilan ko'chalarda",
+   "summary": "BBC Fransiya prezidenti Emmanuel Makronning aytishicha, ular Respublikani ag'darishga urinayotgan o'ta chap qanot namoyishchilari bilan uchrashmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795440842,
+   "ts": 1795439392,
    "date": "2026-11-23"
   },
   {
@@ -209,16 +219,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795421293,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "COP31 muzokaralari chuqur kelishmovchiliklarni yuzaga chiqargani sababli yirik iqlim kelishuviga erisha olmadi",
-   "summary": "Qazilma yoqilg'ilar haqida gap ketganidan keyin muzokaralar iqlim o'zgarishiga qarshi kurashda muvaffaqiyatsizlikka uchradi.",
-   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795410906,
    "date": "2026-11-23"
   },
   {
