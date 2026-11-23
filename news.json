@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-23 15:30 UTC",
+ "updated": "2026-11-23 16:31 UTC",
  "items": [
+  {
+   "title": "Nvidia va Jensen Huang AQSh iqtisodiyoti uchun qanchalik muhim?",
+   "summary": "Nvidia bosh direktori sun'iy intellekt bumining markazida bo'lgan.",
+   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795450355,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "\"Hamma uchun Medicare\" yana e'tiborga loyiq. Bu safar uning imkoniyati ko'proqmi?",
+   "summary": "Yangi saylangan bir nechta demokrat senatorlar Medicare for All dasturi bo'yicha kampaniya olib borishdi. Bu haqiqatan ham kuchga kiradigan vaqt bo'lishi mumkinmi?",
+   "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795449649,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Jensen Huangning yuksalishi, qulashi va yana yuksalishi",
+   "summary": "Nikohdan tashqari munosabatlar mojarosiga botib ketgan holda iste'foga chiqqanidan bir necha kun o'tgach, Nvidia kompaniyasining Jensen Huang ajoyib qaytishni amalga oshirmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795448992,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Zelenskiy Liviya qirg'oqlari yaqinida Rossiya kemalari Ukraina dronlari tomonidan urib tushirilganini ma'lum qildi",
+   "summary": "Liviya sharqiy hukumati cho'kib ketgan harbiy kema Rossiyaga qaytayotganida yoqilg'i va ta'minot uchun to'xtaganini aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795448483,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Jensen Huang qaytib kelganidan keyin Nvidia aksiyalari 30% ga oshdi va texnologiya aksiyalari ko'tarildi",
+   "summary": "Nvidia aksiyalarining keskin o'sishi fond bozorlarini ham ko'tardi, texnologiyaga boy Nasdaq dastlabki savdolarda 6,5% ga oshdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795448381,
+   "date": "2026-11-23"
+  },
   {
    "title": "Raya Dortmundga qarshi o'yinni o'tkazib yuboradi, ammo jarohat \"jiddiy emas\"",
    "summary": "\"Arsenal\" darvozaboni David Raya seshanba kuni bo'lib o'tadigan Chempionlar Ligasi doirasida \"Borussiya Dortmund\"ga qarshi o'yinni o'tkazib yuboradi, ammo uning yelkasidan olgan jarohati operatsiyani talab qilmaydi.",
@@ -9,16 +59,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795447389,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Nvidia va Jensen Huang AQSh iqtisodiyoti uchun qanchalik muhim?",
-   "summary": "Nvidia bosh direktori sun'iy intellekt bumining markazida bo'lgan.",
-   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795446948,
    "date": "2026-11-23"
   },
   {
@@ -72,16 +112,6 @@
    "date": "2026-11-23"
   },
   {
-   "title": "Kiberhujumda keyingi ma'lumotlarga kirish",
-   "summary": "Moda sotuvchisi mijozlarning shaxsiy ma'lumotlari buzilganiga oid hech qanday dalil yo'qligini aytdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795437247,
-   "date": "2026-11-23"
-  },
-  {
    "title": "Oxfamning ta'kidlashicha, Isroil hujumlari G'azoni \"zaharli xarobaga\" aylantirgan",
    "summary": "Hisobotda aytilishicha, Isroilning harakatlari natijasida deyarli butun G'azoda ifloslanish belgilari mavjud.",
    "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
@@ -89,16 +119,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795435053,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Zelenskiy Liviya qirg'oqlari yaqinida Rossiya kemalari Ukraina dronlari tomonidan urib tushirilganini ma'lum qildi",
-   "summary": "Liviya sharqiy hukumati cho'kib ketgan harbiy kema Rossiyaga qaytayotganida yoqilg'i va ta'minot uchun to'xtaganini aytdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795434001,
    "date": "2026-11-23"
   },
   {
@@ -126,19 +146,9 @@
    "summary": "Keksa haydovchilar yo'lda uzoqroq qolish uchun Teslaning avtomatlashtirilgan haydash texnologiyasidan foydalanmoqdalar. Ammo xavfsizlik bo'yicha mutaxassislar kompaniya o'z mashinalari qila oladigan narsalarni ortiqcha sotayotgan bo'lishi mumkinligi haqida ogohlantirmoqda.",
    "link": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795428000,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Keytering giganti fond bozori listingini AQShga o'tkazadi, bu Buyuk Britaniyaga yanada katta zarba bo'ladi",
-   "summary": "So'nggi yillarda AQShda aktsiyalarni ro'yxatga olish uchun Buyuk Britaniyani tark etayotgan firmalar soni ortib bormoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795427644,
    "date": "2026-11-23"
   },
   {
@@ -376,7 +386,7 @@
    "summary": "Sun'iy intellekt aksiyalari katta bozor qiymatiga ega va bozor yo'nalishiga ancha katta ta'sir ko'rsatadi. Ular Wall Streetning bu yilgi katta daromadlari uchun javobgar edi va endi bozorning katta pasayishi ortida.",
    "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795212689,
    "date": "2026-11-20"
@@ -389,16 +399,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795210712,
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Mashina xudolari: Antropiklarning dastlabki kunlari",
-   "summary": "Sun'iy intellekt giganti Anthropicning rekord darajadagi IPOsidan so'ng, Machine Gods boshlovchilari Kevin Roose va Casey Newton kompaniyaning dastlabki kunlarini eslashadi, o'sha paytda tor ofisda 200 dan kam ishchi obsesif edi.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6047503/machine-gods-anthropics-early-days",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795210694,
    "date": "2026-11-20"
   },
   {
