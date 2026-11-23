@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-23 00:32 UTC",
+ "updated": "2026-11-23 01:59 UTC",
  "items": [
+  {
+   "title": "Energiya uchun to'lovlar ko'tariladi - mana siz og'riqni qanday engillashtirasiz",
+   "summary": "Uy xo'jaliklarining energiya to'lovlari tez orada ko'tariladi, ammo xarajatlaringizni qoplashning yo'llari bor.",
+   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795395907,
+   "date": "2026-11-23"
+  },
+  {
+   "title": "COP31 muzokaralari chuqur kelishmovchiliklarni yuzaga chiqargani sababli yirik iqlim kelishuviga erisha olmadi",
+   "summary": "Qazilma yoqilg'ilar haqida gap ketganidan keyin muzokaralar iqlim o'zgarishiga qarshi kurashda muvaffaqiyatsizlikka uchradi.",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795395035,
+   "date": "2026-11-23"
+  },
   {
    "title": "Poundland bilan nima bo'lyapti?",
    "summary": "Poundland xaridor topishi uchun bir necha kun kerak, aks holda boshqaruvga tushib qolish xavfi tug'iladi. Nima uchun?",
@@ -12,46 +32,6 @@
    "date": "2026-11-23"
   },
   {
-   "title": "Big Apple blokbasteri: Mets va Skubal rekord darajadagi 9 yillik, 450 million dollarlik shartnomaga erishdilar, deyishadi manbalar",
-   "summary": "Tarik Skubal va Mets to'qqiz yillik, 450 million dollarlik shartnomaga kelishib olishdi, deya xabar beradi manbalar ESPNga. Bu pitcher uchun umumiy va o'rtacha yillik qiymat bo'yicha eng qimmat shartnoma.",
-   "link": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795392541,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "\"Katta o'nlik\" 2021-yildan beri birinchi marta APning eng yaxshi beshligidan tushib ketdi; Jorjiya va Yuta 1-2 hisobida qolishdi",
-   "summary": "\"Katta Ten\"ning hafta oxiri bo'lib o'tgan o'yinlari konferensiyani 2021-yildan beri birinchi marta AP Top 25 kollej futboli so'rovnomasining kuchli beshligiga kiruvchi jamoasiz qoldirdi.",
-   "link": "https://www.espn.com/college-football/story/_/id/50563638/no-big-ten-football-teams-ap-top-5-first-21",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795392541,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Steelers Metcalf jamoasi Eagles jamoasi himoyachisi DeJeanning ko'ziga tiqishga uringani uchun diskvalifikatsiya qilindi",
-   "summary": "\"Steelers\" jamoasining keng qabul qiluvchisi DK Metkalf yakshanba kuni \"Eagles\"ga qarshi o'yinning uchinchi choragida sportchiga xos bo'lmagan xatti-harakatlari uchun maydondan chetlatildi.",
-   "link": "https://www.espn.com/nfl/story/_/id/50564475/steelers-wr-dk-metcalf-ejected-game-eagles",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795392541,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "TCU ko'p yillik uzaytirishdan bir necha oy o'tgach, murabbiy Dayksni ishdan bo'shatdi",
-   "summary": "TCU murabbiy Sonni Dayksni ishdan bo'shatdi, u \"Shoxli qurbaqalar\"ni o'zining birinchi mavsumida 2023 yilgi CFP chempionlik o'yinida maydonga tushirishga olib kelgan edi.",
-   "link": "https://www.espn.com/college-football/story/_/id/50563619/tcu-fires-coach-sonny-dykes-sources-say",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795392541,
-   "date": "2026-11-22"
-  },
-  {
    "title": "San-Fransiskoda sun'iy intellekt rivojlanmoqda, ammo avariya haqidagi xavotirlar kuchaymoqda",
    "summary": "Sanoat markazi - San-Fransiskodagi sun'iy intellekt xodimlari sektor haddan tashqari qizib ketganidan xavotirda.",
    "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
@@ -59,16 +39,6 @@
    "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795392480,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Energiya uchun to'lovlar ko'tariladi - mana siz og'riqni qanday engillashtirasiz",
-   "summary": "Uy xo'jaliklarining energiya to'lovlari tez orada ko'tariladi, ammo xarajatlaringizni qoplashning yo'llari bor.",
-   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795392329,
    "date": "2026-11-23"
   },
   {
@@ -189,16 +159,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795372186,
-   "date": "2026-11-22"
-  },
-  {
-   "title": "COP31 muzokaralari chuqur kelishmovchiliklarni yuzaga chiqargani sababli yirik iqlim kelishuviga erisha olmadi",
-   "summary": "Qazilma yoqilg'ilar haqida gap ketganidan keyin muzokaralar iqlim o'zgarishiga qarshi kurashda muvaffaqiyatsizlikka uchradi.",
-   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795371479,
    "date": "2026-11-22"
   },
   {
@@ -362,9 +322,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
-   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
+   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
@@ -372,9 +332,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
-   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
+   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
    "ok": true,
    "cat": "Iqtisod",
    "source": "NPR",
