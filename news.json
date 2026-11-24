@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24 21:01 UTC",
+ "updated": "2026-11-24 22:05 UTC",
  "items": [
   {
    "title": "Huawei tijorat sirlarini o'g'irlashda aybdor deb topildi, ammo firibgarlikda aybsiz deb topildi",
@@ -8,7 +8,67 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795553961,
+   "ts": 1795555954,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Pochettino Yoroning qizil kartochka olishi \"Manchester Yunayted\"ni g'azabga keltirdi",
+   "summary": "\"Manchester Yunayted\" va Maurisio Pochettino Leni Yoroning qizil kartochkasini VAR Jon Bruks va hakamlar bo'limi boshlig'i Xovard Uebb tomonidan qanday hal qilinganidan norozi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795555633,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "AQSh siyosatchilari Trampning Jensen Huangning qaytishidagi rolini shubha ostiga qo'yishi ortidan Nvidia aksiyalari pasayib ketdi",
+   "summary": "Nvidia aksiyalar bozori qiymati Huangning qayta tayinlanishi e'lon qilinganidan keyin keskin oshdi, ammo seshanba kuni savdolarda ba'zi o'sishlar tiklandi.",
+   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795555182,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Tariflar, yoqilg'i va o'g'it narxlari AQShning eng yirik olma mintaqasini qanday qilib qiynamoqda",
+   "summary": "Vashingtonning 9 milliard dollarlik sanoati mamlakatdagi yangi olma mahsulotlarining 70% dan ortig'ini yetishtiradi. Fermerlar yuqori xarajatlar, tariflar va xorijiy xarid qobiliyatini pasaytiradigan kuchli dollardan aziyat chekmoqda.",
+   "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795554569,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "AQSh hukumati Eronning xakerlik hujumiga uchragan 50 ga yaqin tijorat kemalari bilan aloqalarini tekshirmoqda",
+   "summary": "Agar NPR bilan suhbatlashgan rasmiylar haq bo'lsa, bu hujumlar AQSh bilan urush paytida Eronning global muhim infratuzilmaga qarshi kiberhujumlarining so'nggi namunasi bo'lishi mumkin.",
+   "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795554290,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Bellinghamning ajoyib goli \"Real Madrid\"ga PSV ustidan g'alaba qozonishga yordam berdi",
+   "summary": "Jude Bellingham ajoyib gol urib, \"Real Madrid\" PSV Eyndxovenni mag'lub etdi va Chempionlar Ligasidagi 100% lik startini saqlab qoldi.",
+   "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795553326,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Tomosha qiling: Tramp kurkalarni afv etdi Ozodlik va patlar",
+   "summary": "Donald Tramp Oq uyning uzoq yillik bayram an'anasini davom ettirib, Ozodlik va Patlar ismli ikkita kurkani afv etdi.",
+   "link": "https://www.bbc.co.uk/news/videos/crwy8g3zwq3yo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795553109,
    "date": "2026-11-24"
   },
   {
@@ -32,21 +92,11 @@
    "date": "2026-11-24"
   },
   {
-   "title": "AQSh siyosatchilari Trampning Jensen Huangning qaytishidagi rolini shubha ostiga qo'yishi ortidan Nvidia aksiyalari pasayib ketdi",
-   "summary": "Nvidia aksiyalar bozori qiymati Huangning qayta tayinlanishi e'lon qilinganidan keyin keskin oshdi, ammo seshanba kuni savdolarda ba'zi o'sishlar tiklandi.",
-   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795546559,
-   "date": "2026-11-24"
-  },
-  {
    "title": "Faysal Islom: Sun'iy intellektning rivojlanishi haqidagi qo'rquvlar yo'qolgani yo'q",
    "summary": "Huangning Nvidia’dan to‘satdan ketishidan oldin asosli xavotirlar bor edi — va uning qaytishi vaziyatni hal qilmaydi.",
    "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "AQSh",
    "source": "BBC",
    "ts": 1795544503,
    "date": "2026-11-24"
@@ -62,16 +112,6 @@
    "date": "2026-11-24"
   },
   {
-   "title": "\"Men maydonda bo'lishni sog'indim\" - Sinner tizzasida \"kichik jarrohlik amaliyoti\" o'tkazdi",
-   "summary": "Dunyoning ikkinchi raketkasi Yannik Sinner yanvar oyida bo'lib o'tadigan Avstraliya ochiq chempionati boshlanishidan atigi yetti hafta oldin tizzasida \"kichik jarrohlik amaliyoti\" o'tkazilganini aytdi.",
-   "link": "https://www.bbc.co.uk/sport/tennis/articles/cxlylr3p4q8mo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795543206,
-   "date": "2026-11-24"
-  },
-  {
    "title": "Senegal turnirdan 10 oy o'tgach, Afrika kubogi-2025 g'olibi sifatida qayta tiklandi",
    "summary": "2025-yilgi Afrika Millatlar Kubogi finalidan o'n oy o'tgach, Sport arbitraj sudining qaroriga binoan Senegal chempionlik maqomi tiklandi.",
    "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
@@ -79,16 +119,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795540569,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "Hakam Uebbning qarorini qo'llab-quvvatlaganiga qaramay, Yoroning qizil kartochkasi bekor qilindi",
-   "summary": "\"Manchester Yunayted\" himoyachisi Leni Yoro shanba kuni \"Enfild\"da olgan qizil kartochkasi bekor qilingani sababli \"Brentford\"ga qarshi o'yinda maydonga tushishi aniq.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795539632,
    "date": "2026-11-24"
   },
   {
@@ -142,16 +172,6 @@
    "date": "2026-11-24"
   },
   {
-   "title": "Yomon ob-havo Shukrona kuni sayohatlariga xalaqit beradimi?",
-   "summary": "BBC Weather muxbiri Elizabeth Rizzini AQShning Shukrona kuni munosabati bilan sayohatlarga ta'sir qiladigan ob-havoni ko'rib chiqadi.",
-   "link": "https://www.bbc.co.uk/news/videos/c5742n4741keo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795526302,
-   "date": "2026-11-24"
-  },
-  {
    "title": "Jensen Huang Nvidiaga qaytdi. Vakil Gomes jinsiy zo'ravonlik ayblovlari tufayli iste'foga chiqdi",
    "summary": "Prezident Tramp Jensen Xuangning Nvidia bosh direktori lavozimiga qaytishi bo'yicha muzokaralar olib borganini o'z zimmasiga oldi. Vakil Jimmi Gomes, Kaliforniya shtatidan, uning iste'fosi 1-dekabrdan kuchga kirishini aytdi.",
    "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
@@ -176,19 +196,19 @@
    "summary": "Kaliforniyalik ba'zi uy egalari uylarini o'rmon yong'inlaridan xavfsizroq qilish uchun minglab dollar sarflashdi. Shunga qaramay, bu ishlarning barchasi ularning sug'urta to'lovlariga deyarli ta'sir qilmadi. Ular ko'proq foyda olishlari kerakmi?",
    "link": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795519800,
    "date": "2026-11-24"
   },
   {
-   "title": "Ota-onalar K vitaminidan voz kechganidan keyin shifokorlar chaqaloqlarni qutqarishga qiynalishadi",
-   "summary": "Shifokorlar kasalxonada yangi tug'ilgan chaqaloqlarga muntazam ravishda beriladigan K vitamini ukollari haqidagi dezinformatsiyaga qarshi qattiq kurash olib bormoqdalar. Bu noyob, ammo halokatli qon ketishining oldini olishga yordam beradi.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+   "title": "Tramp Nvidia kompaniyasini bosh direktor Jensen Huangni qayta ishga qaytarishga \"ko'ndirganini\" aytganidan keyin keskin tanqidlarga uchradi",
+   "summary": "Nvidia prezident Trampning Huangni qayta tayinlash bo'yicha bosimi ostida qolgan edi, uning qaytishi kompaniya aksiyalari qiymatiga 1 trillion dollar qo'shishga yordam berdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "AQSh",
-   "source": "NPR",
-   "ts": 1795514400,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795517617,
    "date": "2026-11-24"
   },
   {
@@ -282,13 +302,13 @@
    "date": "2026-11-24"
   },
   {
-   "title": "Britaniyaning uy egalari tobora ko'payib bormoqda. Ikki bosqichli ijara bozori paydo bo'lishi mumkin",
-   "summary": "Korporativ uy egalari sonining ko'payishi ijarachilar uchun katta o'zgarishlarni keltirib chiqarishi mumkin",
-   "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+   "title": "Hayotimni boshqa birov qilish uchun oyiga 250 funt sterling to'layman, admin - bunga arziydi",
+   "summary": "Atlantika okeanining ikkala tomonidagi band onalar kompaniyalarga bajarilishi kerak bo'lgan ishlar ro'yxatini yuritish uchun pul to'lamoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Iqtisod",
    "source": "BBC",
-   "ts": 1795480128,
+   "ts": 1795478464,
    "date": "2026-11-24"
   },
   {
@@ -322,16 +342,6 @@
    "date": "2026-11-23"
   },
   {
-   "title": "Ular Trampning bahsli mem tangalari kechki ovqatida ishtirok etishdi. Bu yaxshi o'tmadi",
-   "summary": "Tramp oʻz kriptovalyutasining eng yaxshi egalari uchun yana bir mem tanga kechki ovqatini oʻtkazdi — bu tadbir qizgʻin bahs-munozaralarga sabab boʻldi. Mana, tashrif buyurgan va oʻz tajribalari bilan oʻrtoqlashgan ikki mehmonning ichki koʻrinishi.",
-   "link": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "NPR",
-   "ts": 1795472279,
-   "date": "2026-11-23"
-  },
-  {
    "title": "Jensen Huang qaytib kelganidan keyin Nvidia aksiyalari 30% ga oshdi va texnologiya aksiyalari ko'tarildi",
    "summary": "Nvidia aksiyalarining keskin o'sishi fond bozorlarini ham ko'tardi, texnologiyaga boy Nasdaq dastlabki savdolarda 6,5% ga oshdi.",
    "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
@@ -339,16 +349,6 @@
    "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795469022,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Tahlil: Nima uchun Jensen Huang otish uchun juda katta ekanligi aniqlandi",
-   "summary": "Xuanning kompaniyasining sun'iy intellektni rivojlantirish yo'lidagi markaziy roli juda muhim bo'lib chiqdi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795453918,
    "date": "2026-11-23"
   },
   {
