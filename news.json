@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24 02:54 UTC",
+ "updated": "2026-11-24 05:07 UTC",
  "items": [
   {
    "title": "Tramp Nvidia kompaniyasini Jensen Huangni qayta ishga qaytarishga \"ko'ndirganini\" aytdi",
@@ -8,7 +8,17 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795482714,
+   "ts": 1795494991,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "NATO bosh kotibi Rossiyaning yadroviy sun'iy yo'ldoshi haqidagi xabarlardan so'ng kosmik tahdiddan himoyalanishga va'da berdi",
+   "summary": "Germaniya ommaviy axborot vositalari Rossiya kelgusi haftalarda kosmosga yadroviy kallakli sun'iy yo'ldoshni uchirishni rejalashtirayotganini xabar qilishdi.",
+   "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795486559,
    "date": "2026-11-24"
   },
   {
@@ -169,16 +179,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795453918,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Oxfamning ta'kidlashicha, Isroil hujumlari G'azoni \"zaharli xarobaga\" aylantirgan",
-   "summary": "Hisobotda aytilishicha, Isroilning harakatlari natijasida deyarli butun G'azoda ifloslanish belgilari mavjud.",
-   "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795453645,
    "date": "2026-11-23"
   },
   {
