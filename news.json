@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-24 22:05 UTC",
+ "updated": "2026-11-24 23:04 UTC",
  "items": [
+  {
+   "title": "Oraliq saylovlardan keyin ba'zi respublikachilar Floridaga ko'chib o'tishni tanlashlari mumkin",
+   "summary": "Florida shtatida respublikachilar oraliq saylovlardan keyin ham shtat boshqaruvi hokimiyatini saqlab qolishdi. Hozirda bu Respublikachilar partiyasi hali ham boshqarayotgan eng yirik shtatdir.",
+   "link": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms",
+   "ok": true,
+   "cat": "Siyosat",
+   "source": "NPR",
+   "ts": 1795560841,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Yuqori texnologiyalar yuk tashish jinoyatlarini qanday o'zgartirmoqda",
+   "summary": "Yuk mashinalarida kurka va burbon go'shti tranzitda o'g'irlanmoqda. Oziq-ovqat va ichimliklarning o'g'irlanishi ko'payib bormoqda, qisman tovarlarni kuzatib borish qiyin. Biz yuqori texnologiyalar qanday o'zgarayotganiga qaraymiz.",
+   "link": "https://www.npr.org/2026/11/24/nx-s1-6051029/how-high-technology-is-changing-cargo-crime",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795560550,
+   "date": "2026-11-24"
+  },
   {
    "title": "Huawei tijorat sirlarini o'g'irlashda aybdor deb topildi, ammo firibgarlikda aybsiz deb topildi",
    "summary": "Hukm Nyu-Yorkda bir necha oy davom etgan sud jarayonidan so'ng chiqarildi.",
@@ -8,7 +28,7 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795555954,
+   "ts": 1795559063,
    "date": "2026-11-24"
   },
   {
@@ -18,7 +38,7 @@
    "ok": true,
    "cat": "Sport",
    "source": "BBC",
-   "ts": 1795555633,
+   "ts": 1795557931,
    "date": "2026-11-24"
   },
   {
@@ -49,16 +69,6 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795554290,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "Bellinghamning ajoyib goli \"Real Madrid\"ga PSV ustidan g'alaba qozonishga yordam berdi",
-   "summary": "Jude Bellingham ajoyib gol urib, \"Real Madrid\" PSV Eyndxovenni mag'lub etdi va Chempionlar Ligasidagi 100% lik startini saqlab qoldi.",
-   "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795553326,
    "date": "2026-11-24"
   },
   {
@@ -109,6 +119,16 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795543666,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "\"Men maydonda bo'lishni sog'indim\" - Sinner tizzasida \"kichik jarrohlik amaliyoti\" o'tkazdi",
+   "summary": "Dunyoning ikkinchi raketkasi Yannik Sinner yanvar oyida bo'lib o'tadigan Avstraliya ochiq chempionati boshlanishidan atigi yetti hafta oldin tizzasida \"kichik jarrohlik amaliyoti\" o'tkazilganini aytdi.",
+   "link": "https://www.bbc.co.uk/sport/tennis/articles/cxlylr3p4q8mo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795543206,
    "date": "2026-11-24"
   },
   {
@@ -332,16 +352,6 @@
    "date": "2026-11-23"
   },
   {
-   "title": "Kaliforniyalik demokrat vakil Gomes jinsiy zo'ravonlik ayblovlari bo'yicha axloqiy hisobotdan so'ng iste'foga chiqdi",
-   "summary": "Kaliforniyalik kongressmen Jimmi Gomes Vakillar palatasi axloqiy hisobotida Gomesning xatti-harakatlari \"nomaqbul jinsiy aloqa qilish\" orqali Vakillar palatasi qoidalarini buzganligi haqida xulosa chiqarilgandan so'ng iste'foga chiqishini aytdi.",
-   "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795472993,
-   "date": "2026-11-23"
-  },
-  {
    "title": "Jensen Huang qaytib kelganidan keyin Nvidia aksiyalari 30% ga oshdi va texnologiya aksiyalari ko'tarildi",
    "summary": "Nvidia aksiyalarining keskin o'sishi fond bozorlarini ham ko'tardi, texnologiyaga boy Nasdaq dastlabki savdolarda 6,5% ga oshdi.",
    "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
@@ -389,16 +399,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795270697,
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
-   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795255200,
    "date": "2026-11-21"
   },
   {
