@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-24 17:52 UTC",
+ "updated": "2026-11-24 18:56 UTC",
  "items": [
+  {
+   "title": "AQSh siyosatchilari Trampning Jensen Huangning qaytishidagi rolini shubha ostiga qo'yishi ortidan Nvidia aksiyalari pasayib ketdi",
+   "summary": "Nvidia aksiyalar bozori qiymati Huangning qayta tayinlanishi e'lon qilinganidan keyin keskin oshdi, ammo seshanba kuni savdolarda ba'zi o'sishlar tiklandi.",
+   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795546559,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Faysal Islom: Sun'iy intellektning rivojlanishi haqidagi qo'rquvlar yo'qolgani yo'q",
+   "summary": "Huangning Nvidia’dan to‘satdan ketishidan oldin asosli xavotirlar bor edi — va uning qaytishi vaziyatni hal qilmaydi.",
+   "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795544503,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Hindistonning \"hamamböceği\" partiyasi yetakchisi Buyuk Britaniyaga uchishiga to'sqinlik qilinganini aytdi",
+   "summary": "Saurav Dasning so'zlariga ko'ra, Dehli aeroportidagi immigratsiya idoralari unga pasportiga \"bayroq qo'yilgan\"ligini aytishgan.",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795543666,
+   "date": "2026-11-24"
+  },
   {
    "title": "Senegal turnirdan 10 oy o'tgach, Afrika kubogi-2025 g'olibi sifatida qayta tiklandi",
    "summary": "2025-yilgi Afrika Millatlar Kubogi finalidan o'n oy o'tgach, Sport arbitraj sudining qaroriga binoan Senegal chempionlik maqomi tiklandi.",
@@ -12,16 +42,6 @@
    "date": "2026-11-24"
   },
   {
-   "title": "AQSh siyosatchilari Trampning Jensen Huangning qaytishidagi rolini shubha ostiga qo'yishi ortidan Nvidia aksiyalari pasayib ketdi",
-   "summary": "Nvidia aksiyalar bozori qiymati Huangning qayta tayinlanishi e'lon qilinganidan keyin keskin oshdi, ammo seshanba kuni savdolarda ba'zi o'sishlar tiklandi.",
-   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795539860,
-   "date": "2026-11-24"
-  },
-  {
    "title": "Hakam Uebbning qarorini qo'llab-quvvatlaganiga qaramay, Yoroning qizil kartochkasi bekor qilindi",
    "summary": "\"Manchester Yunayted\" himoyachisi Leni Yoro shanba kuni \"Enfild\"da olgan qizil kartochkasi bekor qilingani sababli \"Brentford\"ga qarshi o'yinda maydonga tushishi aniq.",
    "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
@@ -29,16 +49,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795539632,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "Hindistonning \"hamamböceği\" partiyasi yetakchisi Buyuk Britaniyaga uchishiga to'sqinlik qilinganini aytdi",
-   "summary": "Saurav Dasning so'zlariga ko'ra, Dehli aeroportidagi immigratsiya idoralari unga pasportiga \"bayroq qo'yilgan\"ligini aytishgan.",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795538224,
    "date": "2026-11-24"
   },
   {
@@ -89,16 +99,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795526302,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "Marstonning so'zlariga ko'ra, Jahon chempionati foydani oshirdi",
-   "summary": "Kompaniyaning ta'kidlashicha, \"a'lo darajadagi Jahon chempionati\" yillik foyda 18 foizga o'sishi bilan kuchli savdoni rivojlantirishga yordam bergan.",
-   "link": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795525400,
    "date": "2026-11-24"
   },
   {
@@ -202,9 +202,9 @@
    "date": "2026-11-24"
   },
   {
-   "title": "Kolumbiyaning loyqa \"suv qo'riqchilari\" bilan tanishing",
-   "summary": "Kolumbiya And tog'larining baland qismida millionlab odamlarni suv bilan ta'minlashga yordam beradigan g'ayrioddiy o'simlikni - bir vaqtning o'zida bitta kichik ko'chatni qutqarish uchun ko'ngillilar soni ortib bormoqda.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+   "title": "Qon ketish, tug'ma nuqsonlar: Kongo aholisi konchilik ifloslanishida ayblanib sudga murojaat qilishdi",
+   "summary": "Kongoda 27 nafar aholi Xitoyga tegishli mis va kobalt konini o'z jamoasini zaharlashda va hukumatni ularni himoya qilmaslikda ayblamoqda.",
+   "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
    "ok": true,
    "cat": "Dunyo",
    "source": "NPR",
@@ -212,9 +212,9 @@
    "date": "2026-11-24"
   },
   {
-   "title": "Qon ketish, tug'ma nuqsonlar: Kongo aholisi konchilik ifloslanishida ayblanib sudga murojaat qilishdi",
-   "summary": "Kongoda 27 nafar aholi Xitoyga tegishli mis va kobalt konini o'z jamoasini zaharlashda va hukumatni ularni himoya qilmaslikda ayblamoqda.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+   "title": "Kolumbiyaning loyqa \"suv qo'riqchilari\" bilan tanishing",
+   "summary": "Kolumbiya And tog'larining baland qismida millionlab odamlarni suv bilan ta'minlashga yordam beradigan g'ayrioddiy o'simlikni - bir vaqtning o'zida bitta kichik ko'chatni qutqarish uchun ko'ngillilar soni ortib bormoqda.",
+   "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
    "ok": true,
    "cat": "Dunyo",
    "source": "NPR",
