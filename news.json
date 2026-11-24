@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24 14:31 UTC",
+ "updated": "2026-11-24 15:42 UTC",
  "items": [
   {
    "title": "Senegal turnirdan 10 oy o'tgach, Afrika kubogi-2025 g'olibi sifatida qayta tiklandi",
@@ -8,7 +8,27 @@
    "ok": true,
    "cat": "Sport",
    "source": "BBC",
-   "ts": 1795530615,
+   "ts": 1795534805,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Urushdan ikki yil o'tgach, Suriyada mina qurbonlari soni ortib bormoqda",
+   "summary": "Raqamlar shuni ko'rsatadiki, mojarodan qolgan portlovchi moddalar tufayli halok bo'lgan yoki jarohatlanganlar orasida qariyb 1000 bola bor.",
+   "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795533448,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "15 yoshli Sooryavanshi 53 ta to'pdan 204 tasini kiritib, oltilik rekordini yangiladi",
+   "summary": "Hindistonlik 15 yoshli sensatsiya Vaibhav Sooryavanshi Hindiston A jamoasi safida 53 ta to'pdan 204 tasini aniq nishonga oldi va A ro'yxatidagi kriketdagi eng tezkor ikki yuzlik rekordni deyarli ikki baravarga qisqartirdi.",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795531970,
    "date": "2026-11-24"
   },
   {
@@ -222,16 +242,6 @@
    "date": "2026-11-24"
   },
   {
-   "title": "De Bryuyne \"Man Siti\"ga qaytganidan keyin \"Napoli\"da nima uchun qiynaldi?",
-   "summary": "Kevin de Bryuynening o'tgan yozda \"Napoli\"ga o'tishi uning faoliyatining eng so'nggi yillariga yaqinlashib kelayotgan bir paytda \"Manchester Siti\"dagi yorqin o'n yillik faoliyatining davomi bo'lishi kerak edi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795503436,
-   "date": "2026-11-24"
-  },
-  {
    "title": "Hindistonning \"hamamböceği\" partiyasi yetakchisi Buyuk Britaniyaga uchishiga to'sqinlik qilinganini aytdi",
    "summary": "Saurav Dasning so'zlariga ko'ra, Dehli aeroportidagi immigratsiya idoralari unga pasportiga \"bayroq qo'yilgan\"ligini aytishgan.",
    "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
@@ -312,16 +322,6 @@
    "date": "2026-11-23"
   },
   {
-   "title": "Jizel Peliko kitobini targ'ib qilish uchun ommaviy axborot vositalariga yalang'och suratlari yuborilganidan keyin \"xo'rlangan\"",
-   "summary": "Majburiy nazorat haqidagi insho nashriyotchisi \"noxush va noo'rin muloqot\" uchun uzr so'raydi.",
-   "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795469087,
-   "date": "2026-11-23"
-  },
-  {
    "title": "Jensen Huang qaytib kelganidan keyin Nvidia aksiyalari 30% ga oshdi va texnologiya aksiyalari ko'tarildi",
    "summary": "Nvidia aksiyalarining keskin o'sishi fond bozorlarini ham ko'tardi, texnologiyaga boy Nasdaq dastlabki savdolarda 6,5% ga oshdi.",
    "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
@@ -392,9 +392,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "Anthropic insoniyatni birinchi o'ringa qo'yishini aytmoqda. Uning IPOsi buni o'zgartiradimi?",
-   "summary": "Tanqidchilarning ta'kidlashicha, endi sun'iy intellekt giganti ochiq kompaniya bo'lganligi sababli, uning xavfsizlikni tijorat muvaffaqiyatidan ustun qo'yishga sodiqligi sinovdan o'tkaziladi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "title": "Sun'iy intellekt bumi juda yomon haftani o'tkazdi — va bu baland ovozda xavotirlarni uyg'otmoqda",
+   "summary": "Bu hafta sun'iy intellekt aksiyalari va kengroq bozorlar keskin pasayib ketdi, bu esa moliyaviy tizim va kengroq iqtisodiyot haqida jiddiy xavotirlarni keltirib chiqardi. Bilishingiz kerak bo'lgan narsalar.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
    "ok": true,
    "cat": "Texnologiya",
    "source": "NPR",
