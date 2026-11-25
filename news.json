@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-25 10:44 UTC",
+ "updated": "2026-11-25 11:45 UTC",
  "items": [
+  {
+   "title": "Kolumbiya politsiyasi supermarketga bostirib kirib, 17 soat davomida garovda ushlab turilgan 20 kishini ozod qildi",
+   "summary": "17 soatlik garovga olinganlardan so'ng, 20 ga yaqin xaridor va xodimni ozod qilish operatsiyasida bir qurolli shaxs o'ldirildi.",
+   "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795607116,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Uy xo'jaliklari energiya uchun to'lovlarning keskin oshishiga tayyorlanmoqda, yangi narx chegarasi e'lon qilinadi",
+   "summary": "Ofgem regulyatorining yangi narx chegarasi ostida yanvar oyida ichki gaz narxlari sezilarli darajada oshadi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795607066,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "\"Uotford\" Yordaneskuni bosh murabbiy etib tayinladi",
+   "summary": "\"Uotford\" Alessio Dionisi iste'foga chiqarilganidan so'ng, Ruminiyaning sobiq bosh murabbiyi Edvard Yordaneskuni yangi bosh murabbiy etib tayinladi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795605334,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Afrikaning eng baland nuqtasi bo'lgan Kilimanjaro tog'idan salomlar",
+   "summary": "Kilimanjaro kabi baland tog'larga chiqish qarama-qarshiliklarni o'rganishdir - quyoshning titrashidan tortib, muzlagan tunlar, olov va qorgacha.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795604400,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Huawei tijorat sirlarini o'g'irlashda aybdor deb topildi, ammo firibgarlikda aybsiz deb topildi",
+   "summary": "Hukm Nyu-Yorkda bir necha oy davom etgan sud jarayonidan so'ng chiqarildi.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "BBC",
+   "ts": 1795603929,
+   "date": "2026-11-25"
+  },
   {
    "title": "Energiya uchun to'lovlar ko'tariladi - mana siz og'riqni qanday engillashtirasiz",
    "summary": "Uy xo'jaliklarining energiya to'lovlari oshib bormoqda, ammo xarajatlaringizni qoplashning yo'llari bor.",
@@ -62,26 +112,6 @@
    "date": "2026-11-25"
   },
   {
-   "title": "Kolumbiya politsiyasi supermarketga bostirib kirib, 17 soat davomida garovda ushlab turilgan 20 kishini ozod qildi",
-   "summary": "17 soatlik garovga olinganlardan so'ng, 20 ga yaqin xaridor va xodimni ozod qilish operatsiyasida bir qurolli shaxs o'ldirildi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795600579,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Uy xo'jaliklari energiya uchun to'lovlarning keskin oshishiga tayyorlanmoqda, yangi narx chegarasi e'lon qilinadi",
-   "summary": "Ofgem regulyatorining yangi narx chegarasi ostida yanvar oyida ichki gaz narxlari sezilarli darajada oshadi.",
-   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795600479,
-   "date": "2026-11-25"
-  },
-  {
    "title": "Energiya limitining o'zgarishi mening to'lovlarim uchun nimani anglatadi?",
    "summary": "Ofgem regulyatori millionlab xonadonlarning energiya to'lovlariga ta'sir qiluvchi chegarani oshirmoqda.",
    "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
@@ -96,7 +126,7 @@
    "summary": "Siyosiy byuro a'zosi Prezident Si Tszinpinning uzoq vaqtdan beri davom etayotgan korruptsiyaga qarshi kampaniyasida nishonga olingan so'nggi yuqori lavozimli amaldor bo'lib, uning ko'lami yoki chuqurligida hech qanday pasayish belgilari ko'rsatilmagan.",
    "link": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795599853,
    "date": "2026-11-25"
@@ -122,6 +152,16 @@
    "date": "2026-11-25"
   },
   {
+   "title": "Fin Smitning yuk ko'tarishi Angliyaga qanday qilib qo'shimcha o'lcham bag'ishlamoqda",
+   "summary": "Fin Smitning bo'yi atigi 1,5 metr va bo'yi 1,5 metrdan kam, ammo yarim himoyachi Angliyaning eng sermahsul to'p tashuvchilaridan biriga aylandi.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gvr5yz24o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795593091,
+   "date": "2026-11-25"
+  },
+  {
    "title": "Missisipi qirg'og'ida samolyot halokatga uchrashi oqibatida halok bo'lgan olti kishi orasida ikki bola bor",
    "summary": "AQSh Sohil Xavfsizlik Xizmati ma'lumotlariga ko'ra, g'avvoslar samolyotning fyuzelyajidan to'rt nafar kattalar va 8 va 10 yoshli ikki o'g'il bolaning jasadlarini topdilar.",
    "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
@@ -142,16 +182,6 @@
    "date": "2026-11-25"
   },
   {
-   "title": "\"Manchester Yunayted\" bu mavsumdagi \"Tottenxem\"mi?",
-   "summary": "\"Tottenxem\" o'tgan mavsumning so'nggi kunida aql bovar qilmaydigan darajada Premer-ligadan tushib ketishdan qutulib qoldi, ammo \"Manchester Yunayted\" yangi \"shporlar\"ga aylanish xavfi ostidami?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795587756,
-   "date": "2026-11-25"
-  },
-  {
    "title": "Katta asteroid qulaganidan to'rt yil o'tgach, kosmik kema zararni baholash uchun qaytib keldi",
    "summary": "Missiya to'qnashayotgan kosmik kema tomonidan ataylab yo'nalishdan chetga surilgan asteroidni o'rganishdan iborat.",
    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
@@ -169,16 +199,6 @@
    "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795578247,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Huawei tijorat sirlarini o'g'irlashda aybdor deb topildi, ammo firibgarlikda aybsiz deb topildi",
-   "summary": "Hukm Nyu-Yorkda bir necha oy davom etgan sud jarayonidan so'ng chiqarildi.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795575567,
    "date": "2026-11-25"
   },
   {
@@ -259,16 +279,6 @@
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795564094,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "\"Pas, pas, sekin, sekin\" - \"Man Siti\"ning ajoyib mashinasi to'xtab qoldi",
-   "summary": "\"Manchester Siti\"ning ayyor futbol mashinasi to'xtab qolmoqda, bu Chempionlar Ligasida \"Napoli\"ga qarshi o'yinda ko'rsatilgan mashaqqatli durang natijada ko'rinib turibdi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795562262,
    "date": "2026-11-24"
   },
   {
@@ -355,16 +365,6 @@
    "title": "Qon ketish, tug'ma nuqsonlar: Kongo aholisi konchilik ifloslanishida ayblanib sudga murojaat qilishdi",
    "summary": "Kongoda 27 nafar aholi Xitoyga tegishli mis va kobalt konini o'z jamoasini zaharlashda va hukumatni ularni himoya qilmaslikda ayblamoqda.",
    "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795514400,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "Kolumbiyaning loyqa \"suv qo'riqchilari\" bilan tanishing",
-   "summary": "Kolumbiya And tog'larining baland qismida millionlab odamlarni suv bilan ta'minlashga yordam beradigan g'ayrioddiy o'simlikni - bir vaqtning o'zida bitta kichik ko'chatni qutqarish uchun ko'ngillilar soni ortib bormoqda.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
    "ok": true,
    "cat": "Dunyo",
    "source": "NPR",
