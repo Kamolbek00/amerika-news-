@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25 19:33 UTC",
+ "updated": "2026-11-25 20:33 UTC",
  "items": [
   {
    "title": "AQSh armiyasi Ayova shtatida portlovchi moddalarning nazorat ostida portlashi \"katta muvaffaqiyat\" bo'lganini aytdi",
@@ -8,7 +8,17 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795634583,
+   "ts": 1795636492,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Isroil sudyalari Netanyaxuga qarshi eng jiddiy ayblovlarni bekor qilishni tavsiya qilmoqdalar",
+   "summary": "Isroil Bosh vaziri sudyalar uchta ishdan bittasida aybdor deb topilish ehtimoli juda kam ekanligini aytgandan so'ng, uning sud jarayoni tugashi kerakligini aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795636059,
    "date": "2026-11-25"
   },
   {
@@ -169,16 +179,6 @@
    "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795614128,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Rossiyaning o'z ma'lumotlariga ko'ra, Ukrainadagi urushda qariyb 500 ming kishi halok bo'lgan.",
-   "summary": "Sizib chiqqan ma'lumotlar Ukrainaning to'liq miqyosli bosqini Rossiyada o'lim ko'rsatkichlarini qanday tubdan o'zgartirganini ko'rsatmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795609309,
    "date": "2026-11-25"
   },
   {
