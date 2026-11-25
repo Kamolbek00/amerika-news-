@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-25 21:40 UTC",
+ "updated": "2026-11-25 22:39 UTC",
  "items": [
+  {
+   "title": "Macy's ob-havo tufayli Shukrona bayrami paradini qoldirdi",
+   "summary": "Shahar osmono'par binolari yonidan o'tib ketadigan ulkan sharlar bilan mashhur bo'lgan ushbu ramziy bayramni o'tkazishga tayyorgarlik chorshanba kuni allaqachon boshlangan edi.",
+   "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795646299,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Qohira avtomagistralida yoqilg'i tashuvchi mashinaning halokatga uchrashi oqibatida kamida 30 kishi halok bo'ldi",
+   "summary": "Misr poytaxtidagi gavjum halqa yo'lida tanker ag'darilib ketishi oqibatida yana 19 kishi jarohat oldi.",
+   "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795645086,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Isakning dubl qayd etishi \"Liverpul\"ga \"Bryuge\"ni mag'lub etishga yordam berdi",
+   "summary": "\"Liverpul\" Aleksandr Isak va Florian Virtsning gollari evaziga \"Bryugge\"ni ajoyib tarzda mag'lub etdi va Chempionlar Ligasidagi so'nggi o'yindagi mag'lubiyatdan so'ng o'z o'rniga qaytdi.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795644739,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Gordonning yulduzi \"Barselona\"ning \"Sabah\" ustidan qozongan ishonchli g'alabasida",
+   "summary": "\"Barselona\" Chempionlar Ligasida \"Sabah\" ustidan 4:1 hisobida g'alaba qozongan o'yinda Entoni Gordon jamoasining dastlabki ikkita golini urdi.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795644422,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "AQSh aksiyalari sun'iy intellektga oid xavotirlar kuchaygan sari yanada pasayib bormoqda",
+   "summary": "AQShning uchta asosiy indeksi ham dastlabki savdolarda pasayib ketdi, texnologiyalar ustunlik qiladigan Nasdaq esa deyarli 4% ga pasaydi.",
+   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795642998,
+   "date": "2026-11-25"
+  },
   {
    "title": "Shukrona kuni stolida AI haqida qanday gapirish kerak",
    "summary": "Bu Shukrona kunida siz oilangiz bilan yig'ilgansiz, sun'iy intellekt mavzusi ko'tariladi. Qanday qilib samarali, faktlarga asoslangan suhbat qurish mumkin?",
@@ -32,29 +82,19 @@
    "date": "2026-11-25"
   },
   {
-   "title": "Qohira avtomagistralida yoqilg'i tashuvchi mashinaning halokatga uchrashi oqibatida kamida 30 kishi halok bo'ldi",
-   "summary": "Misr poytaxtidagi gavjum halqa yo'lida tanker ag'darilib ketishi oqibatida yana 19 kishi jarohat oldi.",
-   "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+   "title": "Regulyator rahbari \"Man Siti\"ga qarshi o'yinga \"qorni to'ymaydi\"",
+   "summary": "Angliya futbolining mustaqil regulyatori raisi deputatlarga \"Manchester Siti\"ga qarshi potentsial choralar ko'rishga \"juda jur'atli\" ekanligini aytdi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Dunyo",
+   "cat": "Sport",
    "source": "BBC",
-   "ts": 1795641914,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Macy's ob-havo tufayli Shukrona bayrami paradini qoldirdi",
-   "summary": "Shahar osmono'par binolari yonidan o'tib ketadigan ulkan sharlar bilan mashhur bo'lgan ushbu ramziy bayramni o'tkazishga tayyorgarlik chorshanba kuni allaqachon boshlangan edi.",
-   "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795641868,
+   "ts": 1795642055,
    "date": "2026-11-25"
   },
   {
    "title": "Ostindagi ushbu Little Free Bakery’da qo‘shnilar xamir ovqatlar uchun kelishadi va jamoatchilik bilan aloqa qilish uchun qolishadi.",
-   "summary": "Mamlakat bo'ylab Little Free Bakeries paydo bo'lmoqda. Ularning har biri biroz boshqacha ishlasa-da, maqsad bir xil: qo'shnilariga shirin taomlar taklif qilish, ular bilan suhbatlashishga undash.",
-   "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection",
+   "summary": "Ushbu tezkor xamir ovqatlar ortidagi novvoylar foyda ko'rmayaptilar, lekin ular odamlar qutblangan davrda birlashishi uchun makon yaratmoqdalar.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
    "ok": true,
    "cat": "AQSh",
    "source": "NPR",
@@ -92,36 +132,6 @@
    "date": "2026-11-25"
   },
   {
-   "title": "Glasner Forest o'yinchilarini hali ingliz tilini o'rganmaganlikda tanqid qildi",
-   "summary": "\"Nottingem Forest\" bosh murabbiyi Oliver Glasner jamoasining ba'zi a'zolari bir necha yillar davomida mamlakatda bo'lganidan keyin nega ingliz tilida gapira olmasligiga shubha bildirdi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795631575,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "AQSh aksiyalari sun'iy intellektga oid xavotirlar kuchaygan sari yanada pasayib bormoqda",
-   "summary": "AQShning uchta asosiy indeksi ham dastlabki savdolarda pasayib ketdi, texnologiyalar ustunlik qiladigan Nasdaq esa deyarli 4% ga pasaydi.",
-   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795628889,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Uilyams Formula-1 xarajatlar chegarasidan 627 ming funt sterlingga oshdi",
-   "summary": "FIA boshqaruv organi Uilyams 2025-yilgi mavsumda Formula 1 ning xarajatlar chegarasini \"tasodifan\" buzganini aniqladi.",
-   "link": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795628254,
-   "date": "2026-11-25"
-  },
-  {
    "title": "Senatdagi demokratlar guruhi rahbariyatga birinchi kurs talabalarini qo'shishni talab qilmoqda",
    "summary": "Bir nechta demokrat senatorlar bu harakatni qo'llab-quvvatlab, partiya noyabr oyida partiyani g'alabaga olib kelgan turli xil yangi kelgan birinchi kurs talabalarini tan olishi kerakligini aytishdi.",
    "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
@@ -149,16 +159,6 @@
    "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795626032,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "\"Dunyoning eng yaxshi yarim himoyachisi\" - Bellingham qaysi o'rinda?",
-   "summary": "Joze Mourino \"Real Madrid\" futbolchisi Jude Bellinghamni \"dunyodagi eng yaxshi yarim himoyachi\" deb atadi, ammo uni qaysi o'ringa qo'ygan bo'lardingiz?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795625196,
    "date": "2026-11-25"
   },
   {
