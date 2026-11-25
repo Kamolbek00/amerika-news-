@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-25 14:23 UTC",
+ "updated": "2026-11-25 15:36 UTC",
  "items": [
+  {
+   "title": "AQSh aksiyalari sun'iy intellektga oid xavotirlar kuchaygan sari yanada pasayib bormoqda",
+   "summary": "AQShning uchta asosiy indeksi ham dastlabki savdolarda pasayib ketdi, texnologiyalar ustunlik qiladigan Nasdaq esa deyarli 4% ga pasaydi.",
+   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795620274,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Ukraina aerodromga hujumda Rossiyaning beshta harbiy samolyoti urib tushirilganini ma'lum qildi",
+   "summary": "Savasleyka aerodromida Rossiya tomonidan Ukrainaga gipertovushli raketalar va glider bombalarini uchirish uchun foydalaniladigan samolyotlar joylashgan.",
+   "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795618001,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Nima uchun to'rt karra MVP Rodgers oxirgi NFL o'yinida o'ynagan bo'lishi mumkin",
+   "summary": "Tajribali chorak himoyachi Aaron Rodjers Pittsburgh Steelers tomonidan chetlatilganidan keyin NFLdagi so'nggi o'yinini o'tkazgan bo'lishi mumkin.",
+   "link": "https://www.bbc.co.uk/sport/american-football/articles/c64gn8ryp7jno?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795617436,
+   "date": "2026-11-25"
+  },
   {
    "title": "Amerika Shukrona Kunlari Liberiyada qanday ildiz otgan va rivojlangan",
    "summary": "Liberiyaning ilk ko'chmanchilari afro-amerikaliklar bo'lib, ular o'zlari bilan Shukrona bayramini olib kelishgan - bu bayram ushbu yangi millatning tarixi va o'ziga xosligini aks ettirish uchun rivojlangan.",
@@ -39,16 +69,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795613350,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Fyuri va Joshua jangi soat 3 da tugashi borasidagi e'tirozlarga qaramay davom etadi",
-   "summary": "Kardiff kengashi bu jang shahar uchun \"katta ahamiyatga ega\" bo'lishini, uning daromadi va obro'sini oshirishini aytdi.",
-   "link": "https://www.bbc.co.uk/news/articles/c5kg73d2px7mo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795612146,
    "date": "2026-11-25"
   },
   {
@@ -99,26 +119,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795608936,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "\"Men kir yuvish mashinasidan faqat yakshanba kunlari foydalanaman\" - energiya xarajatlarimizni qanday kamaytiryapmiz",
-   "summary": "BBC uch kishi bilan energiya to'lovlarini nazorat ostida ushlab turish uchun ko'rayotgan choralari haqida suhbatlashdi.",
-   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795608731,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Kolumbiya politsiyasi supermarketga bostirib kirib, 17 soat davomida garovda ushlab turilgan 20 kishini ozod qildi",
-   "summary": "17 soatlik garovga olinganlardan so'ng, 20 ga yaqin xaridor va xodimni ozod qilish operatsiyasida bir qurolli shaxs o'ldirildi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795607116,
    "date": "2026-11-25"
   },
   {
@@ -222,6 +222,16 @@
    "date": "2026-11-25"
   },
   {
+   "title": "Missisipi qirg'og'ida samolyot halokatga uchrashi oqibatida halok bo'lgan olti kishi orasida ikki bola bor",
+   "summary": "AQSh Sohil Xavfsizlik Xizmati ma'lumotlariga ko'ra, g'avvoslar samolyotning fyuzelyajidan to'rt nafar kattalar va 8 va 10 yoshli ikki o'g'il bolaning jasadlarini topdilar.",
+   "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795590502,
+   "date": "2026-11-25"
+  },
+  {
    "title": "Sport sudi Marokashga qarshi qaror chiqarganidan keyin Afrika kubogi chempionligi Senegalga qaytarildi",
    "summary": "Senegal yanvar oyida Marokashda maydonda Afrika Kubogini qo'lga kiritdi, keyin esa mart oyida sudda mag'lubiyatga uchradi, chunki uning o'yinchilari ikkinchi bo'limning qo'shib berilgan vaqtida norozilik sifatida maydonni tark etishdi.",
    "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
@@ -269,16 +279,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795570842,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Trampning Nvidia kompaniyasiga aralashuvi uning siyosiy boyligini sun'iy intellekt bumiga bog'laydi",
-   "summary": "AQSh prezidentining bosh direktor Jensen Huangni qayta tiklash bo'yicha iltimosi ularning taqdirini uzviy bog'ladi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795568585,
    "date": "2026-11-25"
   },
   {
