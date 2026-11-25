@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-25 08:25 UTC",
+ "updated": "2026-11-25 09:47 UTC",
  "items": [
+  {
+   "title": "Federal sudya Tramp ma'muriyatining uysizlikka yondashuvni tubdan o'zgartirish rejasini blokladi",
+   "summary": "Federal sudya hukumatning HUDning amaldagi uy-joy dasturlaridan 1 milliard dollardan ortiq mablag'ni giyohvandlik yoki ruhiy salomatlikni davolashni talab qiladigan dasturlarga yo'naltirishga qaratilgan sa'y-harakatlarini to'xtatdi.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6051420/federal-judge-blocks-trump-administrations-plan-to-overhaul-approach-to-homelessness",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "NPR",
+   "ts": 1795599608,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Nvidia direktorlar kengashi bosh direktorning da'vo qilingan ishlarini boshqarishda ayblanib tanqid qilindi",
+   "summary": "Jensen Huang ishga qaytgan bo'lsa-da, Nvidia direktorlar kengashi bosh direktorning taxminiy ishlari tufayli yuzaga kelgan inqirozni qanday hal qilgani uchun tanqidlarga duch kelmoqda.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6052342/nvidias-board-under-fire-for-handling-of-ceos-alleged-affairs",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "NPR",
+   "ts": 1795599592,
+   "date": "2026-11-25"
+  },
   {
    "title": "Uy xo'jaliklari energiya uchun to'lovlarning keskin oshishiga tayyorlanmoqda, yangi narx chegarasi e'lon qilinadi",
    "summary": "Ofgem regulyatorining yangi narx chegarasi ostida yanvar oyida ichki gaz narxlari sezilarli darajada oshadi.",
@@ -8,17 +28,27 @@
    "ok": true,
    "cat": "Iqtisod",
    "source": "BBC",
-   "ts": 1795594256,
+   "ts": 1795598437,
    "date": "2026-11-25"
   },
   {
-   "title": "Fin Smitning yuk ko'tarishi Angliyaga qanday qilib qo'shimcha o'lcham bag'ishlamoqda",
-   "summary": "Fin Smitning bo'yi atigi 1,5 metr va bo'yi 1,5 metrdan kam, ammo yarim himoyachi Angliyaning eng sermahsul to'p tashuvchilaridan biriga aylandi.",
-   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gvr5yz24o?at_medium=RSS&at_campaign=rss",
+   "title": "Kilmar Abrego Garsiya AQShni o'z ixtiyori bilan tark etib, Ispaniyaga yo'l oldi",
+   "summary": "Trampning ommaviy deportatsiya kampaniyasining ramziga aylangan salvadorlik immigrant Abrego Garsiya seshanba kuni deyarli ikki yillik sud jarayonlaridan so'ng o'z ixtiyori bilan mamlakatni tark etdi.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795598390,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Xavaja Kamminsning shaxsiy hujumidan \"hafsalasini pir qildi\"",
+   "summary": "Avstraliya terma jamoasining sobiq hujumchisi Usmon Xavaja 2018-yilgi \"Sandpapergate\" mojarosi avj olayotgan bir paytda \"hech qachon bu men va Pat haqida bo'lmagan\"ligini aytdi.",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Sport",
    "source": "BBC",
-   "ts": 1795593091,
+   "ts": 1795595864,
    "date": "2026-11-25"
   },
   {
@@ -86,9 +116,19 @@
    "summary": "Hukm Nyu-Yorkda bir necha oy davom etgan sud jarayonidan so'ng chiqarildi.",
    "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795575567,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "U o'nlab yillar davomida FQB agenti bo'lib ishlagan va bu uning qo'yib yubora olmasligi edi.",
+   "summary": "Jeyn Kollinz Maykl Donovan va Richard Murning adolat oldida javob berishini ko'rishdan deyarli voz kechgan edi. Keyin ularga ommaviy otishma sodir etgan shaxsning akasidan o'g'irlik ayblovi qo'yildi.",
+   "link": "https://www.bbc.co.uk/news/articles/c539g1pwy3wyo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795574933,
    "date": "2026-11-25"
   },
   {
@@ -256,7 +296,7 @@
    "summary": "Albaniya Bosh vaziri Edi Rama Kushnerning kurort loyihasi rejalashtirilganidek davom etishiga va'da berdi. Ammo Albaniya davlat prokurori tomonidan soxta yer huquqlari bo'yicha davom etayotgan tergov ushbu loyihani to'xtatishi mumkin.",
    "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795530244,
    "date": "2026-11-24"
@@ -302,16 +342,6 @@
    "date": "2026-11-24"
   },
   {
-   "title": "Ular Trampning mem tangalari bilan kechki ovqatida qatnashishdi. Bu yaxshi o'tmadi",
-   "summary": "Trampning mem tangalari bilan kechki ovqatlari qizg'in bahs-munozaralarga sabab bo'ldi. Bu ikki mehmon yakshanba kuni uning so'nggi ziyofatida ishtirok etishdi va NPRga ichkaridan kirishni ta'minlashga kelishib olishdi.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "NPR",
-   "ts": 1795514400,
-   "date": "2026-11-24"
-  },
-  {
    "title": "Qon ketish, tug'ma nuqsonlar: Kongo aholisi konchilik ifloslanishida ayblanib sudga murojaat qilishdi",
    "summary": "Kongoda 27 nafar aholi Xitoyga tegishli mis va kobalt konini o'z jamoasini zaharlashda va hukumatni ularni himoya qilmaslikda ayblamoqda.",
    "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
@@ -332,16 +362,6 @@
    "date": "2026-11-24"
   },
   {
-   "title": "Jensen Huang janjaldan keyin Nvidia bosh direktori lavozimiga qaytdi",
-   "summary": "Jensen Huangning Nvidia kompaniyasiga bosh direktor sifatida qaytishi texnologiya kompaniyasining aksiyalari va fond bozorining keskin o'sishiga olib keldi.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6051532/jensen-huang-returns-to-nvidia-as-ceo-after-scandal",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "NPR",
-   "ts": 1795513954,
-   "date": "2026-11-24"
-  },
-  {
    "title": "Rossiya va Ukraina o'rtasidagi mojaro geografik jihatdan kengayib, xavotirlarga sabab bo'ldi",
    "summary": "So'nggi kunlarda Ukraina Liviyadagi portda turgan Rossiya harbiy kemasini cho'ktirdi va Rossiya raketalari Polshaga qo'ndi. Kreml raketalar haqida izoh bermadi.",
    "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
@@ -350,26 +370,6 @@
    "source": "NPR",
    "ts": 1795513923,
    "date": "2026-11-24"
-  },
-  {
-   "title": "Foydali, ammo noqulay: Buyuk Britaniyada ishga tushirilishidan oldin Meta's Muse bilan o'tkazgan haftam",
-   "summary": "Meta Muse’dan WhatsApp xabar almashish uchun qilgan ishini sun’iy intellekt uchun qilishini istaydi – BBC texnologiya muharriri undan foydalanganda nimani aniqladi.",
-   "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795512780,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "Rossiyaning NATO hududiga bostirib kirishi kuchaymoqda",
-   "summary": "NATO Bosh kotibi Mark Rutte juma kuni Polshaga uchta Rossiya qanotli raketasi tushganidan so'ng, ittifoqning Sharqiy Yevropa a'zolarini tinchlantirishga harakat qilmoqda.",
-   "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795475331,
-   "date": "2026-11-23"
   },
   {
    "title": "Nvidia direktorlar kengashi Jensen Huangni bosh direktor lavozimiga qaytardi",
