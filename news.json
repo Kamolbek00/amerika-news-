@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-25 16:44 UTC",
+ "updated": "2026-11-25 17:36 UTC",
  "items": [
+  {
+   "title": "Katta asteroid qulaganidan to'rt yil o'tgach, kosmik kema zararni baholash uchun qaytib keldi",
+   "summary": "Missiya to'qnashayotgan kosmik kema tomonidan ataylab yo'nalishdan chetga surilgan asteroidni o'rganishdan iborat.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795627816,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Poundland kompaniyasi quladi, 11 000 ish o'rni xavf ostida qoldi",
+   "summary": "Chegirma zanjiri egalari xaridor topa olmaganidan so'ng, boshqaruvga qulab tushdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795627294,
+   "date": "2026-11-25"
+  },
   {
    "title": "Chalkashlik va g'azab - Yoroning qizil kartochkasi bekor qilindi, ammo janjal davom etmoqda",
    "summary": "Leni Yoroning \"Liverpul\"ga qarshi o'yinda qizil kartochka olishi \"Manchester Yunayted\" va hakamlar hay'ati o'rtasida nomaqbul fikrlarga sabab bo'ldi.",
@@ -12,13 +32,13 @@
    "date": "2026-11-25"
   },
   {
-   "title": "Poundland kompaniyasi quladi, 11 000 ish o'rni xavf ostida qoldi",
-   "summary": "Chegirma zanjiri egalari xaridor topa olmaganidan so'ng, boshqaruvga qulab tushdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+   "title": "Eng zo'r ovmi? Mototsiklchi ajoyib tarzda ushladi",
+   "summary": "Pokistonning Svat Premer-ligasida mototsikldagi yo'lovchi to'pni yerdan urib, olti ochko to'plaganidan so'ng, bir qo'li bilan ajoyib tarzda ushladi.",
+   "link": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "Sport",
    "source": "BBC",
-   "ts": 1795623870,
+   "ts": 1795623783,
    "date": "2026-11-25"
   },
   {
@@ -26,7 +46,7 @@
    "summary": "AQShning uchta asosiy indeksi ham dastlabki savdolarda pasayib ketdi, texnologiyalar ustunlik qiladigan Nasdaq esa deyarli 4% ga pasaydi.",
    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "AQSh",
    "source": "BBC",
    "ts": 1795622846,
    "date": "2026-11-25"
@@ -42,23 +62,23 @@
    "date": "2026-11-25"
   },
   {
-   "title": "Ukraina aerodromga hujumda Rossiyaning beshta harbiy samolyoti urib tushirilganini ma'lum qildi",
-   "summary": "Savasleyka aerodromida Rossiya tomonidan Ukrainaga gipertovushli raketalar va glider bombalarini uchirish uchun foydalaniladigan samolyotlar joylashgan.",
-   "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+   "title": "Kanadalik kosmonavt kosmik stansiyadan qizaloqni kutib oldi",
+   "summary": "Hozirda birinchi kosmik missiyasini amalga oshirayotgan Joshua Kutrik tarixda Xalqaro kosmik stansiyada bola tug'ilishini o'tkazib yuborgan to'rtinchi kosmonavtdir.",
+   "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Dunyo",
+   "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795618001,
+   "ts": 1795621299,
    "date": "2026-11-25"
   },
   {
-   "title": "Nima uchun to'rt karra MVP Rodgers oxirgi NFL o'yinida o'ynagan bo'lishi mumkin",
-   "summary": "Tajribali chorak himoyachi Aaron Rodjers Pittsburgh Steelers tomonidan chetlatilganidan keyin NFLdagi so'nggi o'yinini o'tkazgan bo'lishi mumkin.",
-   "link": "https://www.bbc.co.uk/sport/american-football/articles/c64gn8ryp7jno?at_medium=RSS&at_campaign=rss",
+   "title": "Nyu-Yorkdagi yillik Shukrona paradi yaqinlashib kelayotgan bo'ron xavfi ostida",
+   "summary": "Kuchli shamol va kuchli yomg'ir AQSh bo'ylab bayramlarga ta'sir qilishi kutilmoqda, mashhur Macy's Shukrona kuni paradiga ta'sir qilishi mumkin.",
+   "link": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Sport",
+   "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795617436,
+   "ts": 1795617702,
    "date": "2026-11-25"
   },
   {
@@ -69,6 +89,16 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795616074,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Isroil hujumi G'azo shahrida Hamas xavfsizlik xizmatining yuqori lavozimli amaldori va uning oilasini o'ldirdi",
+   "summary": "Shifokorlarning so'zlariga ko'ra, Hamasning G'azo shimolidagi ichki xavfsizlik xizmati rahbari Muhammad Abu al-Ouf rafiqasi va ikki o'smir qizi bilan birga o'ldirilgan.",
+   "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795615573,
    "date": "2026-11-25"
   },
   {
@@ -122,13 +152,13 @@
    "date": "2026-11-25"
   },
   {
-   "title": "\"Bu apokaliptik bo'lishi mumkin\" - jamoatchilik AQSh armiyasining nazorat ostidagi portlashini kutmoqda",
-   "summary": "Ba'zi aholi BBCga chorshanba kuni sodir bo'lgan portlash hayotni o'zgartirishi mumkinligini aytishsa, boshqalari shunchaki uning tugashini istashadi.",
-   "link": "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo?at_medium=RSS&at_campaign=rss",
+   "title": "Respublikachi Nvidia rahbarini so'roq qilishdan oldin FBI va Markaziy razvedka boshqarmasi javoblarini talab qilmoqda",
+   "summary": "\"Jamoatchilik haqli ravishda xavotirda\", deydi respublikachi qonunchi, u FQB va Markaziy razvedka boshqarmasi milliy xavfsizlikka tahdidlar haqida nimalarni bilishini va Jensen Xuangga ogohlantirish berilganmi yoki yo'qligini bilmoqchi.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
    "ok": true,
    "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795608936,
+   "source": "NPR",
+   "ts": 1795607405,
    "date": "2026-11-25"
   },
   {
@@ -136,7 +166,7 @@
    "summary": "Kilimanjaro kabi baland tog'larga chiqish qarama-qarshiliklarni o'rganishdir - quyoshning titrashidan tortib, muzlagan tunlar, olov va qorgacha.",
    "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795604400,
    "date": "2026-11-25"
@@ -222,16 +252,6 @@
    "date": "2026-11-25"
   },
   {
-   "title": "Missisipi qirg'og'ida samolyot halokatga uchrashi oqibatida halok bo'lgan olti kishi orasida ikki bola bor",
-   "summary": "AQSh Sohil Xavfsizlik Xizmati ma'lumotlariga ko'ra, g'avvoslar samolyotning fyuzelyajidan to'rt nafar kattalar va 8 va 10 yoshli ikki o'g'il bolaning jasadlarini topdilar.",
-   "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795590502,
-   "date": "2026-11-25"
-  },
-  {
    "title": "Sport sudi Marokashga qarshi qaror chiqarganidan keyin Afrika kubogi chempionligi Senegalga qaytarildi",
    "summary": "Senegal yanvar oyida Marokashda maydonda Afrika Kubogini qo'lga kiritdi, keyin esa mart oyida sudda mag'lubiyatga uchradi, chunki uning o'yinchilari ikkinchi bo'limning qo'shib berilgan vaqtida norozilik sifatida maydonni tark etishdi.",
    "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
@@ -239,16 +259,6 @@
    "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795589003,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Katta asteroid qulaganidan to'rt yil o'tgach, kosmik kema zararni baholash uchun qaytib keldi",
-   "summary": "Missiya to'qnashayotgan kosmik kema tomonidan ataylab yo'nalishdan chetga surilgan asteroidni o'rganishdan iborat.",
-   "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795586436,
    "date": "2026-11-25"
   },
   {
@@ -272,16 +282,6 @@
    "date": "2026-11-25"
   },
   {
-   "title": "AQShda Tomas Markl bolalarga nisbatan jinsiy zo'ravonlik tasvirlarini saqlagani uchun federal sud hay'ati tomonidan ayblanmoqda",
-   "summary": "FQB Marklni 6-noyabr kuni Los-Anjelesda ijaraga olganligi taxmin qilinayotgan omborxonada tintuv o'tkazganidan so'ng, uni hibsga oldi.",
-   "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795570842,
-   "date": "2026-11-25"
-  },
-  {
    "title": "Mening oilam Ukrainada vafot etdi. Onam Zelenskiy qo'shinlarini aybladi - haqiqat murakkab",
    "summary": "BBC jurnalisti Anastasiya Gribanova urushda otasi va bobosi va buvisini kim o'ldirganini tekshirmoqda.",
    "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
@@ -289,6 +289,16 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795568053,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Nima uchun kichik avtomobillar Yevropa bo'ylab tarqalib ketmoqda",
+   "summary": "Ilgari keksa va qishloq aholisi uchun mashina sifatida ko'rilgan kichik avtomobillar yoshroq demografik guruh tomonidan qabul qilinmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795566845,
    "date": "2026-11-25"
   },
   {
@@ -367,16 +377,6 @@
    "link": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
    "ok": true,
    "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795514400,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "Qon ketish, tug'ma nuqsonlar: Kongo aholisi konchilik ifloslanishida ayblanib sudga murojaat qilishdi",
-   "summary": "Kongoda 27 nafar aholi Xitoyga tegishli mis va kobalt konini o'z jamoasini zaharlashda va hukumatni ularni himoya qilmaslikda ayblamoqda.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-   "ok": true,
-   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795514400,
    "date": "2026-11-24"
