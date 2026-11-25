@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-24 23:55 UTC",
+ "updated": "2026-11-25 01:08 UTC",
  "items": [
+  {
+   "title": "US preparing to unveil new tariffs on global trading partners",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795567081,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Why tiny cars are taking off across Europe",
+   "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Texnologiya",
+   "source": "BBC",
+   "ts": 1795566845,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "What will the energy cap changes mean for my bills?",
+   "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795566805,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795566652,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Households braced for soaring energy bills with new price cap to be announced",
+   "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795566598,
+   "date": "2026-11-25"
+  },
   {
    "title": "AQShda Tomas Markl bolalarga nisbatan jinsiy zo'ravonlik tasvirlarini saqlagani uchun federal sud hay'ati tomonidan ayblanmoqda",
    "summary": "FQB Marklni 6-noyabr kuni Los-Anjelesda ijaraga olganligi taxmin qilinayotgan omborxonada tintuv o'tkazganidan so'ng, uni hibsga oldi.",
@@ -8,8 +58,8 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795564370,
-   "date": "2026-11-24"
+   "ts": 1795565499,
+   "date": "2026-11-25"
   },
   {
    "title": "Broncos futbolchisi Payton: RB Dobbins qo'pol xatti-harakati uchun bitta o'yinga diskvalifikatsiya qilindi",
@@ -18,7 +68,7 @@
    "ok": true,
    "cat": "Sport",
    "source": "ESPN",
-   "ts": 1795564148,
+   "ts": 1795564768,
    "date": "2026-11-24"
   },
   {
@@ -28,14 +78,24 @@
    "ok": true,
    "cat": "Sport",
    "source": "ESPN",
-   "ts": 1795564148,
+   "ts": 1795564768,
    "date": "2026-11-24"
   },
   {
-   "title": "Prezident Trampning Nvidia bilan aloqalarini ochib berish",
-   "summary": "NPR muxbiri Skott Detrou Forbes jurnalining katta muharriri va Prezident Trampning biznesi haqida kitob muallifi Den Aleksandr bilan so'nggi yangiliklarni inobatga olgan holda prezidentning Nvidiadagi aktivlari haqida suhbatlashdi.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-involvement-with-nvidia",
-   "ok": true,
+   "title": "Bellingham plays down Zidane comparison after wonder goal",
+   "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795564450,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Unpacking President Trump's financial stake in Nvidia",
+   "summary": "NPR's Scott Detrow speaks with Dan Alexander, a senior editor at Forbes and author of a book about President Trump's businesses, about the president's holdings in Nvidia given recent news.",
+   "link": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia",
+   "ok": false,
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795564094,
@@ -126,7 +186,7 @@
    "summary": "Nvidia aksiyalar bozori qiymati Huangning qayta tayinlanishi e'lon qilinganidan keyin keskin oshdi, ammo seshanba kuni savdolarda ba'zi o'sishlar tiklandi.",
    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795555182,
    "date": "2026-11-24"
@@ -149,16 +209,6 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795554290,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "100 funt sterlinglik energiya to'lovini olamanmi va qachon olaman?",
-   "summary": "Yanvar oyidan boshlab millionlab odamlar oladigan to'lov haqida bilishingiz kerak bo'lgan narsalar.",
-   "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795551384,
    "date": "2026-11-24"
   },
   {
@@ -222,16 +272,6 @@
    "date": "2026-11-24"
   },
   {
-   "title": "15 yoshli Sooryavanshi 53 ta to'pdan 204 tasini kiritib, oltilik rekordini yangiladi",
-   "summary": "Hindistonlik 15 yoshli sensatsiya Vaibhav Sooryavanshi Hindiston A jamoasi safida 53 ta to'pdan 204 tasini aniq nishonga oldi va A ro'yxatidagi kriketdagi eng tezkor ikki yuzlik rekordni deyarli ikki baravarga qisqartirdi.",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795531970,
-   "date": "2026-11-24"
-  },
-  {
    "title": "Jared Kushner o'zlashtirmoqchi bo'lgan Albaniyadagi yer aslida kimga tegishli?",
    "summary": "Albaniya Bosh vaziri Edi Rama Kushnerning kurort loyihasi rejalashtirilganidek davom etishiga va'da berdi. Ammo Albaniya davlat prokurori tomonidan soxta yer huquqlari bo'yicha davom etayotgan tergov ushbu loyihani to'xtatishi mumkin.",
    "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
@@ -269,16 +309,6 @@
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795519800,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "Tramp Nvidia kompaniyasini bosh direktor Jensen Huangni qayta ishga qaytarishga \"ko'ndirganini\" aytganidan keyin keskin tanqidlarga uchradi",
-   "summary": "Nvidia prezident Trampning Huangni qayta tayinlash bo'yicha bosimi ostida qolgan edi, uning qaytishi kompaniya aksiyalari qiymatiga 1 trillion dollar qo'shishga yordam berdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795517617,
    "date": "2026-11-24"
   },
   {
@@ -362,16 +392,6 @@
    "date": "2026-11-24"
   },
   {
-   "title": "Hayotimni boshqa birov qilish uchun oyiga 250 funt sterling to'layman, admin - bunga arziydi",
-   "summary": "Atlantika okeanining ikkala tomonidagi band onalar kompaniyalarga bajarilishi kerak bo'lgan ishlar ro'yxatini yuritish uchun pul to'lamoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795478464,
-   "date": "2026-11-24"
-  },
-  {
    "title": "AQSh Nvidia mojarosidan keyin Osiyoning sun'iy intellekt kompaniyasi Megaspeedni qora ro'yxatga kiritdi",
    "summary": "Megaspeed sobiq rahbarning Jensen Huang bilan bo'lgan ishqiy munosabati ommaga ma'lum bo'lganidan so'ng, Xitoyga sun'iy intellekt chiplarini yetkazib berishda ayblanmoqda.",
    "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
@@ -389,26 +409,6 @@
    "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795475331,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Jensen Huang qaytib kelganidan keyin Nvidia aksiyalari 30% ga oshdi va texnologiya aksiyalari ko'tarildi",
-   "summary": "Nvidia aksiyalarining keskin o'sishi fond bozorlarini ham ko'tardi, texnologiyaga boy Nasdaq dastlabki savdolarda 6,5% ga oshdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795469022,
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Nvidia va Jensen Huang AQSh iqtisodiyoti uchun qanchalik muhim?",
-   "summary": "Nvidia bosh direktori sun'iy intellekt bumining markazida bo'lgan.",
-   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795450355,
    "date": "2026-11-23"
   },
   {
