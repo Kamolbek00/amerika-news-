@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-25 05:44 UTC",
+ "updated": "2026-11-25 06:49 UTC",
  "items": [
+  {
+   "title": "Sport sudi Marokashga qarshi qaror chiqarganidan keyin Afrika kubogi chempionligi Senegalga qaytarildi",
+   "summary": "Senegal yanvar oyida Marokashda maydonda Afrika Kubogini qo'lga kiritdi, keyin esa mart oyida sudda mag'lubiyatga uchradi, chunki uning o'yinchilari ikkinchi bo'limning qo'shib berilgan vaqtida norozilik sifatida maydonni tark etishdi.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "NPR",
+   "ts": 1795589003,
+   "date": "2026-11-25"
+  },
   {
    "title": "Kilmar Abrego Garsiya AQShdan Ispaniyaga jo'nab ketdi va Trampning deportatsiya bo'yicha kurashiga chek qo'ydi",
    "summary": "Uning Salvadorga deportatsiya qilinishi va AQShga qaytishi Prezident Donald Trampning immigratsiya kun tartibi bo'yicha munozaralarda qizg'in nuqtaga aylandi.",
@@ -8,7 +18,17 @@
    "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795582195,
+   "ts": 1795588560,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Katta asteroid qulaganidan to'rt yil o'tgach, kosmik kema zararni baholash uchun qaytib keldi",
+   "summary": "Missiya to'qnashayotgan kosmik kema tomonidan ataylab yo'nalishdan chetga surilgan asteroidni o'rganishdan iborat.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795586436,
    "date": "2026-11-25"
   },
   {
@@ -232,16 +252,6 @@
    "date": "2026-11-24"
   },
   {
-   "title": "Urushdan ikki yil o'tgach, Suriyada mina qurbonlari soni ortib bormoqda",
-   "summary": "Raqamlar shuni ko'rsatadiki, mojarodan qolgan portlovchi moddalar tufayli halok bo'lgan yoki jarohatlanganlar orasida qariyb 1000 bola bor.",
-   "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795533448,
-   "date": "2026-11-24"
-  },
-  {
    "title": "Jared Kushner o'zlashtirmoqchi bo'lgan Albaniyadagi yer aslida kimga tegishli?",
    "summary": "Albaniya Bosh vaziri Edi Rama Kushnerning kurort loyihasi rejalashtirilganidek davom etishiga va'da berdi. Ammo Albaniya davlat prokurori tomonidan soxta yer huquqlari bo'yicha davom etayotgan tergov ushbu loyihani to'xtatishi mumkin.",
    "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
@@ -360,16 +370,6 @@
    "source": "BBC",
    "ts": 1795512780,
    "date": "2026-11-24"
-  },
-  {
-   "title": "Rossiyaning NATO hududiga bostirib kirishi kuchaymoqda",
-   "summary": "NATO Bosh kotibi Mark Rutte juma kuni Polshaga uchta Rossiya qanotli raketasi tushganidan so'ng, ittifoqning Sharqiy Yevropa a'zolarini tinchlantirishga harakat qilmoqda.",
-   "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795475331,
-   "date": "2026-11-23"
   },
   {
    "title": "Nvidia direktorlar kengashi Jensen Huangni bosh direktor lavozimiga qaytardi",
