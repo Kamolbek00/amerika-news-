@@ -1,14 +1,64 @@
 {
- "updated": "2026-11-25 12:53 UTC",
+ "updated": "2026-11-25 14:23 UTC",
  "items": [
   {
-   "title": "Sterling xavfli avtomobil boshqargani uchun shartli qamoq jazosiga hukm qilindi",
-   "summary": "Chorshanba kuni Rahim Sterling 12 oylik qamoq jazosiga hukm qilindi va 18 oyga shartli ravishda ozod qilindi.",
-   "link": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
+   "title": "Amerika Shukrona Kunlari Liberiyada qanday ildiz otgan va rivojlangan",
+   "summary": "Liberiyaning ilk ko'chmanchilari afro-amerikaliklar bo'lib, ular o'zlari bilan Shukrona bayramini olib kelishgan - bu bayram ushbu yangi millatning tarixi va o'ziga xosligini aks ettirish uchun rivojlangan.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795616074,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Qora Juma kuni xarid qilish uchun AI agentlaridan foydalanishdan oldin nimani bilishingiz kerak",
+   "summary": "Milliy chakana savdo federatsiyasi ma'lumotlariga ko'ra, AQShlik xaridorlarning 59 foizi ushbu dam olish kunlari bayramona xaridlar uchun sun'iy intellektdan foydalanishni rejalashtirmoqda.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795614716,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Uy xo'jaliklari energiya uchun to'lovlarning keskin oshishiga tayyorlanmoqda, yangi narx chegarasi e'lon qilinadi",
+   "summary": "Ofgem regulyatorining yangi narx chegarasi ostida yanvar oyida ichki gaz narxlari sezilarli darajada oshadi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795614128,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "\"All Blacks\" jamoasining afsonasi Boden Barrett Bristolga o'tishga yaqin",
+   "summary": "Yangi Zelandiyalik buyuk futbolchi Boden Barrett \"Bristol Bears\" bilan Premyer-liga tarixidagi eng yuqori darajadagi transferlardan biri bo'lgan shartnoma imzolashga yaqin.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg2ex1v0vzo?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Sport",
    "source": "BBC",
-   "ts": 1795610628,
+   "ts": 1795613350,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Fyuri va Joshua jangi soat 3 da tugashi borasidagi e'tirozlarga qaramay davom etadi",
+   "summary": "Kardiff kengashi bu jang shahar uchun \"katta ahamiyatga ega\" bo'lishini, uning daromadi va obro'sini oshirishini aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/c5kg73d2px7mo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795612146,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Sterling - Angliya ramzidan shartli qamoq jazosiga hukm qilindi",
+   "summary": "Rahim Sterling 17 yoshida Premer-ligada debyut qilganidan o'n to'rt yil o'tgach, shartli qamoq jazosiga hukm qilindi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795610577,
    "date": "2026-11-25"
   },
   {
@@ -42,6 +92,26 @@
    "date": "2026-11-25"
   },
   {
+   "title": "\"Bu apokaliptik bo'lishi mumkin\" - jamoatchilik AQSh armiyasining nazorat ostidagi portlashini kutmoqda",
+   "summary": "Ba'zi aholi BBCga chorshanba kuni sodir bo'lgan portlash hayotni o'zgartirishi mumkinligini aytishsa, boshqalari shunchaki uning tugashini istashadi.",
+   "link": "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795608936,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "\"Men kir yuvish mashinasidan faqat yakshanba kunlari foydalanaman\" - energiya xarajatlarimizni qanday kamaytiryapmiz",
+   "summary": "BBC uch kishi bilan energiya to'lovlarini nazorat ostida ushlab turish uchun ko'rayotgan choralari haqida suhbatlashdi.",
+   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795608731,
+   "date": "2026-11-25"
+  },
+  {
    "title": "Kolumbiya politsiyasi supermarketga bostirib kirib, 17 soat davomida garovda ushlab turilgan 20 kishini ozod qildi",
    "summary": "17 soatlik garovga olinganlardan so'ng, 20 ga yaqin xaridor va xodimni ozod qilish operatsiyasida bir qurolli shaxs o'ldirildi.",
    "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
@@ -49,16 +119,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795607116,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Uy xo'jaliklari energiya uchun to'lovlarning keskin oshishiga tayyorlanmoqda, yangi narx chegarasi e'lon qilinadi",
-   "summary": "Ofgem regulyatorining yangi narx chegarasi ostida yanvar oyida ichki gaz narxlari sezilarli darajada oshadi.",
-   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795607066,
    "date": "2026-11-25"
   },
   {
@@ -116,19 +176,9 @@
    "summary": "Doimiy ravishda yangi narsalarni sotib olish muammoli bo'lishi mumkin, deydi \"Yangi narsalarga yo'q deyish\" nomli yangi kitob muallifi, jurnalist Erik Atas. Mana, qanday qilib bu siklni buzish va mavjud narsangizdan zavq olish mumkin.",
    "link": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795600920,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Route 66 restorani deyarli 100 yildan beri Amerikana taomlarini taqdim etib kelmoqda.",
-   "summary": "Ariston kafesi 1924-yilda 66-marshrut bo'ylab sayohatchilarga xizmat ko'rsatish uchun ochilgan va o'shandan beri klassik Amerika yo'l taomlarini taqdim etib kelmoqda.",
-   "link": "https://www.npr.org/2026/11/25/nx-s1-5983717/ariston-cafe-route-66-diner-litchfield-illinois",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "NPR",
-   "ts": 1795600800,
    "date": "2026-11-25"
   },
   {
@@ -169,26 +219,6 @@
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795599592,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Xavaja Kamminsning shaxsiy hujumidan \"hafsalasini pir qildi\"",
-   "summary": "Avstraliya terma jamoasining sobiq hujumchisi Usmon Xavaja 2018-yilgi \"Sandpapergate\" mojarosi avj olayotgan bir paytda \"hech qachon bu men va Pat haqida bo'lmagan\"ligini aytdi.",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795595864,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Missisipi qirg'og'ida samolyot halokatga uchrashi oqibatida halok bo'lgan olti kishi orasida ikki bola bor",
-   "summary": "AQSh Sohil Xavfsizlik Xizmati ma'lumotlariga ko'ra, g'avvoslar samolyotning fyuzelyajidan to'rt nafar kattalar va 8 va 10 yoshli ikki o'g'il bolaning jasadlarini topdilar.",
-   "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795590502,
    "date": "2026-11-25"
   },
   {
@@ -262,26 +292,6 @@
    "date": "2026-11-25"
   },
   {
-   "title": "AQSh global savdo sheriklariga yangi tariflarni joriy etishga tayyorlanmoqda",
-   "summary": "Yangi soliqlar Amerikaning eng yirik savdo sheriklarining ko'pchiligiga, jumladan, Xitoy va Yevropa Ittifoqiga ta'sir qiladi.",
-   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795567081,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Bellingham ajoyib goldan keyin Zidan bilan taqqoslashni rad etdi",
-   "summary": "Joze Mourino Jude Bellinghamni dunyoning eng yaxshi yarim himoyachisi deb atadi, ammo \"Real\" yulduzi Zinedin Zidan bilan taqqoslashlarni rad etdi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795564450,
-   "date": "2026-11-24"
-  },
-  {
    "title": "Prezident Trampning Nvidia’dagi moliyaviy ulushini aniqlash",
    "summary": "NPR muxbiri Skott Detrou Forbes jurnalining katta muharriri va Prezident Trampning biznesi haqida kitob muallifi Den Aleksandr bilan so'nggi yangiliklarni inobatga olgan holda prezidentning Nvidiadagi aktivlari haqida suhbatlashdi.",
    "link": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia",
@@ -349,16 +359,6 @@
    "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795520544,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "Yong'in xavfi yuqori bo'lgan mamlakatda uyni sug'urtalash qanchaga tushishi kerak?",
-   "summary": "Kaliforniyalik ba'zi uy egalari uylarini o'rmon yong'inlaridan xavfsizroq qilish uchun minglab dollar sarflashdi. Shunga qaramay, bu ishlarning barchasi ularning sug'urta to'lovlariga deyarli ta'sir qilmadi. Ular ko'proq foyda olishlari kerakmi?",
-   "link": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "NPR",
-   "ts": 1795519800,
    "date": "2026-11-24"
   },
   {
