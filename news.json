@@ -1,14 +1,64 @@
 {
- "updated": "2026-11-25 02:26 UTC",
+ "updated": "2026-11-25 03:35 UTC",
  "items": [
   {
-   "title": "Kilmar Abrego Garsiya AQShni tark etib, Ispaniyaga jo'nab ketdi va deportatsiya bo'yicha kurashga chek qo'ydi",
-   "summary": "Uning Salvadorga deportatsiya qilinishi va AQShga qaytishi Prezident Donald Trampning immigratsiya kun tartibi bo'yicha munozaralarda qizg'in nuqtaga aylandi.",
-   "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+   "title": "Longtime Lions owner Martha Firestone Ford dies at age 101",
+   "summary": "Martha Firestone Ford, who served as the primary owner of the Lions from 2014 to 2020, has died at the age of 101, the team announced Tuesday night.",
+   "link": "https://www.espn.com/nfl/story/_/id/50588773/long-lions-owner-martha-firestone-ford-dies-age-101",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795577260,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Who's on the CFP bubble after the committee's fourth ranking?",
+   "summary": "A conference-by-conference look at which teams are contending for the playoff, who's close and who's out.",
+   "link": "https://www.espn.com/college-football/story/_/id/50575185/cfp-playoff-2026-bubble-watch-week-fourth-ranking",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795576685,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Huawei tijorat sirlarini o'g'irlashda aybdor deb topildi, ammo firibgarlikda aybsiz deb topildi",
+   "summary": "Hukm Nyu-Yorkda bir necha oy davom etgan sud jarayonidan so'ng chiqarildi.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795571479,
+   "ts": 1795575567,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Indiana falls from 12-team field in 4th CFP rankings; Horns, Vols leap Bama",
+   "summary": "Defending champ Indiana fell six spots to No. 14, while Alabama was leaped by Texas and Tennessee and fell out of the top five in the latest CFP rankings Tuesday night.",
+   "link": "https://www.espn.com/college-football/story/_/id/50588082/indiana-top-12-cfp-rankings-texas-tennessee-leap-alabama",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795574249,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "LSU asks judge to throw out 'unwarranted' lawsuit by SEC",
+   "summary": "LSU is asking a federal judge to dismiss the SEC's lawsuit against the Tigers, arguing that many of the plaintiffs in the case are protected by sovereign immunity as state officials and that the leagu",
+   "link": "https://www.espn.com/college-football/story/_/id/50588015/lsu-asks-judge-throw-sec-unwarranted-suit-tigers",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795574249,
+   "date": "2026-11-24"
+  },
+  {
+   "title": "'This could be apocalyptic' - Iowans hunker down for controlled blast of explosives stockpile",
+   "summary": "Some residents tell the BBC that Wednesday's detonation could be life-changing, while others just want it to be over.",
+   "link": "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795573038,
    "date": "2026-11-25"
   },
   {
@@ -19,16 +69,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795570842,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Huawei tijorat sirlarini o'g'irlashda aybdor deb topildi, ammo firibgarlikda aybsiz deb topildi",
-   "summary": "Hukm Nyu-Yorkda bir necha oy davom etgan sud jarayonidan so'ng chiqarildi.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795569117,
    "date": "2026-11-25"
   },
   {
