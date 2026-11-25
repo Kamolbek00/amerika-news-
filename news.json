@@ -1,12 +1,82 @@
 {
- "updated": "2026-11-25 20:33 UTC",
+ "updated": "2026-11-25 21:40 UTC",
  "items": [
+  {
+   "title": "Shukrona kuni stolida AI haqida qanday gapirish kerak",
+   "summary": "Bu Shukrona kunida siz oilangiz bilan yig'ilgansiz, sun'iy intellekt mavzusi ko'tariladi. Qanday qilib samarali, faktlarga asoslangan suhbat qurish mumkin?",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795642439,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Poundland kompaniyasi quladi, 11 000 ish o'rni xavf ostida qoldi",
+   "summary": "Chegirma zanjiri egalari xaridor topa olmaganidan so'ng, boshqaruvga qulab tushdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795642270,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Kredit karta imtiyozlari aviakompaniyalarning daromadliligini oshirmoqda",
+   "summary": "Bayram kunlari uchish qimmatga tushishi mumkin. Shuning uchun aviakompaniyalar sizning reysingizga tobora ko'proq maxsus brend kredit kartalarini taklif qilmoqdalar.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-5860846/credit-card-perks-are-fueling-airline-profitability",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "NPR",
+   "ts": 1795642197,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Qohira avtomagistralida yoqilg'i tashuvchi mashinaning halokatga uchrashi oqibatida kamida 30 kishi halok bo'ldi",
+   "summary": "Misr poytaxtidagi gavjum halqa yo'lida tanker ag'darilib ketishi oqibatida yana 19 kishi jarohat oldi.",
+   "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795641914,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Macy's ob-havo tufayli Shukrona bayrami paradini qoldirdi",
+   "summary": "Shahar osmono'par binolari yonidan o'tib ketadigan ulkan sharlar bilan mashhur bo'lgan ushbu ramziy bayramni o'tkazishga tayyorgarlik chorshanba kuni allaqachon boshlangan edi.",
+   "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795641868,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Ostindagi ushbu Little Free Bakery’da qo‘shnilar xamir ovqatlar uchun kelishadi va jamoatchilik bilan aloqa qilish uchun qolishadi.",
+   "summary": "Mamlakat bo'ylab Little Free Bakeries paydo bo'lmoqda. Ularning har biri biroz boshqacha ishlasa-da, maqsad bir xil: qo'shnilariga shirin taomlar taklif qilish, ular bilan suhbatlashishga undash.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795640578,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Dubois Manchesterda Parkerga qarshi chempionlik unvonini himoya qiladi",
+   "summary": "WBO og'ir vazn toifasida jahon chempioni Daniel Dubua kelasi yili 30-yanvar kuni Manchesterda bo'lib o'tadigan Co-op Live ko'rgazmasida sobiq WBO chempioni Jozef Parkerga qarshi ikkinchi marta chempionlik kamarini himoya qiladi.",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/cmde1zjykky6o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795639060,
+   "date": "2026-11-25"
+  },
   {
    "title": "AQSh armiyasi Ayova shtatida portlovchi moddalarning nazorat ostida portlashi \"katta muvaffaqiyat\" bo'lganini aytdi",
    "summary": "Portlashdan oldin aholining keng tarqalgan xavotiriga qaramay, rasmiylarning ta'kidlashicha, hozirgacha hududda qo'rg'oshin ko'rsatkichlari umid baxsh etmoqda.",
    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795636492,
    "date": "2026-11-25"
@@ -22,16 +92,6 @@
    "date": "2026-11-25"
   },
   {
-   "title": "Shimoliy Koreya sanksiyalar bo'yicha mojaro tufayli shveytsariyalik diplomatni chiqarib yubordi",
-   "summary": "Shveytsariya rasmiylari munosabatlar Shimoliy Koreyaning Berndagi elchixonasi va Pekindagi o'z elchixonasi orqali davom etishini aytishdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795634346,
-   "date": "2026-11-25"
-  },
-  {
    "title": "Glasner Forest o'yinchilarini hali ingliz tilini o'rganmaganlikda tanqid qildi",
    "summary": "\"Nottingem Forest\" bosh murabbiyi Oliver Glasner jamoasining ba'zi a'zolari bir necha yillar davomida mamlakatda bo'lganidan keyin nega ingliz tilida gapira olmasligiga shubha bildirdi.",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
@@ -39,16 +99,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795631575,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Poundland kompaniyasi quladi, 11 000 ish o'rni xavf ostida qoldi",
-   "summary": "Chegirma zanjiri egalari xaridor topa olmaganidan so'ng, boshqaruvga qulab tushdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795631382,
    "date": "2026-11-25"
   },
   {
@@ -122,33 +172,13 @@
    "date": "2026-11-25"
   },
   {
-   "title": "Chalkashlik va g'azab - Yoroning qizil kartochkasi bekor qilindi, ammo janjal davom etmoqda",
-   "summary": "Leni Yoroning \"Liverpul\"ga qarshi o'yinda qizil kartochka olishi \"Manchester Yunayted\" va hakamlar hay'ati o'rtasida nomaqbul fikrlarga sabab bo'ldi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795624090,
-   "date": "2026-11-25"
-  },
-  {
    "title": "AQSh Xitoy kabi bir qator davlatlarga yangi bojlar joriy qildi",
    "summary": "Yangi soliqlar Amerikaning eng yirik savdo sheriklarining ko'pchiligiga, jumladan, Xitoy va Yevropa Ittifoqiga ta'sir qiladi.",
    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795623694,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Nyu-Yorkdagi yillik Shukrona paradi yaqinlashib kelayotgan bo'ron xavfi ostida",
-   "summary": "Kuchli shamol va kuchli yomg'ir AQSh bo'ylab bayramlarga ta'sir qilishi kutilmoqda, mashhur Macy's Shukrona kuni paradiga ta'sir qilishi mumkin.",
-   "link": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795617702,
+   "ts": 1795623694,
    "date": "2026-11-25"
   },
   {
@@ -186,7 +216,7 @@
    "summary": "Rasmiylar minglab funt qo'rg'oshin azidini yo'q qilishga tayyorgarlik ko'rish uchun 5 mil radiusdagi aholini evakuatsiya qilishdi. Va deyarli ikki yillik sud jarayonidan so'ng, Kilmar Abrego Garcia's AQShni ixtiyoriy ravishda tark etdi.",
    "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795609089,
    "date": "2026-11-25"
@@ -302,24 +332,14 @@
    "date": "2026-11-25"
   },
   {
-   "title": "Mening oilam Ukrainada vafot etdi. Onam Zelenskiy qo'shinlarini aybladi - haqiqat murakkab",
-   "summary": "BBC jurnalisti Anastasiya Gribanova urushda otasi va bobosi va buvisini kim o'ldirganini tekshirmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795568053,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Prezident Trampning Nvidia’dagi moliyaviy ulushini aniqlash",
-   "summary": "NPR muxbiri Skott Detrou Forbes jurnalining katta muharriri va Prezident Trampning biznesi haqida kitob muallifi Den Aleksandr bilan so'nggi yangiliklarni inobatga olgan holda prezidentning Nvidiadagi aktivlari haqida suhbatlashdi.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia",
+   "title": "Nima uchun kichik avtomobillar Yevropa bo'ylab tarqalib ketmoqda",
+   "summary": "Ilgari keksa va qishloq aholisi uchun mashina sifatida ko'rilgan kichik avtomobillar yoshroq demografik guruh tomonidan qabul qilinmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Iqtisod",
-   "source": "NPR",
-   "ts": 1795564094,
-   "date": "2026-11-24"
+   "source": "BBC",
+   "ts": 1795566845,
+   "date": "2026-11-25"
   },
   {
    "title": "Oraliq saylovlardan keyin ba'zi respublikachilar Floridaga ko'chib o'tishni tanlashlari mumkin",
@@ -352,16 +372,6 @@
    "date": "2026-11-24"
   },
   {
-   "title": "Jared Kushner o'zlashtirmoqchi bo'lgan Albaniyadagi yer aslida kimga tegishli?",
-   "summary": "Albaniya Bosh vaziri Edi Rama Kushnerning kurort loyihasi rejalashtirilganidek davom etishiga va'da berdi. Ammo Albaniya davlat prokurori tomonidan soxta yer huquqlari bo'yicha davom etayotgan tergov ushbu loyihani to'xtatishi mumkin.",
-   "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "NPR",
-   "ts": 1795530244,
-   "date": "2026-11-24"
-  },
-  {
    "title": "Jensen Huang Nvidiaga qaytdi. Vakil Gomes jinsiy zo'ravonlik ayblovlari tufayli iste'foga chiqdi",
    "summary": "Prezident Tramp Jensen Xuangning Nvidia bosh direktori lavozimiga qaytishi bo'yicha muzokaralar olib borganini o'z zimmasiga oldi. Vakil Jimmi Gomes, Kaliforniya shtatidan, uning iste'fosi 1-dekabrdan kuchga kirishini aytdi.",
    "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
@@ -390,16 +400,6 @@
    "source": "NPR",
    "ts": 1795445621,
    "date": "2026-11-23"
-  },
-  {
-   "title": "Google xodimlari maktablarda sun'iy intellekt siyosatiga qarshi norozilik bildirmoqda",
-   "summary": "550 dan ortiq Google xodimlari maktablarga sun'iy intellektsiz qidiruv tizimiga kirishga ruxsat berish to'g'risidagi petitsiyani imzoladilar. Ota-onalar va o'qituvchilar o'tgan hafta xuddi shu talab bilan 6 ta shaharda Google ofislari oldida norozilik bildirishdi.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795298500,
-   "date": "2026-11-21"
   },
   {
    "title": "Jorjiya shtatining Fulton okrugidagi qamoqxona rahbariyati mahbusning o'limi va antisanitariya sharoitlari ayblovlaridan so'ng iste'foga chiqdi",
