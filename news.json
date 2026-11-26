@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-26 15:10 UTC",
+ "updated": "2026-11-26 16:27 UTC",
  "items": [
+  {
+   "title": "Rassell Verstappenning tanqidini \"juda kulgili\" deb atadi",
+   "summary": "Jorj Rassell Maks Verstappen \"xohlaganini ayta olishini\" va Las-Vegas Gran-prisidan keyin Red Bull haydovchisining unga nisbatan tanqidlarini \"juda kulgili\" deb topganini aytdi.",
+   "link": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795709458,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Mayamidagi uchish-qo'nish yo'lagidagi voqea Shukrona kuni arafasida reyslarni to'xtatdi",
+   "summary": "Yilning eng gavjum kunlaridan birida FedEx samolyoti uchish-qo'nish yo'lagiga urilib ketdi, bu esa halokatga sabab bo'ldi.",
+   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795708646,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Poundland qachon yopiladi? Uning kelajagi haqida beshta savol",
+   "summary": "Poundland nima uchun yopilmoqda va xodimlar va yetkazib beruvchilar bilan nima bo'ladi?",
+   "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795708550,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Selbi Buyuk Britaniya chempionatining ochilish o'yinida qiyinchiliklarga duch keladi, Allen esa maydonga tushishga tayyor",
+   "summary": "Mark Selbi shanba kuni Yorkda Mett Seltga qarshi Buyuk Britaniya chempionligi unvonini himoya qilish uchun jangni boshlaydi.",
+   "link": "https://www.bbc.co.uk/sport/snooker/articles/cwkgmdryrv4ro?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795708147,
+   "date": "2026-11-26"
+  },
   {
    "title": "Buyuk Britaniya Devis Kubogi yarim finaliga yo'llanmani qo'lga kiritdi",
    "summary": "Buyuk Britaniya 2019-yildan beri birinchi marta Devis kubogi yarim finaliga yo'l oldi, Genri Patten va Nil Skupski Bolonyada Germaniyaga qarshi hal qiluvchi juftlik bahsida g'alaba qozonishdi.",
@@ -8,7 +48,17 @@
    "ok": true,
    "cat": "Sport",
    "source": "BBC",
-   "ts": 1795705558,
+   "ts": 1795707301,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Ibiza yaqinida 7000 tonnagacha dizel yoqilg'isi yuk tashuvchi tanker ag'darilib ketdi, bir kishi halok bo'ldi",
+   "summary": "Ispaniya dengiz qutqaruv xizmati tomonidan atrof-muhitga yetkazilishi mumkin bo'lgan zarar hali ham baholanmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795706238,
    "date": "2026-11-26"
   },
   {
@@ -29,16 +79,6 @@
    "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795703302,
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Poundland qachon yopiladi? Uning kelajagi haqida beshta savol",
-   "summary": "Poundland nima uchun yopilmoqda va xodimlar va yetkazib beruvchilar bilan nima bo'ladi?",
-   "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795701927,
    "date": "2026-11-26"
   },
   {
@@ -92,16 +132,6 @@
    "date": "2026-11-26"
   },
   {
-   "title": "Mayamidagi uchish-qo'nish yo'lagidagi voqea Shukrona kuni arafasida reyslarni to'xtatdi",
-   "summary": "Yilning eng gavjum kunlaridan birida FedEx samolyoti uchish-qo'nish yo'lagiga urilib ketdi, bu esa halokatga sabab bo'ldi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795698555,
-   "date": "2026-11-26"
-  },
-  {
    "title": "Bo'ronlar Shukrona kuni sayohatlariga xalaqit berdi. Va FCC ABCning so'z erkinligini buzdi, deydi sudya",
    "summary": "Sharqiy qirg'oqning ob-havosi bu bayramda katta tashvish tug'dirmoqda, chunki bu qirg'oq suv toshqinlariga olib kelishi mumkin. Va sudyaning so'zlariga ko'ra, FCC ABCni Tramp yoqtirmaydigan satira uchun jazolay olmaydi.",
    "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
@@ -109,16 +139,6 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795695869,
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Faldo LIV yulduzlarini haq to'lanmagan firmalarga \"qo'shimcha mablag'\" ajratishga chaqirmoqda",
-   "summary": "Olti karra yirik g'olib LIV Golfdan moliyaviy foyda ko'rganlarni tur davomida qarzdor bo'lgan kichik bizneslarga yordam berishga chaqiradi.",
-   "link": "https://www.bbc.co.uk/sport/golf/articles/ckq6emzlegjyo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795693531,
    "date": "2026-11-26"
   },
   {
@@ -139,6 +159,16 @@
    "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795693390,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "AQSh armiyasi Ayova shtatida portlovchi moddalarning nazorat ostida portlashi \"katta muvaffaqiyat\" bo'lganini aytdi",
+   "summary": "Rasmiylarning aytishicha, atrofdagi hududda qo'rg'oshin aniqlanmagan, mahalliy aholining xavotirlaridan so'ng tekshiruvlar davom etmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795689515,
    "date": "2026-11-26"
   },
   {
@@ -192,16 +222,6 @@
    "date": "2026-11-26"
   },
   {
-   "title": "Eronda norozilik namoyishlaridan keyin o'limga mahkum etilgan ayollarning umidsiz murojaatlari",
-   "summary": "Huquqni himoya qilish guruhining ma'lumotlariga ko'ra, ayol namoyishchilar va dissidentlar o'nlab yillar davomida kuzatilmagan darajada ko'p miqdorda o'lim jazosiga hukm qilinmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795672918,
-   "date": "2026-11-26"
-  },
-  {
    "title": "AQSh sudyasi FCC Trampni xursand qilish uchun ABCning so'z erkinligi huquqini buzgan deb topdi",
    "summary": "Federal sudya Tramp ma'muriyatining ABCga tegishli barcha mahalliy eshittirish litsenziyalarini qayta ko'rib chiqishga kirishishini taqiqladi. Stansiyalar AQShning eng yirik oltita bozorida efirga uzatiladi.",
    "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
@@ -232,16 +252,6 @@
    "date": "2026-11-26"
   },
   {
-   "title": "Macy's ob-havo tufayli Shukrona bayrami paradini qoldirdi",
-   "summary": "Shahar osmono'par binolari yonidan o'tib ketadigan ulkan sharlar bilan mashhur bo'lgan ushbu ramziy bayramni o'tkazishga tayyorgarlik chorshanba kuni allaqachon boshlangan edi.",
-   "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795665854,
-   "date": "2026-11-26"
-  },
-  {
    "title": "Kaliforniyada Shukrona kuni Qirollik suv toshqini avj olganligi sababli suv toshqini haqida ogohlantirilmoqda",
    "summary": "Kanadaning Britaniya Kolumbiyasi provinsiyasining ayrim qismlari ham millionlab odamlarning ta'tilga sayohat qilishi natijasida yuzaga kelgan bo'ronlar va suv toshqinlaridan zarar ko'rishi mumkin.",
    "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
@@ -250,16 +260,6 @@
    "source": "BBC",
    "ts": 1795656175,
    "date": "2026-11-26"
-  },
-  {
-   "title": "Ajoyib kriket tutqichini ushlagan mototsiklchi topildi",
-   "summary": "Mehran Xon harakatlanayotgan mototsiklning orqasida o'tirib, kriket to'pini ushlaganida butun dunyo bo'ylab sport muxlislarini hayratda qoldirdi.",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795650602,
-   "date": "2026-11-25"
   },
   {
    "title": "Jensen Huangning NVIDIA bosh direktori lavozimiga qaytishi Xitoyda qanday kechmoqda",
