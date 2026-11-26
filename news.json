@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-26 19:37 UTC",
+ "updated": "2026-11-26 20:33 UTC",
  "items": [
+  {
+   "title": "\"Ikki marta o'ylab ko'ring\": Banff rasmiylari konkida uchuvchining o'limidan so'ng yupqa muz haqida ogohlantirish berishdi",
+   "summary": "Luiz ko'lida sodir bo'lgan uchta alohida hodisadan, ulardan biri halokatli bo'lganidan so'ng, Parks Canada tashrif buyuruvchilarni o'rtacha iliqroq noyabr oyidan keyin ehtiyot bo'lishga chaqirmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/c3wy01q8pjr8o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795723740,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Tahlil: Nima uchun Trampning yangi tariflari unchalik xavfli emas",
+   "summary": "Boshqa davlatlar uning birinchi tarif salvosiga javoban savdo yo'nalishini o'zgartirdilar, endi ular Trampning vakolat muddatidan tashqariga qarashmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795722958,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Kuzatuv: AQShda kuchli ob-havo tufayli tomlar yirtilib, ko'chalar suv ostida qoldi",
+   "summary": "Shukrona kuni bayrami dam olish kunlari boshlanishi bilan mamlakatda yuz minglab odamlar bo'ronlardan jabr ko'rdi.",
+   "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795721176,
+   "date": "2026-11-26"
+  },
   {
    "title": "Boks rahbarlari jangdan oldin Fyurining ruhiy holatini baholaydilar",
    "summary": "Tayson Fyurining ruhiy salomatligi hujjatli filmlar oshkor bo'lganidan so'ng, uning Entoni Joshua bilan jang qilishga tayyor ekanligiga ishonch hosil qilish uchun baholanadi.",
@@ -152,16 +182,6 @@
    "date": "2026-11-26"
   },
   {
-   "title": "AQSh armiyasi Ayova shtatida portlovchi moddalarning nazorat ostida portlashi \"katta muvaffaqiyat\" bo'lganini aytdi",
-   "summary": "Rasmiylarning aytishicha, atrofdagi hududda qo'rg'oshin aniqlanmagan, mahalliy aholining xavotirlaridan so'ng tekshiruvlar davom etmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795689515,
-   "date": "2026-11-26"
-  },
-  {
    "title": "Albukerkedagi hind pueblo oshxonasida tubjoy amerikalik taomlar asosiy taom hisoblanadi",
    "summary": "Nyu-Meksiko shtatining Albukerke shahridagi muzeyda ko'rgazmalar kabi restoran ham diqqatga sazovordir, chunki u yerda yashil chili güveç va anis va dolchin bilan ta'mlangan shirin biskoxitos kabi taomlar mavjud.",
    "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
@@ -186,7 +206,7 @@
    "summary": "Starmind yulduz turkumi sun'iy intellekt hisoblash quvvatiga bo'lgan ortib borayotgan talabni qondirishning eng tejamkor va energiya tejamkor usuli bo'lishga intiladi.",
    "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795685264,
    "date": "2026-11-26"
@@ -239,16 +259,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795669224,
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Kaliforniyada Shukrona kuni Qirollik suv toshqini avj olganligi sababli suv toshqini haqida ogohlantirilmoqda",
-   "summary": "Kanadaning Britaniya Kolumbiyasi provinsiyasining ayrim qismlari ham millionlab odamlarning ta'tilga sayohat qilishi natijasida yuzaga kelgan bo'ronlar va suv toshqinlaridan zarar ko'rishi mumkin.",
-   "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795656175,
    "date": "2026-11-26"
   },
   {
@@ -369,16 +379,6 @@
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795600920,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "AQSh bosh prokurori Nvidia tergovi haqidagi savollardan qochmoqda",
-   "summary": "Nvidia aksiyalari narxi qonun chiqaruvchilar prezident Donald Trampning Huangning qayta tiklanishiga aloqadorligi haqida javob talab qilgani sababli 7% ga pasaydi.",
-   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795578247,
    "date": "2026-11-25"
   },
   {
