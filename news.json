@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-26 22:37 UTC",
+ "updated": "2026-11-26 23:38 UTC",
  "items": [
+  {
+   "title": "Gibbs goes off but 'Iceman' Williams, Bears steal the show in Thanksgiving thriller",
+   "summary": "Caleb Williams turned into the 'Iceman' once again to give the Bears a dramatic late win over the Lions.",
+   "link": "https://www.espn.com/nfl/story/_/id/50605750/jahmyr-gibbs-lions-caleb-williams-bears-thanksgiving-game",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795734527,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Asia made a big AI bet on Nvidia. What happens now?",
+   "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+   "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795734492,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "After Democrats' midterm wins, some hope attacks on DEI will ease",
+   "summary": "After the midterms, a Democratic congressman declared that DEI is back. What does Democrats' ascendance portend for diversity initiatives that the Trump administration relentlessly attacked?",
+   "link": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
+   "ok": false,
+   "cat": "Siyosat",
+   "source": "NPR",
+   "ts": 1795734374,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+   "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795733367,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Steelers owner: Rodgers' 'insubordination can't be tolerated,' backs McCarthy",
+   "summary": "Steelers owner Art Rooney II reacted to Wednesday's fiery interview from Aaron Rodgers by saying he was \"disappointed in where this went\" with their now-former quarterback, adding he has \"100% confide",
+   "link": "https://www.espn.com/nfl/story/_/id/50605070/steelers-owner-disappointed-rodgers-backs-mccarthy",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795733137,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "QB Rodgers officially a free agent after clearing waivers",
+   "summary": "Aaron Rodgers is officially a free agent and eligible to sign with any team after he cleared waivers Thursday.",
+   "link": "https://www.espn.com/nfl/story/_/id/50606625/aaron-rodgers-officially-free-agent-clearing-waivers",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795733137,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Sources: Michigan QB Underwood expected to start vs. rival Ohio State",
+   "summary": "Michigan QB Bryce Underwood, who had been dealing with a hamstring injury, is now expected to start Saturday against Ohio State, sources told ESPN's Pete Thamel.",
+   "link": "https://www.espn.com/college-football/story/_/id/50606615/sources-michigan-qb-bryce-underwood-play-vs-ohio-state",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795733137,
+   "date": "2026-11-26"
+  },
   {
    "title": "\"Bornmut\" muxlislari Yevropa Ligasi finali uchun mehmonxonalarni band qilishganligi sababli \"orzu qilishga\" ruxsat berildi",
    "summary": "\"Bornmut\" Yevropa Ligasida dastlabki beshta o'yinda g'alaba qozongan jamoalar safiga qo'shilganidan so'ng, Yevropa Ligasida g'alaba qozonishni orzu qilmoqda.",
@@ -72,16 +142,6 @@
    "date": "2026-11-26"
   },
   {
-   "title": "Poundland qachon yopiladi? Uning kelajagi haqida beshta savol",
-   "summary": "Poundland nima uchun yopilmoqda va xodimlar va yetkazib beruvchilar bilan nima bo'ladi?",
-   "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795713681,
-   "date": "2026-11-26"
-  },
-  {
    "title": "Hindistonlik Pant soxta nom ostida Yangi Zelandiya klubi o'yiniga qo'shildi",
    "summary": "Hindiston terma jamoasi darvozaboni Rishabh Pant kutilmaganda Yangi Zelandiyaga qarshi ikkinchi sinov o'yinidan oldin Kraystcherchdagi klub o'yiniga qo'shildi va 21 ta to'pdan 54 ta gol urdi.",
    "link": "https://www.bbc.co.uk/sport/cricket/articles/crx27984p14jo?at_medium=RSS&at_campaign=rss",
@@ -89,16 +149,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795710104,
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Jerar Depardye 2018-yilda aktrisani zo'rlashda ayblanib sudga tortiladi, deya qaror qildi sud.",
-   "summary": "Parij apellyatsiya sudi Depardye Sharlotta Arnulni zo'rlashda gumon qilinib, sudga tortilishiga qaror qildi.",
-   "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795704266,
    "date": "2026-11-26"
   },
   {
@@ -236,7 +286,7 @@
    "summary": "Federal sudya Tramp ma'muriyatining ABCga tegishli barcha mahalliy eshittirish litsenziyalarini qayta ko'rib chiqishga kirishishini taqiqladi. Stansiyalar AQShning eng yirik oltita bozorida efirga uzatiladi.",
    "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
    "ok": true,
-   "cat": "Siyosat",
+   "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795670598,
    "date": "2026-11-26"
@@ -376,7 +426,7 @@
    "summary": "Doimiy ravishda yangi narsalarni sotib olish muammoli bo'lishi mumkin, deydi \"Yangi narsalarga yo'q deyish\" nomli yangi kitob muallifi, jurnalist Erik Atas. Mana, qanday qilib bu siklni buzish va mavjud narsangizdan zavq olish mumkin.",
    "link": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
    "ok": true,
-   "cat": "Iqtisod",
+   "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795600920,
    "date": "2026-11-25"
@@ -389,16 +439,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795560550,
-   "date": "2026-11-24"
-  },
-  {
-   "title": "Ish joyidagi madaniyat chempionlari uchun Jensen Huangning qaytishi \"aql bovar qilmaydigan\"",
-   "summary": "Silikon vodiysida xilma-xillik va inklyuzivlikni targ'ib qilish ustida ishlagan ba'zi mutaxassislarning aytishicha, Jensen Xuangning Nvidia bosh direktori lavozimiga qayta tiklanishi faqat pul muhimligi haqidagi xabarni yuboradi.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795514400,
    "date": "2026-11-24"
   },
   {
