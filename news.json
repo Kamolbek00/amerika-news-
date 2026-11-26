@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-26 02:00 UTC",
+ "updated": "2026-11-26 03:02 UTC",
  "items": [
   {
-   "title": "Follow live: Rams, Packers exchange field goals on Thanksgiving Eve",
-   "summary": "null",
-   "link": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795657922,
-   "date": "2026-11-25"
+   "title": "Buyuk Britaniya hukumati Yevropa Ittifoqi bilan kelishilgan yangi shartnomalarni e'lon qilishga tayyorlanmoqda",
+   "summary": "BBC shartnomalarda chegara nazorati infratuzilmasini qayta tiklash zarurati bilan bog'liq har qanday xarajatlarni qoplash uchun 10 yillik bekor qilish bandi mavjudligini tushunadi.",
+   "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795659180,
+   "date": "2026-11-26"
   },
   {
-   "title": "California warns of flooding as king tides peak over Thanksgiving",
-   "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+   "title": "Kaliforniya Shukrona kunida suv toshqini avj olishi sababli suv toshqini haqida ogohlantirmoqda",
+   "summary": "Kanadaning Britaniya Kolumbiyasi provinsiyasining ayrim qismlari ham millionlab odamlar ta'tilga sayohat qilayotgan bir paytda yuzaga kelgan bo'ronlardan ta'sirlanishi mumkin.",
    "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-   "ok": false,
+   "ok": true,
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795656175,
@@ -32,60 +32,30 @@
    "date": "2026-11-26"
   },
   {
-   "title": "Steelers cut Rodgers after QB rips McCarthy in scorched-earth interview",
-   "summary": "The Steelers have waived Aaron Rodgers after the quarterback said Wednesday on \"The Pat McAfee Show\" that coach Mike McCarthy has been sleeping through team meetings.",
-   "link": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795655464,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Sources corroborate Rodgers' shocking McCarthy allegations: 'It's all true'",
-   "summary": "NFL sources have corroborated Aaron Rodgers' account of Mike McCarthy to ESPN reporters, confirming the star QB's allegations about the Steelers coach.",
-   "link": "https://www.espn.com/nfl/story/_/id/50597187/sources-confirm-aaron-rodgers-allegations-mike-mccarthy",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795655464,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Sources: McCarthy has Steelers' full support after Rodgers' bombshell interview",
-   "summary": "Mike McCarthy has the full support of the Steelers organization and will remain the team's coach after Aaron Rodgers' allegations, sources told NFL Network and ESPN.",
-   "link": "https://www.espn.com/nfl/story/_/id/50597534/sources-mike-mccarthy-steelers-full-support",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795655464,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
-   "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
+   "title": "Pochettino \"Manchester Yunayted\"dagi faoliyatining tartibsiz boshlanishidan umidsizlikka tushdi",
+   "summary": "Maurisio Pochettino \"Manchester Yunayted\" bosh murabbiyi sifatidagi dastlabki ikkita o'yinidan keyin qanday natijalarga erishdi?",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
-   "ok": false,
+   "ok": true,
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795652688,
    "date": "2026-11-26"
   },
   {
-   "title": "AQSh armiyasi Ayova shtatida portlovchi moddalarning nazorat ostida portlashi \"katta muvaffaqiyat\" bo'lganini aytdi",
-   "summary": "Portlashdan oldin aholining keng tarqalgan xavotiriga qaramay, rasmiylarning ta'kidlashicha, hozirgacha hududda qo'rg'oshin ko'rsatkichlari umid baxsh etmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+   "title": "Global jihodizm muvaffaqiyatsizlikka uchradimi yoki shunchaki shaklini o'zgartiryaptimi?",
+   "summary": "Jihodchi guruhlar global terrorizmga emas, balki mahalliy muammolarga e'tibor qaratayotganga o'xshaydi. Bu haqiqiy o'zgarishni anglatadimi?",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795652585,
+   "ts": 1795652538,
    "date": "2026-11-26"
   },
   {
-   "title": "US approves SpaceX plan to send a million data satellites to space",
-   "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+   "title": "AQSh SpaceX’ning kosmosga millionlab maʼlumotlar sunʼiy yoʻldoshlarini yuborish rejasini maʼqulladi",
+   "summary": "Starmind yulduz turkumi sun'iy intellekt hisoblash quvvatiga bo'lgan ortib borayotgan talabni qondirishning eng tejamkor va energiya tejamkor usuli bo'lishga intiladi.",
    "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-   "ok": false,
+   "ok": true,
    "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795651671,
@@ -102,10 +72,10 @@
    "date": "2026-11-25"
   },
   {
-   "title": "'All coming together' - Isak repaying Liverpool faith",
-   "summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m to bring him to the club.",
+   "title": "\"Hammasi birlashmoqda\" - Isak \"Liverpul\"ning ishonchini oqlamoqda",
+   "summary": "Aleksandr Isakning \"Bryugge\"ga qarshi o'yinda urgan ikkita goli uning mavsumdagi gollari sonini 10 taga yetkazdi va hujumchi o'tgan yili \"Liverpul\" uni klubga olib kelish uchun 125 million funt sterling to'laganini isbotlashda davom etmoqda.",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
-   "ok": false,
+   "ok": true,
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795649130,
@@ -139,16 +109,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795645086,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "AQSh aksiyalari sun'iy intellektga oid xavotirlar kuchaygan sari yanada pasayib bormoqda",
-   "summary": "AQShning uchta asosiy indeksi ham dastlabki savdolarda pasayib ketdi, texnologiyalar ustunlik qiladigan Nasdaq esa deyarli 4% ga pasaydi.",
-   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795642998,
    "date": "2026-11-25"
   },
   {
@@ -242,10 +202,10 @@
    "date": "2026-11-25"
   },
   {
-   "title": "Four-time MVP Rodgers released and may have played last NFL game",
-   "summary": "Veteran quarterback Aaron Rodgers may have played his last game in the NFL after being released by the Pittsburgh Steelers.",
+   "title": "To'rt karra MVP Rodgers ozod qilindi va NFLning so'nggi o'yinida o'ynagan bo'lishi mumkin",
+   "summary": "Tajribali chorak himoyachi Aaron Rodgers Pittsburgh Steelers tomonidan qo'yib yuborilganidan keyin NFLdagi so'nggi o'yinini o'tkazgan bo'lishi mumkin.",
    "link": "https://www.bbc.co.uk/sport/american-football/articles/c64gn8ryp7jno?at_medium=RSS&at_campaign=rss",
-   "ok": false,
+   "ok": true,
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795617436,
