@@ -1,35 +1,25 @@
 {
- "updated": "2026-11-26 04:10 UTC",
+ "updated": "2026-11-26 05:30 UTC",
  "items": [
   {
-   "title": "Steelers cut Rodgers after QB rips McCarthy in scorched-earth interview",
-   "summary": "The Steelers have waived Aaron Rodgers after the quarterback said Wednesday on \"The Pat McAfee Show\" that coach Mike McCarthy has been sleeping through team meetings.",
-   "link": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795665889,
-   "date": "2026-11-25"
+   "title": "AQSh sudyasi FCC Trampni xursand qilish uchun ABCning so'z erkinligi huquqini buzgan deb topdi",
+   "summary": "Federal sudya Tramp ma'muriyatining ABCga tegishli barcha mahalliy eshittirish litsenziyalarini qayta ko'rib chiqishga kirishishini taqiqladi. Stansiyalar AQShning eng yirik oltita bozorida efirga uzatiladi.",
+   "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795670598,
+   "date": "2026-11-26"
   },
   {
-   "title": "Sources corroborate Rodgers' shocking McCarthy allegations: 'It's all true'",
-   "summary": "NFL sources have corroborated Aaron Rodgers' account of Mike McCarthy to ESPN reporters, confirming the star QB's allegations about the Steelers coach.",
-   "link": "https://www.espn.com/nfl/story/_/id/50597187/sources-confirm-aaron-rodgers-allegations-mike-mccarthy",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795665889,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Sources: McCarthy has Steelers' full support after Rodgers' bombshell interview",
-   "summary": "Mike McCarthy has the full support of the Steelers organization and will remain the team's coach after Aaron Rodgers' allegations, sources told NFL Network and ESPN.",
-   "link": "https://www.espn.com/nfl/story/_/id/50597534/sources-mike-mccarthy-steelers-full-support",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795665889,
-   "date": "2026-11-25"
+   "title": "AQSh Xitoy kabi bir qator davlatlarga yangi bojlar joriy qildi",
+   "summary": "Yangi soliqlar Amerikaning eng yirik savdo sheriklarining ko'pchiligiga, jumladan, Xitoy va Yevropa Ittifoqiga ta'sir qiladi.",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795666258,
+   "date": "2026-11-26"
   },
   {
    "title": "Macy's ob-havo tufayli Shukrona bayrami paradini qoldirdi",
@@ -42,33 +32,13 @@
    "date": "2026-11-26"
   },
   {
-   "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
-   "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+   "title": "FedEx samolyoti Mayamidagi aeroportda uchish-qo'nish yo'lagidan chiqib ketdi, reyslar qisqa vaqtga to'xtatildi",
+   "summary": "Qisqa muddatli to'xtash AQShning Shukrona kuni bayramidan bir kun oldin, yilning eng gavjum sayohat kunlaridan biri bo'lib o'tadi.",
    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-   "ok": false,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795663653,
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Follow live: Corum breaks through for TD as Rams regain lead",
-   "summary": "null",
-   "link": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
-   "ok": false,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795663287,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "AQSh Xitoy kabi bir qator davlatlarga yangi bojlar joriy qildi",
-   "summary": "Yangi soliqlar Amerikaning eng yirik savdo sheriklarining ko'pchiligiga, jumladan, Xitoy va Yevropa Ittifoqiga ta'sir qiladi.",
-   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795662100,
+   "ts": 1795663653,
    "date": "2026-11-26"
   },
   {
@@ -162,6 +132,16 @@
    "date": "2026-11-25"
   },
   {
+   "title": "Isakning dubl qayd etishi \"Liverpul\"ga \"Bryuge\"ni mag'lub etishga yordam berdi",
+   "summary": "\"Liverpul\" Aleksandr Isak va Florian Virtsning gollari evaziga \"Bryugge\"ni ajoyib tarzda mag'lub etdi va Chempionlar Ligasidagi so'nggi o'yindagi mag'lubiyatdan so'ng o'z o'rniga qaytdi.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795644739,
+   "date": "2026-11-25"
+  },
+  {
    "title": "Shukrona kuni stolida AI haqida qanday gapirish kerak",
    "summary": "Bu Shukrona kunida siz oilangiz bilan yig'ilgansiz, sun'iy intellekt mavzusi ko'tariladi. Qanday qilib samarali, faktlarga asoslangan suhbat qurish mumkin?",
    "link": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table",
@@ -242,16 +222,6 @@
    "date": "2026-11-25"
   },
   {
-   "title": "To'rt karra MVP Rodgers ozod qilindi va NFLning so'nggi o'yinida o'ynagan bo'lishi mumkin",
-   "summary": "Tajribali chorak himoyachi Aaron Rodgers Pittsburgh Steelers tomonidan qo'yib yuborilganidan keyin NFLdagi so'nggi o'yinini o'tkazgan bo'lishi mumkin.",
-   "link": "https://www.bbc.co.uk/sport/american-football/articles/c64gn8ryp7jno?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795617436,
-   "date": "2026-11-25"
-  },
-  {
    "title": "Amerika Shukrona Kunlari Liberiyada qanday ildiz otgan va rivojlangan",
    "summary": "Liberiyaning ilk ko'chmanchilari afro-amerikaliklar bo'lib, ular o'zlari bilan Shukrona bayramini olib kelishgan - bu bayram ushbu yangi millatning tarixi va o'ziga xosligini aks ettirish uchun rivojlangan.",
    "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
@@ -266,7 +236,7 @@
    "summary": "Milliy chakana savdo federatsiyasi ma'lumotlariga ko'ra, AQShlik xaridorlarning 59 foizi ushbu dam olish kunlari bayramona xaridlar uchun sun'iy intellektdan foydalanishni rejalashtirmoqda.",
    "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795614716,
    "date": "2026-11-25"
@@ -339,16 +309,6 @@
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795600920,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Narxlar oshib borayotgan bir paytda, Shukrona kuni mahsuloti arzonroq: nasha",
-   "summary": "Kannabis uchun eng ko'p sotiladigan kunlardan biri bo'lgan \"Yashil chorshanba\" uchun katta chegirmalar mijozlarga xarajatlarni kamaytirishga yordam beradi. Ammo mutaxassislarning ta'kidlashicha, chakana sotuvchilar qiyinchilikni his qilmoqdalar.",
-   "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "NPR",
-   "ts": 1795600800,
    "date": "2026-11-25"
   },
   {
