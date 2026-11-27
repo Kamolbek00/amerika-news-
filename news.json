@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-27 19:32 UTC",
+ "updated": "2026-11-27 20:34 UTC",
  "items": [
+  {
+   "title": "Ispaniya bosh vaziri va raqiblari ovoz berish uchun so'nggi chiqishda tarafdorlarini mitingga chorlamoqda",
+   "summary": "Bosh vazir Pedro Sanches saylovlarga qarshi chiqmoqchi va uning asosiy raqiblari uni haqiqatni aytmaganlikda va \"xiyonat\"da ayblamoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795810149,
+   "date": "2026-11-27"
+  },
   {
    "title": "Parad qayta tashkil etilgandan so'ng, marsh orkestrlari Nyu-York shahar xarajatlarini qoplash uchun kurashmoqda",
    "summary": "Nyu-York shahridagi bo'ronli ob-havo tashkilotchilarni Macy's paradini ikki kunga kechiktirishga undadi - bu esa ba'zi musiqachilarni qiynalib qoldi.",
@@ -8,7 +18,17 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795805553,
+   "ts": 1795809991,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Mercedes Qatardagi ikkinchi mashg'ulotda ajoyib natija ko'rsatdi",
+   "summary": "Jahon chempioni Kimi Antonelli Qatar Gran-prisida ikkinchi mashg'ulotda Mercedes jamoasidagi jamoadoshi Jorj Rasselldan oldinda bormoqda.",
+   "link": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795809006,
    "date": "2026-11-27"
   },
   {
@@ -42,16 +62,6 @@
    "date": "2026-11-27"
   },
   {
-   "title": "Mercedes Qatardagi ikkinchi mashg'ulotda ajoyib natija ko'rsatdi",
-   "summary": "Jahon chempioni Kimi Antonelli Qatar Gran-prisida ikkinchi mashg'ulotda Mercedes jamoasidagi jamoadoshi Jorj Rasselldan oldinda bormoqda.",
-   "link": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795804109,
-   "date": "2026-11-27"
-  },
-  {
    "title": "Zelenskiy BBCga bergan intervyusida AQSh Yaqin Sharqqa juda e'tibor qaratdi va Rossiyani yetarlicha qattiq bostirmadi, dedi",
    "summary": "Ukraina prezidenti AQShdan noroziligini bildirdi va Trampning Vladimir Putinni do'st deb ta'riflagani \"g'alati\" ekanligini aytdi.",
    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
@@ -59,46 +69,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795802440,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Jags \"haftadan haftaga\" yelka jarohati tufayli eng yaxshi WR Vashingtonni chiqarib yubordi",
-   "summary": "\"Jaguars\" jamoasining keng qabul qiluvchisi Parker Vashington yakshanba kuni \"Titans\"ga qarshi o'yinni o'tkazib yuboradi va ehtimol yelkasidan olgan jarohati tufayli undan ham ko'proq o'yinni o'tkazib yuboradi.",
-   "link": "https://www.espn.com/nfl/story/_/id/50612050/jaguars-wr-parker-washington-shoulder-week-week",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795800514,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Tomlin Rojersning achchiq ketishidan xafa bo'lib, vaziyatni \"axlat konteyneridagi yong'in\" deb atadi",
-   "summary": "Mayk Tomlin Aaron Rojersning Pitsburgdan shov-shuvli tarzda ketishidan xafa bo'lganini va QB Mayk Makkartiga qarshi shikoyatlarini qanday \"aytganiga\" qo'shilmasligini aytdi.",
-   "link": "https://www.espn.com/nfl/story/_/id/50608802/tomlin-calls-rodgers-mccarthy-situation-dumpster-fire",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795800514,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Manbalar: Ayiqlar TE Loveland (tizza) ni IRga qo'yishi kutilmoqda",
-   "summary": "Manbalar ESPNga ma'lum qilishicha, \"Ayiqlar\" Colston Lovelandni jarohatlanganlar zaxirasiga qo'yishni kechiktirmoqda, jarohatlangan tayt-end esa chap tizzasida ikkinchi fikrga ega.",
-   "link": "https://www.espn.com/nfl/story/_/id/50612564/sources-bears-expected-place-te-colston-loveland-knee-ir",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795800513,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "WR Rays va Chiefs Billsga mag'lubiyatning kechikishida pas berishdan xafa bo'lishdi",
-   "summary": "WR Rashee Rays - Chiefsning bir nechta a'zolari bilan birgalikda - Billsning tugashiga ikki daqiqadan kamroq vaqt qolganda uchinchi darajali uzatma bilan to'pni ushlab olganini his qildi.",
-   "link": "https://www.espn.com/nfl/story/_/id/50609968/rashee-rice-chiefs-believe-caught-pivotal-3rd-pass",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795800513,
    "date": "2026-11-27"
   },
   {
@@ -229,16 +199,6 @@
    "cat": "Dunyo",
    "source": "NPR",
    "ts": 1795759965,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Ispaniya saylovlarining so'nggi debatida yetakchilar to'qnash kelishdi, chunki uy-joy masalasi ustunlik qilmoqda",
-   "summary": "Uy sotib olishda ko'pchilik duch keladigan qiyinchilik achchiq kampaniyaning eng katta muammosi bo'ldi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795759419,
    "date": "2026-11-27"
   },
   {
