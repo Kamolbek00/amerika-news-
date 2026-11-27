@@ -1,14 +1,54 @@
 {
- "updated": "2026-11-27 21:36 UTC",
+ "updated": "2026-11-27 22:38 UTC",
  "items": [
   {
-   "title": "Sun'iy intellekt modellari o'zlarini yaxshilay olganda nima bo'ladi?",
-   "summary": "Yetakchi AI laboratoriyalari rekursiv o'zini o'zi takomillashtirishga hayratlanarli darajada yaqin bo'lishi mumkin. Bu shuni anglatadiki, AI modellari inson ishtirokisiz yoki hatto potentsial xabardorligisiz yaxshiroq AI modellarini ishlab chiqishi mumkin.",
-   "link": "https://www.npr.org/2026/11/27/nx-s1-6048713/what-happens-when-ai-models-can-improve-themselves",
+   "title": "AQShda Shukrona kuni bo'ronlari tufayli yuz minglab odamlar hali ham elektrsiz qolmoqda",
+   "summary": "Pensilvaniya va qo'shni shtatlar juma kuni ikkala qirg'oq ham shamol va yomg'ir ostida qolganidan keyin jiddiy zarar ko'rmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Texnologiya",
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795818586,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Abbott ketganidan keyin Texasdagi ma'lumotlar markazlarining kelajagi qanday bo'ladi?",
+   "summary": "Texas ma'lumotlar markazlari uchun eng mehmondo'st shtatlardan biri bo'lib kelgan, ammo yangi gubernator kelishi bilan bu o'zgarishi mumkin.",
+   "link": "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas",
+   "ok": true,
+   "cat": "Siyosat",
    "source": "NPR",
-   "ts": 1795815015,
+   "ts": 1795818033,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Beshta urinish natijasiga ega Irlandiya kuzgi finalda Avstraliyani mag'lub etdi",
+   "summary": "Irlandiya terma jamoasi Londonda Avstraliya ustidan 38-14 hisobida g'alaba qozonib, ilk Millatlar chempionatida beshinchi o'rinni egalladi.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw987l0ej11mo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795817865,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Gibbs-Uayt yulduzlari, Fofana qiyinchiliklarga duch kelmoqda - Forest - Chelsea o'yiniga o'yinchilar reytingi",
+   "summary": "Morgan Gibbs-Uayt ikkita gol urib, \"Nottingem Forest\" 1997-yildan beri birinchi marta \"Siti Ground\"da \"Chelsi\"ni 3:2 hisobida mag'lub etdi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795816788,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Sun'iy intellekt reklamalarining o'limidan keyingi holat",
+   "summary": "Sun'iy intellekt kompaniyalari ushbu siklda to'plagan ma'lumotlar kelajakdagi reklamalarni giper-maxsus auditoriyaga taqdim etishga yordam beradi.",
+   "link": "https://www.npr.org/2026/11/27/nx-s1-6045833/postmortem-of-ai-ads",
+   "ok": true,
+   "cat": "Siyosat",
+   "source": "NPR",
+   "ts": 1795816699,
    "date": "2026-11-27"
   },
   {
@@ -18,7 +58,7 @@
    "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795813024,
+   "ts": 1795816553,
    "date": "2026-11-27"
   },
   {
@@ -39,16 +79,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795809006,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "AQShda Shukrona kuni bo'ronlari tufayli yuz minglab odamlar hali ham elektrsiz qolmoqda",
-   "summary": "Pensilvaniya va qo'shni shtatlar juma kuni ikkala qirg'oq ham shamol va yomg'ir ostida qolganidan keyin jiddiy zarar ko'rmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795805105,
    "date": "2026-11-27"
   },
   {
@@ -82,16 +112,6 @@
    "date": "2026-11-27"
   },
   {
-   "title": "Nima uchun snuker eng aqliy jihatdan qiyin sport turi bo'lishi mumkin",
-   "summary": "Mark Allen ruhiy salomatligi bilan bog'liq muammolari haqida gapirgan so'nggi snuker o'yinchisi bilan BBC Sport sportning nima uchun bunchalik ruhiy jihatdan qiyin ekanligi va bunga yordam berish uchun nima qilinayotganiga nazar tashlaydi.",
-   "link": "https://www.bbc.co.uk/sport/snooker/articles/cm174wqxk8lpo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795798810,
-   "date": "2026-11-27"
-  },
-  {
    "title": "Kanada Oliy sudi Kvebekda davlat xizmatchilari uchun diniy ramzlarga taqiqni asosan qo'llab-quvvatladi",
    "summary": "Qonun turli guruhlar, jumladan, ayol musulmon, sikx va katolik o'qituvchilari tomonidan ularning asosiy huquqlarini buzayotganini ta'kidlagan holda, sudga tortildi.",
    "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
@@ -109,16 +129,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795794855,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Avstraliya kriket zımpara forumi topilmalarini yoqtirmasligi mumkin - Vaughan",
-   "summary": "Angliyaning sobiq sardori Maykl Vonning so'zlariga ko'ra, Avstraliya kriket jamoasi forumdan tortib zımpara mojarosigacha bo'lgan narsalarni topib olganini yoqtirmaydi.",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/c5pv903jvy2po?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795788357,
    "date": "2026-11-27"
   },
   {
@@ -302,26 +312,6 @@
    "date": "2026-11-26"
   },
   {
-   "title": "Bo'ronlar Shukrona kuni sayohatlariga xalaqit berdi. Va FCC ABCning so'z erkinligini buzdi, deydi sudya",
-   "summary": "Sharqiy qirg'oqning ob-havosi bu bayramda katta tashvish tug'dirmoqda, chunki bu qirg'oq suv toshqinlariga olib kelishi mumkin. Va sudyaning so'zlariga ko'ra, FCC ABCni Tramp yoqtirmaydigan satira uchun jazolay olmaydi.",
-   "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795695869,
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Tramp ma'muriyati AQShning yirik savdo sheriklaridan tovarlarga yangi tariflarni taklif qilmoqda",
-   "summary": "Prezident Trampning yangi taklif qilingan tariflari allaqachon demokratlar va ba'zi erkin savdo tarafdorlari tomonidan qarshiliklarga uchramoqda.",
-   "link": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795693427,
-   "date": "2026-11-26"
-  },
-  {
    "title": "AQSh SpaceX’ning kosmosga millionlab maʼlumotlar sunʼiy yoʻldoshlarini yuborish rejasini maʼqulladi",
    "summary": "Starmind yulduz turkumi sun'iy intellekt hisoblash quvvatiga bo'lgan ortib borayotgan talabni qondirishning eng tejamkor va energiya tejamkor usuli bo'lishga intiladi.",
    "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
@@ -379,6 +369,16 @@
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795642197,
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Qora Juma kuni xarid qilish uchun AI agentlaridan foydalanishdan oldin nimani bilishingiz kerak",
+   "summary": "Milliy chakana savdo federatsiyasi ma'lumotlariga ko'ra, AQShlik xaridorlarning 59 foizi ushbu dam olish kunlari bayramona xaridlar uchun sun'iy intellektdan foydalanishni rejalashtirmoqda.",
+   "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795614716,
    "date": "2026-11-25"
   },
   {
