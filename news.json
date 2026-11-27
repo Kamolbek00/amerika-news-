@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-27 15:06 UTC",
+ "updated": "2026-11-27 16:14 UTC",
  "items": [
+  {
+   "title": "Braziliya Makronning go'shtni \"doping qoidalariga zid\" deb ataganiga qarshi chiqdi",
+   "summary": "Fransiya prezidenti bu fikrni Yevropa Ittifoqi Braziliya mol go'shti va parranda mahsulotlarini taqiqlaganidan bir necha oy o'tgach, fransuz fermer xo'jaliklari vakillari bilan suhbatda aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795794855,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "\"Arsenal\" bosh murabbiyi Slegers o'zaro kelishuv asosida iste'foga chiqdi",
+   "summary": "\"Arsenal\" mavsumni muvaffaqiyatsiz boshlaganidan so'ng bosh murabbiy Rene Slegers bilan o'zaro kelishuvga ko'ra shartnomani bekor qildi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795794206,
+   "date": "2026-11-27"
+  },
   {
    "title": "Kanada Oliy sudi Kvebekda davlat xizmatchilari uchun diniy ramzlarga taqiqni asosan qo'llab-quvvatladi",
    "summary": "Qonun turli guruhlar, jumladan, ayol musulmon, sikx va katolik o'qituvchilari tomonidan ularning asosiy huquqlarini buzayotganini ta'kidlagan holda, sudga tortildi.",
@@ -8,7 +28,37 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795791315,
+   "ts": 1795793893,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Jon Simpson: Ukraina sovuq ob-havo boshlanganligi sababli egilgan, ammo hali ham buzilmagan",
+   "summary": "Ukraina yana bir dahshatli qishga tayyorlanmoqda, savollar davom etar ekan: barchasi qanday tugaydi?",
+   "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795792731,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Parad qayta tashkil etilgandan so'ng, marsh orkestrlari Nyu-York shahar xarajatlarini qoplash uchun kurashmoqda",
+   "summary": "Nyu-York shahridagi bo'ronli ob-havo tashkilotchilarni Macy's paradini ikki kunga kechiktirishga undadi - bu esa ba'zi musiqachilarni qiynalib qoldi.",
+   "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795792519,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "\"Manchester Yunayted\" Fernandes bilan shartnomani bir yilga uzaytirdi",
+   "summary": "\"Manchester Yunayted\" sardori Bruno Fernandes bilan shartnomani 2028-yilgacha uzaytirish bo'yicha variantni faollashtirdi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795792121,
    "date": "2026-11-27"
   },
   {
@@ -22,16 +72,6 @@
    "date": "2026-11-27"
   },
   {
-   "title": "\"Manchester Yunayted\" Fernandes bilan shartnomani bir yilga uzaytirdi",
-   "summary": "\"Manchester Yunayted\" sardori Bruno Fernandes bilan shartnomani 2028-yilgacha uzaytirish bo'yicha variantni faollashtirdi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795790227,
-   "date": "2026-11-27"
-  },
-  {
    "title": "Avstraliya kriket zımpara forumi topilmalarini yoqtirmasligi mumkin - Vaughan",
    "summary": "Angliyaning sobiq sardori Maykl Vonning so'zlariga ko'ra, Avstraliya kriket jamoasi forumdan tortib zımpara mojarosigacha bo'lgan narsalarni topib olganini yoqtirmaydi.",
    "link": "https://www.bbc.co.uk/sport/cricket/articles/c5pv903jvy2po?at_medium=RSS&at_campaign=rss",
@@ -39,16 +79,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795788357,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Tibbiy ko'rikdan so'ng Fyuri Joshuaga qarshi jang qilishga ruxsat berdi",
-   "summary": "Shizofreniya tashxisi qo'yilgani haqidagi da'volar tufayli jang xavf ostida qolganidan so'ng, Tayson Fyuri dekabr oyida Entoni Joshuaga qarshi jang qilishga tibbiy ko'rikdan o'tishga ruxsat oldi.",
-   "link": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795781595,
    "date": "2026-11-27"
   },
   {
@@ -82,16 +112,6 @@
    "date": "2026-11-27"
   },
   {
-   "title": "Sobiq ommaviy axborot vositalari rahbari avstraliyalik bolalarga jinsiy zo'ravonlik qurboni \"yana zo'rlanmoqchi\" ekanligini tan oldi",
-   "summary": "Murdochning sobiq media rahbari tadbirda Greys Tamening kiyinish uslubi haqida gapirganini eshitib qoldi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795779880,
-   "date": "2026-11-27"
-  },
-  {
    "title": "Shukrona kuni elektr uzilishlaridan tortib, Qora Jumagacha, ob-havo va iqtisodiy qiyinchiliklar ta'sirida bo'lgan bayram",
    "summary": "",
    "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
@@ -99,16 +119,6 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795777176,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Men oyiga 200 funt sterlingni yolg'iz o'zim uchun mazali taomlarga sarflayman - yolg'iz ovqatlanasizmi?",
-   "summary": "Yakkaxon ovqatlanish o'z-o'ziga g'amxo'rlik qilish tendentsiyasi sifatida qabul qilinmoqda va restoran sanoatini o'zgartirmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795774236,
    "date": "2026-11-27"
   },
   {
@@ -169,16 +179,6 @@
    "cat": "Dunyo",
    "source": "BBC",
    "ts": 1795770468,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Italiyaning sobiq politsiya boshlig'i o'limidan oldin mafiya tergovi ayblovlarini rad etdi",
-   "summary": "Janni De Gennaroning sakkiz sahifali xatining mazmuni uning jasadi Toskanadagi uyidan topilganidan bir necha kun o'tgach oshkor bo'ldi.",
-   "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795764490,
    "date": "2026-11-27"
   },
   {
@@ -256,7 +256,7 @@
    "summary": "Boshqa davlatlar uning birinchi tarif salvosiga javoban savdo yo'nalishini o'zgartirdilar, endi ular Trampning vakolat muddatidan tashqariga qarashmoqda.",
    "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Iqtisod",
    "source": "BBC",
    "ts": 1795722958,
    "date": "2026-11-26"
