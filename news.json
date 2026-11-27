@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-27 20:34 UTC",
+ "updated": "2026-11-27 21:36 UTC",
  "items": [
+  {
+   "title": "Sun'iy intellekt modellari o'zlarini yaxshilay olganda nima bo'ladi?",
+   "summary": "Yetakchi AI laboratoriyalari rekursiv o'zini o'zi takomillashtirishga hayratlanarli darajada yaqin bo'lishi mumkin. Bu shuni anglatadiki, AI modellari inson ishtirokisiz yoki hatto potentsial xabardorligisiz yaxshiroq AI modellarini ishlab chiqishi mumkin.",
+   "link": "https://www.npr.org/2026/11/27/nx-s1-6048713/what-happens-when-ai-models-can-improve-themselves",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795815015,
+   "date": "2026-11-27"
+  },
   {
    "title": "Ispaniya bosh vaziri va raqiblari ovoz berish uchun so'nggi chiqishda tarafdorlarini mitingga chorlamoqda",
    "summary": "Bosh vazir Pedro Sanches saylovlarga qarshi chiqmoqchi va uning asosiy raqiblari uni haqiqatni aytmaganlikda va \"xiyonat\"da ayblamoqda.",
@@ -8,7 +18,7 @@
    "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795810149,
+   "ts": 1795813024,
    "date": "2026-11-27"
   },
   {
@@ -72,16 +82,6 @@
    "date": "2026-11-27"
   },
   {
-   "title": "Keniyalik qiyomat kuni sektasi yetakchisi yana 123 kishining o'limida aybdor deb topildi",
-   "summary": "Pol Makkenzi bolalarni ommaviy o'ldirishda ayblanib qamoqqa olinganidan bir necha hafta o'tgach, izdoshlarini o'ldirishda aybdor deb topildi.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795799971,
-   "date": "2026-11-27"
-  },
-  {
    "title": "Nima uchun snuker eng aqliy jihatdan qiyin sport turi bo'lishi mumkin",
    "summary": "Mark Allen ruhiy salomatligi bilan bog'liq muammolari haqida gapirgan so'nggi snuker o'yinchisi bilan BBC Sport sportning nima uchun bunchalik ruhiy jihatdan qiyin ekanligi va bunga yordam berish uchun nima qilinayotganiga nazar tashlaydi.",
    "link": "https://www.bbc.co.uk/sport/snooker/articles/cm174wqxk8lpo?at_medium=RSS&at_campaign=rss",
@@ -99,6 +99,16 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795798426,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Braziliya Makronning go'shtni \"doping qoidalariga zid\" deb ataganiga qarshi chiqdi",
+   "summary": "Fransiya prezidenti bu fikrni Yevropa Ittifoqi Braziliya mol go'shti va parranda mahsulotlarini taqiqlaganidan bir necha oy o'tgach, fransuz fermer xo'jaliklari vakillari bilan suhbatda aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795794855,
    "date": "2026-11-27"
   },
   {
@@ -369,16 +379,6 @@
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795642197,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Qora Juma kuni xarid qilish uchun AI agentlaridan foydalanishdan oldin nimani bilishingiz kerak",
-   "summary": "Milliy chakana savdo federatsiyasi ma'lumotlariga ko'ra, AQShlik xaridorlarning 59 foizi ushbu dam olish kunlari bayramona xaridlar uchun sun'iy intellektdan foydalanishni rejalashtirmoqda.",
-   "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795614716,
    "date": "2026-11-25"
   },
   {
