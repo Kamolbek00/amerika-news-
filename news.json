@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-27 17:26 UTC",
+ "updated": "2026-11-27 18:20 UTC",
  "items": [
+  {
+   "title": "Zelenskiy BBCga bergan intervyusida AQSh Yaqin Sharqqa juda e'tibor qaratdi va Rossiyani yetarlicha qattiq bostirmadi, dedi",
+   "summary": "Ukraina prezidenti AQShdan noroziligini bildirdi va Trampning Vladimir Putinni do'st deb ta'riflagani \"g'alati\" ekanligini aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795802440,
+   "date": "2026-11-27"
+  },
   {
    "title": "Keniyalik qiyomat kuni sektasi yetakchisi yana 123 kishining o'limida aybdor deb topildi",
    "summary": "Pol Makkenzi bolalarni ommaviy o'ldirishda ayblanib qamoqqa olinganidan bir necha hafta o'tgach, izdoshlarini o'ldirishda aybdor deb topildi.",
@@ -169,16 +179,6 @@
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795772764,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Zelenskiy BBCga bergan intervyusida AQSh Yaqin Sharqqa juda e'tibor qaratdi va Rossiyani yetarlicha qattiq bostirmadi, dedi",
-   "summary": "Ukraina prezidenti AQShdan noroziligini bildirdi va Trampning Vladimir Putinni do'st deb ta'riflagani \"g'alati\" ekanligini aytdi.",
-   "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795770468,
    "date": "2026-11-27"
   },
   {
