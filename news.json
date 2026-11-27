@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-27 11:35 UTC",
+ "updated": "2026-11-27 12:43 UTC",
  "items": [
+  {
+   "title": "Tibbiy ko'rikdan so'ng Fyuri Joshuaga qarshi jang qilishga ruxsat berdi",
+   "summary": "Shizofreniya tashxisi qo'yilgani haqidagi da'volar tufayli jang xavf ostida qolganidan so'ng, Tayson Fyuri dekabr oyida Entoni Joshuaga qarshi jang qilishga tibbiy ko'rikdan o'tishga ruxsat oldi.",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795781595,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Shukrona kuni bo'roni Sharqiy Sohilni qamrab oldi. Va Qora Juma savdosi rekord darajaga yetdi",
+   "summary": "Kuchli bo'ron qariyb 1 million mijozning elektr ta'minotini uzib qo'ydi va ko'chalarni suv bosdi. Mutaxassislarning taxmin qilishicha, inflyatsiya bayramlar uchun Amerika xarajatlarini kamaytirmaydi.",
+   "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795780742,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Fransuz kino yulduzi Jerar Depardye zo'rlash va jinsiy tajovuzda ayblanib sudga tortildi",
+   "summary": "Bu ish Fransiyaning jinsiy zo'ravonlik bilan bog'liq eng ko'zga ko'ringan holatlaridan biriga aylandi, chunki #MeToo harakati mamlakatda, ayniqsa san'at sohasida qarshilikka duch keldi.",
+   "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795780190,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Angliya yana avstraliyaliklarni mag'lub etib, seriyada peshqadamlikka chiqdi",
+   "summary": "Angliya Gabba shahrida bo'lib o'tgan uchinchi T20 musobaqasida yetti darvozali mag'lubiyat bilan oq to'pli kriketda qiynalayotgan Avstraliya ustidan ustunligini yana bir bor tasdiqladi.",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/cm9d704g26z4o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795779914,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Sobiq ommaviy axborot vositalari rahbari avstraliyalik bolalarga jinsiy zo'ravonlik qurboni \"yana zo'rlanmoqchi\" ekanligini tan oldi",
+   "summary": "Murdochning sobiq media rahbari tadbirda Greys Tamening kiyinish uslubi haqida gapirganini eshitib qoldi.",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795779880,
+   "date": "2026-11-27"
+  },
   {
    "title": "Shukrona kuni elektr uzilishlaridan tortib, Qora Jumagacha, ob-havo va iqtisodiy qiyinchiliklar ta'sirida bo'lgan bayram",
    "summary": "",
@@ -19,16 +69,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795775862,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Sobiq ommaviy axborot vositalari rahbari avstraliyalik bolalarga jinsiy zo'ravonlik qurboni \"yana zo'rlanmoqchi\" ekanligini tan oldi",
-   "summary": "Murdochning sobiq media rahbari tadbirda Greys Tamening kiyinish uslubi haqida gapirganini eshitib qoldi.",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795775315,
    "date": "2026-11-27"
   },
   {
@@ -66,7 +106,7 @@
    "summary": "Trampning immigratsiyaga oid keng ko'lamli o'zgarishlari — boshpana berishni taqiqlash, ommaviy ishdan bo'shatish va yangi huquqiy harakatlar — boshpana berishni deyarli tugatdi. Oliy sud tez orada ba'zi o'zgarishlar odamlarni tegishli sud jarayonidan mahrum qiladimi yoki yo'qligini ko'rib chiqadi.",
    "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Siyosat",
    "source": "NPR",
    "ts": 1795773600,
    "date": "2026-11-27"
@@ -76,7 +116,7 @@
    "summary": "Ekranlardan charchagan ba'zi ota-onalar 1970-yillarda ixtiro qilingan rol o'ynash o'yinida analog vohani topdilar.",
    "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795773600,
    "date": "2026-11-27"
@@ -112,16 +152,6 @@
    "date": "2026-11-27"
   },
   {
-   "title": "Avstraliyadagi Cricket Sandpapergate tergovida hech qanday sanktsiyalar yo'q",
-   "summary": "Avstraliya kriket jamoasining ma'lum qilishicha, 2018-yilda Janubiy Afrikaga qilgan safari davomida ishtirok etgan barcha o'yinchilar to'pni buzish mojarosi bo'yicha mustaqil sud majlisida ishtirok etishga taklif qilinadi.",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795765620,
-   "date": "2026-11-27"
-  },
-  {
    "title": "Italiyaning sobiq politsiya boshlig'i o'limidan oldin mafiya tergovi ayblovlarini rad etdi",
    "summary": "Janni De Gennaroning sakkiz sahifali xatining mazmuni uning jasadi Toskanadagi uyidan topilganidan bir necha kun o'tgach oshkor bo'ldi.",
    "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
@@ -139,16 +169,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795762476,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Fury va Joshua Britaniya boksini qanday qilib abadiy o'zgartirib yuborishdi",
-   "summary": "Uzoq kutilgan og'ir vazn toifasidagi janglaridan oldin, BBC Sport Tayson Fyuri va Entoni Joshuaning Britaniya boksiga ta'sirini o'rganib chiqdi.",
-   "link": "https://www.bbc.co.uk/sport/boxing/articles/cr62pg3n3p8vo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795762313,
    "date": "2026-11-27"
   },
   {
@@ -292,16 +312,6 @@
    "date": "2026-11-26"
   },
   {
-   "title": "Senator Tim Keyn, Demokrat, Va., nima uchun Trampning taklif qilingan tariflariga qarshi ekanligini aytib berdi",
-   "summary": "NPR muxbiri A. Martinez Virjiniya shtati senatori Tim Keyn bilan demokratlarning Prezident Trampning yangi tariflariga qarshiligi haqida suhbatlashdi.",
-   "link": "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795693390,
-   "date": "2026-11-26"
-  },
-  {
    "title": "AQSh SpaceX’ning kosmosga millionlab maʼlumotlar sunʼiy yoʻldoshlarini yuborish rejasini maʼqulladi",
    "summary": "Starmind yulduz turkumi sun'iy intellekt hisoblash quvvatiga bo'lgan ortib borayotgan talabni qondirishning eng tejamkor va energiya tejamkor usuli bo'lishga intiladi.",
    "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
@@ -389,16 +399,6 @@
    "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795601494,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Yangi narsalarni sotib olish ajoyib tuyuladi. Lekin bu tuzoqqa ham aylanishi mumkin",
-   "summary": "Doimiy ravishda yangi narsalarni sotib olish muammoli bo'lishi mumkin, deydi \"Yangi narsalarga yo'q deyish\" nomli yangi kitob muallifi, jurnalist Erik Atas. Mana, qanday qilib bu siklni buzish va mavjud narsangizdan zavq olish mumkin.",
-   "link": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795600920,
    "date": "2026-11-25"
   },
   {
