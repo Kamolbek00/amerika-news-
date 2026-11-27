@@ -1,15 +1,65 @@
 {
- "updated": "2026-11-27 00:40 UTC",
+ "updated": "2026-11-27 02:07 UTC",
  "items": [
   {
-   "title": "Jonli efirda kuzatib boring: Eagles ajoyib punt blokidan so'ng g'alaba qozondi va gol urdi",
-   "summary": "Tarqatish roʻyxat plaginiName",
-   "link": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
+   "title": "Follow live: Chiefs take on Bills at Highmark Stadium",
+   "summary": "null",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795744679,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Joe Milton has huge game as Eagles shock Cowboys on Thanksgiving",
+   "summary": "Dallas blew a 21-point lead as Philly made a spectacular comeback with Milton at the helm.",
+   "link": "https://www.espn.com/nfl/story/_/id/50605786/cowboys-eagles-thanksgiving-dak-prescott-saquon-barkley",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795744173,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+   "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+   "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795743930,
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Brady disappointed in Rodgers' McCarthy comments: 'Nobody wins'",
+   "summary": "Tom Brady expressed his disappointment in how Aaron Rodgers handled his exit from Pittsburgh, saying there are things in the locker room that shouldn't be made public.",
+   "link": "https://www.espn.com/nfl/story/_/id/50607635/tom-brady-disappointed-aaron-rodgers-mccarthy-comments",
+   "ok": false,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795743911,
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Stilers egasi: Rodjersning \"itoatsizligiga toqat qilib bo'lmaydi\", deb qo'llab-quvvatlaydi Makkarti",
+   "summary": "\"Steelers\" egasi Art Runi II chorshanba kuni Aaron Rodgersning qizg'in intervyusiga munosabat bildirib, ularning sobiq himoyachisi bilan \"buning nima bo'lganidan hafsalasi pir bo'lganini\" aytdi va \"100% ishonchi borligini\" qo'shimcha qildi.",
+   "link": "https://www.espn.com/nfl/story/_/id/50605070/steelers-owner-disappointed-rodgers-backs-mccarthy",
    "ok": true,
    "cat": "Sport",
    "source": "ESPN",
-   "ts": 1795739685,
+   "ts": 1795742951,
    "date": "2026-11-26"
+  },
+  {
+   "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+   "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+   "ok": false,
+   "cat": "Iqtisod",
+   "source": "BBC",
+   "ts": 1795740885,
+   "date": "2026-11-27"
   },
   {
    "title": "AQShda kuchli Shukrona kuni bo'roni suv toshqinlari va aviareyslarning kechikishiga olib keldi",
@@ -18,7 +68,7 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795739388,
+   "ts": 1795740731,
    "date": "2026-11-27"
   },
   {
@@ -28,7 +78,7 @@
    "ok": true,
    "cat": "Sport",
    "source": "BBC",
-   "ts": 1795738391,
+   "ts": 1795740183,
    "date": "2026-11-27"
   },
   {
@@ -40,36 +90,6 @@
    "source": "BBC",
    "ts": 1795737739,
    "date": "2026-11-27"
-  },
-  {
-   "title": "Stilers egasi: Rodjersning \"itoatsizligiga toqat qilib bo'lmaydi\", deb qo'llab-quvvatlaydi Makkarti",
-   "summary": "\"Steelers\" egasi Art Runi II chorshanba kuni Aaron Rodgersning qizg'in intervyusiga munosabat bildirib, ularning sobiq himoyachisi bilan \"buning nima bo'lganidan hafsalasi pir bo'lganini\" aytdi va \"100% ishonchi borligini\" qo'shimcha qildi.",
-   "link": "https://www.espn.com/nfl/story/_/id/50605070/steelers-owner-disappointed-rodgers-backs-mccarthy",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795736734,
-   "date": "2026-11-26"
-  },
-  {
-   "title": "QB Rodgers ozodlikdan mahrum bo'lganidan so'ng rasman erkin agentga aylandi",
-   "summary": "Aaron Rodgers rasman erkin agentga aylandi va payshanba kuni shartnomalarni bekor qilganidan so'ng istalgan jamoa bilan shartnoma imzolash huquqiga ega.",
-   "link": "https://www.espn.com/nfl/story/_/id/50606625/aaron-rodgers-officially-free-agent-clearing-waivers",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795736734,
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Shukrona kunidagi so'nggi qayg'udan keyin \"sherlar\" \"oldinga siljish\" uchun",
-   "summary": "\"Lions\" bosh murabbiyi Den Kempbell Shukrona kunida yana bir qayg'uli voqeadan afsusda, ammo jamoasini oilalari bilan birga tunni zavq bilan o'tkazishga undadi.",
-   "link": "https://www.espn.com/nfl/story/_/id/50607165/lions-move-forward-latest-thanksgiving-heartbreak",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795736734,
-   "date": "2026-11-26"
   },
   {
    "title": "Buyuk Britaniya Yevropa Ittifoqi bilan kelishuvlarni amalga oshirish uchun \"ishtirok etish\" badalini to'laydi",
@@ -119,16 +139,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795732072,
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Ibiza yaqinida 7000 tonnagacha dizel yoqilg'isi yuk tashuvchi tanker ag'darilib ketdi, bir kishi halok bo'ldi",
-   "summary": "Ispaniya dengiz qutqaruv xizmati tomonidan atrof-muhitga yetkazilishi mumkin bo'lgan zarar hali ham baholanmoqda.",
-   "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795730482,
    "date": "2026-11-26"
   },
   {
@@ -189,16 +199,6 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795700829,
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Saymon Jek: Poundlandning AQShdagi egasi uning qulashida aybdormi?",
-   "summary": "Poundland rahbariyati va deputatlar chakana sotuvchi egalari Gordon Brothersni ayblamoqda, ammo AQSh firmasi ularsiz tarmoq o'tgan yili qulab tushgan bo'lar edi, deydi.",
-   "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "BBC",
-   "ts": 1795700446,
    "date": "2026-11-26"
   },
   {
