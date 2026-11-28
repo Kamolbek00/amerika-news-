@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-28 05:59 UTC",
+ "updated": "2026-11-28 07:15 UTC",
  "items": [
+  {
+   "title": "\"Bu mendan chiqmayapti\" - Ekert \"Sautgempton\"ning \"Boro\"dagi hazillaridan jahli chiqdi",
+   "summary": "\"Sautgempton\" bosh murabbiyi Tonda Ekert klubning Chempionship raqibi Midlsbroga qaratilgan haqoratlari uning o'zidan chiqmasligini ta'kidlamoqda.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795848849,
+   "date": "2026-11-28"
+  },
   {
    "title": "Rodjersning dramasidan jablar bilan kuchaygan Stilers, Broncosni mag'lub etish uchun \"birlashdilar\".",
    "summary": "Aaron Rodgersning maydondan chetlatilishidan so'ng milliy miqyosdagi shov-shuvga aylangan Stilers juma kuni kechqurun Denver ustidan 27-5 hisobida g'alaba qozonib, \"shoshilinchlik\" va \"g'azab\" hissi bilan o'ynadi.",
@@ -8,7 +18,17 @@
    "ok": true,
    "cat": "Sport",
    "source": "ESPN",
-   "ts": 1795843864,
+   "ts": 1795847655,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Texas \"mukammal emas\", ammo A&Mda yana yo'l topdi va UGAga qarshi SEC chempionlik yo'llanmasini qo'lga kiritdi",
+   "summary": "Kamchiliklari va boshqa kamchiliklari bilan birga, Texas bu mavsumdagi beshinchi g'alabasini 10 ochko yoki undan kam farq bilan qo'lga kiritdi va juma kuni kechqurun Texas A&M ni 16-6 hisobida mag'lub etib, Jorjiyaga qarshi SEC chempionlik o'yiniga yo'l oldi.",
+   "link": "https://www.espn.com/college-football/story/_/id/50619461/texas-not-perfect-finds-way-again-win-texas-am",
+   "ok": true,
+   "cat": "Sport",
+   "source": "ESPN",
+   "ts": 1795847655,
    "date": "2026-11-28"
   },
   {
@@ -18,27 +38,37 @@
    "ok": true,
    "cat": "Sport",
    "source": "ESPN",
-   "ts": 1795843864,
+   "ts": 1795847655,
    "date": "2026-11-28"
   },
   {
-   "title": "LeBron o'z o'rnini saqlab qoldi va 21 ta gol urdi, natijada 76ers NBA kubogi pley-off bosqichiga yo'llanma oldi",
-   "summary": "LeBron Jeyms ketma-ket beshinchi 20 ochkolik o'yinida 21 ochko to'pladi va juma kuni kechqurun Sixers jamoasini NBA kubogi finalida Pacers ustidan 111-87 hisobida g'alaba qozonishiga olib keldi.",
-   "link": "https://www.espn.com/nba/story/_/id/50619012/lebron-scores-21-76ers-cruise-nba-cup-knockout-round",
+   "title": "Vichita shtati Kentukkini 4:3 hisobida mag'lub etgan paytda Pop Ruppda yerga yiqildi",
+   "summary": "Kentukki murabbiyi Mark Poup juma kuni qiyin ahvolda qolgan \"Wildcats\" jamoasi haqida realistik fikr bildirdi va jurnalistlarga uning jamoasi \"Wichita State\"ga 73-71 hisobida yutqazganidan so'ng, \"bizda aniq yaxshilanishimiz kerak bo'lgan sohalar bor\" deb aytdi.",
+   "link": "https://www.espn.com/mens-college-basketball/story/_/id/50619428/pope-booed-rupp-floor-wichita-state-stuns-kentucky",
    "ok": true,
    "cat": "Sport",
    "source": "ESPN",
-   "ts": 1795843864,
+   "ts": 1795847655,
    "date": "2026-11-28"
   },
   {
-   "title": "Pro sifatidagi eng yomon o'yinlaridan biridan so'ng, Broncos vakili Niks: \"Men jamoani xafa qildim\", dedi",
-   "summary": "NFLdagi faoliyatidagi eng qiyin startlardan biridan so'ng, Broncos kvoterbeki Bo Niks juma kuni Steelersga qarshi 27-5 hisobidagi mag'lubiyatda \"Men jamoani xafa qildim\" dedi.",
-   "link": "https://www.espn.com/nfl/story/_/id/50617060/qb-bo-nix-says-let-team-broncos-routed-steelers",
+   "title": "Samolyot halokatida 19 o'yinchi halok bo'lganidan keyin futbol jamoasi qanday qilib qayta tiklandi",
+   "summary": "Braziliya futbol jamoasi hayotlaridagi eng muhim o'yin bo'lishi kerak bo'lgan yo'lda ko'plab o'yinchilari va xodimlarining hayotiga zomin bo'lgan aviahalokatdan keyin qanday qilib qayta tiklandi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
    "ok": true,
    "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795843864,
+   "source": "BBC",
+   "ts": 1795847434,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Bu uch aka-uka Britaniya chang'ichilarining keyingi oilaviy sulolasimi?",
+   "summary": "Olimpiya chempioni onasi va chang'i sporti bo'yicha o'qituvchi otasi murabbiylar bo'lgan Freddi, Zak va Luka Kerrik-Smitlar britaniyalik chang'i sportining keyingi muhim yutuqlari bo'lishi kutilmoqda.",
+   "link": "https://www.bbc.co.uk/sport/articles/c61wrqxgyd2no?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795846670,
    "date": "2026-11-28"
   },
   {
@@ -112,26 +142,6 @@
    "date": "2026-11-27"
   },
   {
-   "title": "Beshta urinish natijasiga ega Irlandiya kuzgi finalda Avstraliyani mag'lub etdi",
-   "summary": "Irlandiya terma jamoasi Londonda Avstraliya ustidan 38-14 hisobida g'alaba qozonib, ilk Millatlar chempionatida beshinchi o'rinni egalladi.",
-   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw987l0ej11mo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795817865,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Gibbs-Uayt yulduzlari, Fofana qiyinchiliklarga duch kelmoqda - Forest - Chelsea o'yiniga o'yinchilar reytingi",
-   "summary": "Morgan Gibbs-Uayt ikkita gol urib, \"Nottingem Forest\" 1997-yildan beri birinchi marta \"Siti Ground\"da \"Chelsi\"ni 3:2 hisobida mag'lub etdi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795816788,
-   "date": "2026-11-27"
-  },
-  {
    "title": "Sun'iy intellekt reklamalarining o'limidan keyingi holat",
    "summary": "Sun'iy intellekt kompaniyalari ushbu siklda to'plagan ma'lumotlar kelajakdagi reklamalarni giper-maxsus auditoriyaga taqdim etishga yordam beradi.",
    "link": "https://www.npr.org/2026/11/27/nx-s1-6045833/postmortem-of-ai-ads",
@@ -152,6 +162,16 @@
    "date": "2026-11-27"
   },
   {
+   "title": "\"Bu yerga xush kelibsiz emas\" - \"Chelsi\" yana mag'lub bo'lganida muxlislar Fofanaga qarshi chiqishdi",
+   "summary": "\"Chelsi\" himoyachisi Uesli Fofana bahsli intervyusidan so'ng, Premer-ligada \"Nottingem Forest\"ga qarshi o'yinda mag'lubiyatga uchraganida o'z muxlislari tomonidan hushtakbozliklarga uchradi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795815114,
+   "date": "2026-11-27"
+  },
+  {
    "title": "Parad qayta tashkil etilgandan so'ng, marsh orkestrlari Nyu-York shahar xarajatlarini qoplash uchun kurashmoqda",
    "summary": "Nyu-York shahridagi bo'ronli ob-havo tashkilotchilarni Macy's paradini ikki kunga kechiktirishga undadi - bu esa ba'zi musiqachilarni qiynalib qoldi.",
    "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
@@ -159,26 +179,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795809991,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Mercedes Qatardagi ikkinchi mashg'ulotda ajoyib natija ko'rsatdi",
-   "summary": "Jahon chempioni Kimi Antonelli Qatar Gran-prisida ikkinchi mashg'ulotda Mercedes jamoasidagi jamoadoshi Jorj Rasselldan oldinda bormoqda.",
-   "link": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795809006,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Xudolarning tanazzulga uchrashi - All Blacks yutqazishga qodir bo'lmagan uzoq o'yin",
-   "summary": "Statistik ma'lumotlarga ko'ra, All Blacksning bu avlodi o'n yilliklar ichida eng zaif hisoblanadi. Muvaffaqiyatning sport qisqartmasi qanday qilib hozirgacha o'zgarmadi?",
-   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgkl7de60go?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795804925,
    "date": "2026-11-27"
   },
   {
