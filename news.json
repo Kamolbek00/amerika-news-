@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-28 09:22 UTC",
+ "updated": "2026-11-28 10:25 UTC",
  "items": [
+  {
+   "title": "Afg‘onistondagi portlash oqibatida yetti talaba halok bo‘ldi va qariyb 100 kishi jarohatlandi, deya xabar berdi rasmiylar.",
+   "summary": "Afg'oniston Ichki ishlar vazirligi vakilining aytishicha, portlash yaqin atrofdagi portlovchi moddalar omborida ehtiyotsizlik tufayli sodir bo'lgan.",
+   "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795860877,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Demokrat bosh prokurorlarning yangi to'lqini sud tizimini o'zgartirishi mumkin",
+   "summary": "Demokratik partiyaning g'alabalari AQSh bo'ylab qanday jinoyatlar tergov qilinishi, sudga tortilishi va sud ishlari ko'rib chiqilishiga katta ta'sir ko'rsatishi mumkin.",
+   "link": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795860000,
+   "date": "2026-11-28"
+  },
   {
    "title": "\"Men bo'lmagan odam bo'lishga harakat qilardim\" – Styuard All Blacks filmidagi suratga olish jarayonida",
    "summary": "Freddi Styuardning aytishicha, u ilgari Angliya terma jamoasining avvalgi o'yinlarida turli xil o'yinchilar bilan taqqoslashlar bilan chalg'igan.",
@@ -22,6 +42,16 @@
    "date": "2026-11-28"
   },
   {
+   "title": "Isroilning G'azodagi tibbiyot klinikasiga uyushtirgan hujumida ikki xodim halok bo'ldi, deb xabar berdi MSF",
+   "summary": "Isroil harbiylari Jahon sog'liqni saqlash tashkiloti tomonidan qoralangan hujumda \"Hamas terrorchilari\"ni nishonga olganini aytishdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795848725,
+   "date": "2026-11-28"
+  },
+  {
    "title": "Samolyot halokatida 19 o'yinchi halok bo'lganidan keyin futbol jamoasi qanday qilib qayta tiklandi",
    "summary": "Braziliya futbol jamoasi hayotlaridagi eng muhim o'yin bo'lishi kerak bo'lgan yo'lda ko'plab o'yinchilari va xodimlarining hayotiga zomin bo'lgan aviahalokatdan keyin qanday qilib qayta tiklandi.",
    "link": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
@@ -39,16 +69,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795846670,
-   "date": "2026-11-28"
-  },
-  {
-   "title": "Peruda harbiy vertolyot qulashi oqibatida sakkiz kishi halok bo'ldi",
-   "summary": "Giyohvand moddalar savdosi bilan mashhur bo'lgan chekka hududda qutqaruv missiyasini amalga oshirayotgan uchuvchi halokatdan yagona omon qolgan odam bo'lgan.",
-   "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795839556,
    "date": "2026-11-28"
   },
   {
@@ -89,16 +109,6 @@
    "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795829450,
-   "date": "2026-11-28"
-  },
-  {
-   "title": "\"Zahar sotuvchisi\" Kennet Lou sudda qurbonlarining oilalaridan uzr so'radi",
-   "summary": "Bu yil boshida o'z joniga qasd qilishga yordam berganlikda aybdor deb topilgan 14 ta ayblov bo'yicha aybini tan olgan kanadalik erkak qilmishlaridan pushaymon ekanligini aytdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795827415,
    "date": "2026-11-28"
   },
   {
@@ -189,16 +199,6 @@
    "cat": "AQSh",
    "source": "NPR",
    "ts": 1795780190,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Shukrona kuni elektr uzilishlaridan tortib, Qora Jumagacha, ob-havo va iqtisodiy qiyinchiliklar ta'sirida bo'lgan bayram",
-   "summary": "",
-   "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "NPR",
-   "ts": 1795777176,
    "date": "2026-11-27"
   },
   {
