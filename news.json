@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28 00:33 UTC",
+ "updated": "2026-11-28 01:58 UTC",
  "items": [
   {
    "title": "AQShda Shukrona kuni bo'ronlari tufayli yuz minglab odamlar hali ham elektrsiz qolmoqda",
@@ -8,8 +8,28 @@
    "ok": true,
    "cat": "AQSh",
    "source": "BBC",
-   "ts": 1795818586,
-   "date": "2026-11-27"
+   "ts": 1795830933,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Reygan aeroportida ikkita American Airlines samolyoti \"tarang\" vaziyatda parvozdan oldin qanotlarini qirib tashladi",
+   "summary": "Hech kim jarohat olmadi va FAA taksida harakatlanish paytida sodir bo'lgan hodisani tekshirishni rejalashtirmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgr4g5nrnlo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "BBC",
+   "ts": 1795829488,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Geymerlar Grand Theft Auto 6 ni klonlash uchun sun'iy intellekt va sizib chiqqan fayllardan qanday foydalanmoqdalar",
+   "summary": "Rasmiy kompyuter versiyasi hali bir necha oy oldin chiqarilishi mumkinligi sababli, muxlislar sabrsizlanmoqda.",
+   "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "BBC",
+   "ts": 1795829450,
+   "date": "2026-11-28"
   },
   {
    "title": "Abbott ketganidan keyin Texasdagi ma'lumotlar markazlarining kelajagi qanday bo'ladi?",
@@ -282,16 +302,6 @@
    "date": "2026-11-26"
   },
   {
-   "title": "Kuzatuv: AQShda kuchli ob-havo tufayli tomlar yirtilib, ko'chalar suv ostida qoldi",
-   "summary": "Shukrona kuni bayrami dam olish kunlari boshlanishi bilan mamlakatda yuz minglab odamlar bo'ronlardan jabr ko'rdi.",
-   "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "BBC",
-   "ts": 1795721176,
-   "date": "2026-11-26"
-  },
-  {
    "title": "Kongoda Ebola epidemiyasi bilan kasallanganlar soni 12 mingga yetdi, ba'zi yordamchilar evakuatsiya qilindi",
    "summary": "Kongo sharqida tez tarqalayotgan epidemiya tarqalishda davom etar ekan, isyonchilar va armiya o'rtasidagi janglar kasallikning tarqalishini to'xtatishga qaratilgan sa'y-harakatlarga xalaqit bermoqda.",
    "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
@@ -389,16 +399,6 @@
    "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795603929,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "EA FC 27 video o'yiniga AI tomonidan yaratilgan Jon Motsonni qo'shadi",
-   "summary": "Sun'iy intellekt tomonidan yaratilgan Motson o'g'li va rafiqasining roziligi bilan 26-noyabr kuni o'yinda paydo bo'ladi.",
-   "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795601494,
    "date": "2026-11-25"
   },
   {
