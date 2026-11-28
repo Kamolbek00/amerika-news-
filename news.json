@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-28 07:15 UTC",
+ "updated": "2026-11-28 08:26 UTC",
  "items": [
+  {
+   "title": "\"Kiber-hodisa\"dan keyin pensiya va nafaqa xizmatlari hali ham ishlamayapti",
+   "summary": "Buyuk Britaniyaning sobiq bosh texnologiya xodimi Mehnat va pensiyalar departamenti xakerlar hujumiga uchragan bo'lishi mumkinligini aytdi, ammo hukumat buni tasdiqlamadi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "BBC",
+   "ts": 1795852518,
+   "date": "2026-11-28"
+  },
   {
    "title": "\"Bu mendan chiqmayapti\" - Ekert \"Sautgempton\"ning \"Boro\"dagi hazillaridan jahli chiqdi",
    "summary": "\"Sautgempton\" bosh murabbiyi Tonda Ekert klubning Chempionship raqibi Midlsbroga qaratilgan haqoratlari uning o'zidan chiqmasligini ta'kidlamoqda.",
@@ -9,46 +19,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795848849,
-   "date": "2026-11-28"
-  },
-  {
-   "title": "Rodjersning dramasidan jablar bilan kuchaygan Stilers, Broncosni mag'lub etish uchun \"birlashdilar\".",
-   "summary": "Aaron Rodgersning maydondan chetlatilishidan so'ng milliy miqyosdagi shov-shuvga aylangan Stilers juma kuni kechqurun Denver ustidan 27-5 hisobida g'alaba qozonib, \"shoshilinchlik\" va \"g'azab\" hissi bilan o'ynadi.",
-   "link": "https://www.espn.com/nfl/story/_/id/50618077/steelers-fueled-jabs-aaron-rodgers-drama-rout-broncos",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795847655,
-   "date": "2026-11-28"
-  },
-  {
-   "title": "Texas \"mukammal emas\", ammo A&Mda yana yo'l topdi va UGAga qarshi SEC chempionlik yo'llanmasini qo'lga kiritdi",
-   "summary": "Kamchiliklari va boshqa kamchiliklari bilan birga, Texas bu mavsumdagi beshinchi g'alabasini 10 ochko yoki undan kam farq bilan qo'lga kiritdi va juma kuni kechqurun Texas A&M ni 16-6 hisobida mag'lub etib, Jorjiyaga qarshi SEC chempionlik o'yiniga yo'l oldi.",
-   "link": "https://www.espn.com/college-football/story/_/id/50619461/texas-not-perfect-finds-way-again-win-texas-am",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795847655,
-   "date": "2026-11-28"
-  },
-  {
-   "title": "Manbalarga ko'ra, Baylor UTSA vakili Traylorni \"Bears\"ning keyingi murabbiyi sifatida yollashi kutilmoqda",
-   "summary": "O'tgan oy Deyv Arandani ishdan bo'shatgan Baylor, UTSA murabbiyi Jeff Traylorni maktabning keyingi murabbiyi sifatida yollashi kutilmoqda, deb xabar berdi manbalar juma kuni ESPN muxbiri Pit Tamelga, Traylor's Roadrunners jamoasining yaxshilanishidan bir necha soat o'tgach.",
-   "link": "https://www.espn.com/college-football/story/_/id/50617811/baylor-expected-hire-utsa-coach-jeff-traylor",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795847655,
-   "date": "2026-11-28"
-  },
-  {
-   "title": "Vichita shtati Kentukkini 4:3 hisobida mag'lub etgan paytda Pop Ruppda yerga yiqildi",
-   "summary": "Kentukki murabbiyi Mark Poup juma kuni qiyin ahvolda qolgan \"Wildcats\" jamoasi haqida realistik fikr bildirdi va jurnalistlarga uning jamoasi \"Wichita State\"ga 73-71 hisobida yutqazganidan so'ng, \"bizda aniq yaxshilanishimiz kerak bo'lgan sohalar bor\" deb aytdi.",
-   "link": "https://www.espn.com/mens-college-basketball/story/_/id/50619428/pope-booed-rupp-floor-wichita-state-stuns-kentucky",
-   "ok": true,
-   "cat": "Sport",
-   "source": "ESPN",
-   "ts": 1795847655,
    "date": "2026-11-28"
   },
   {
@@ -130,6 +100,16 @@
    "source": "BBC",
    "ts": 1795827415,
    "date": "2026-11-28"
+  },
+  {
+   "title": "Sudanning yo'qolgan avlodi: Urush millionlab odamlarning bolaligini o'g'irlamoqda",
+   "summary": "Uch yillik urush Sudandagi millionlab bolalarning bolaligini o'g'irlab, ularni uylaridan ko'chirilgan, och qolgan va sinfda o'qish o'rniga omon qolish uchun kurashayotgan qilib qo'ydi.",
+   "link": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795820093,
+   "date": "2026-11-27"
   },
   {
    "title": "Abbott ketganidan keyin Texasdagi ma'lumotlar markazlarining kelajagi qanday bo'ladi?",
@@ -226,7 +206,7 @@
    "summary": "Macy'sning 100 yillik Shukrona kuni paradining bu haftagi nishonlanishi univermagni burilish nuqtasida turibdi. Yillar davomida savdo hajmini yo'qotganidan so'ng, chakana sotuvchi o'zini yuqori darajadagi manzil sifatida qayta tasavvur qilmoqda.",
    "link": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
    "ok": true,
-   "cat": "AQSh",
+   "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795773660,
    "date": "2026-11-27"
@@ -412,16 +392,6 @@
    "date": "2026-11-25"
   },
   {
-   "title": "Kredit karta imtiyozlari aviakompaniyalarning daromadliligini oshirmoqda",
-   "summary": "Bayram kunlari uchish qimmatga tushishi mumkin. Shuning uchun aviakompaniyalar sizning reysingizga tobora ko'proq maxsus brend kredit kartalarini taklif qilmoqdalar.",
-   "link": "https://www.npr.org/2026/11/25/nx-s1-5860846/credit-card-perks-are-fueling-airline-profitability",
-   "ok": true,
-   "cat": "Iqtisod",
-   "source": "NPR",
-   "ts": 1795642197,
-   "date": "2026-11-25"
-  },
-  {
    "title": "Qora Juma kuni xarid qilish uchun AI agentlaridan foydalanishdan oldin nimani bilishingiz kerak",
    "summary": "Milliy chakana savdo federatsiyasi ma'lumotlariga ko'ra, AQShlik xaridorlarning 59 foizi ushbu dam olish kunlari bayramona xaridlar uchun sun'iy intellektdan foydalanishni rejalashtirmoqda.",
    "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
@@ -429,16 +399,6 @@
    "cat": "Texnologiya",
    "source": "NPR",
    "ts": 1795614716,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Huawei tijorat sirlarini o'g'irlashda aybdor deb topildi, ammo firibgarlikda aybsiz deb topildi",
-   "summary": "Hukm Nyu-Yorkda bir necha oy davom etgan sud jarayonidan so'ng chiqarildi.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795603929,
    "date": "2026-11-25"
   },
   {
