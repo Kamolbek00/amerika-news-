@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28 12:21 UTC",
+ "updated": "2026-11-28 13:37 UTC",
  "items": [
   {
    "title": "Argentinaning Folklend orollarida neft qazib olishni to'xtatish bo'yicha taklifi rad etildi",
@@ -8,7 +8,67 @@
    "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795868145,
+   "ts": 1795872996,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "\"Kiber-hodisa\"dan keyin pensiya va nafaqa xizmatlari hali ham ishlamayapti",
+   "summary": "Buyuk Britaniyaning sobiq bosh texnologiya xodimi Mehnat va pensiyalar departamenti xakerlar hujumiga uchragan bo'lishi mumkinligini aytdi, ammo hukumat buni tasdiqlamadi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "BBC",
+   "ts": 1795870930,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Perspektiv: Qahramon nomi abadiy yashaydi",
+   "summary": "Pearl-Harbor paytida dengizchi Doris Miller yaradorlarni xavfsiz joyga olib borib, yapon samolyotlariga pulemyotdan o'q uzdi. Keyingi hafta yangi USS Doris Miller aviatashuvchi kemasining qurilishi boshlanadi.",
+   "link": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
+   "ok": true,
+   "cat": "AQSh",
+   "source": "NPR",
+   "ts": 1795870800,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Afg‘onistondagi portlash oqibatida yetti talaba halok bo‘ldi va qariyb 100 kishi jarohatlandi, deya xabar berdi rasmiylar.",
+   "summary": "Afg'oniston Ichki ishlar vazirligi vakilining aytishicha, portlash yaqin atrofdagi portlovchi moddalar omborida ehtiyotsizlik tufayli sodir bo'lgan.",
+   "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795870184,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Nvidia bosh direktori sifatida Jensen Huang qiyin savollar uchun Vashingtonga yo'l oldi",
+   "summary": "NVIDIA kompaniyasining yangi tiklangan bosh direktori Jensen Huang kelasi hafta Vashingtonda bo'lib, qonun chiqaruvchilarning qiyin savollariga duch keladi.",
+   "link": "https://www.npr.org/2026/11/28/nx-s1-6055695/back-as-nvidia-ceo-jensen-huang-heads-to-washington-for-tough-questions",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795869577,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Sun'iy intellekt asrlik matematik masalani yechdimi? Matematiklar buni aniqlashga harakat qilmoqdalar",
+   "summary": "Matematiklar sun'iy intellekt haqiqatan ham bir asrlik muammoni hal qilganmi yoki yo'qmi, aniqlashga harakat qilmoqdalar.",
+   "link": "https://www.npr.org/2026/11/28/nx-s1-6053019/did-ai-just-solve-a-century-old-math-problem-mathematicians-are-trying-to-find-out",
+   "ok": true,
+   "cat": "Texnologiya",
+   "source": "NPR",
+   "ts": 1795869566,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Siyosat haftaligi: Trampning Shukrona kuni xabari; Kongressning bayram oldidan qilinadigan ishlar ro'yxati",
+   "summary": "Biz Prezident Trampning Shukrona kuni munosabati bilan qilgan xabarlarini, shuningdek, Kongress bayramlardan oldin nimalar qila olishini ko'rib chiqamiz.",
+   "link": "https://www.npr.org/2026/11/28/nx-s1-6052169/week-in-politics-trumps-thanksgiving-messaging-congress-pre-holiday-to-do-list",
+   "ok": true,
+   "cat": "Siyosat",
+   "source": "NPR",
+   "ts": 1795869564,
    "date": "2026-11-28"
   },
   {
@@ -42,16 +102,6 @@
    "date": "2026-11-28"
   },
   {
-   "title": "Afg‘onistondagi portlash oqibatida yetti talaba halok bo‘ldi va qariyb 100 kishi jarohatlandi, deya xabar berdi rasmiylar.",
-   "summary": "Afg'oniston Ichki ishlar vazirligi vakilining aytishicha, portlash yaqin atrofdagi portlovchi moddalar omborida ehtiyotsizlik tufayli sodir bo'lgan.",
-   "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795864717,
-   "date": "2026-11-28"
-  },
-  {
    "title": "Isroilning G'azodagi tibbiyot klinikasiga uyushtirgan hujumida ikki xodim halok bo'ldi, deb xabar berdi MSF",
    "summary": "Isroil harbiylari Jahon sog'liqni saqlash tashkiloti tomonidan qoralangan hujumda \"Hamas terrorchilari\"ni nishonga olganini aytishdi.",
    "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
@@ -82,26 +132,6 @@
    "date": "2026-11-28"
   },
   {
-   "title": "\"Kiber-hodisa\"dan keyin pensiya va nafaqa xizmatlari hali ham ishlamayapti",
-   "summary": "Buyuk Britaniyaning sobiq bosh texnologiya xodimi Mehnat va pensiyalar departamenti xakerlar hujumiga uchragan bo'lishi mumkinligini aytdi, ammo hukumat buni tasdiqlamadi.",
-   "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "BBC",
-   "ts": 1795857032,
-   "date": "2026-11-28"
-  },
-  {
-   "title": "Premer-liganing eng yaxshi jarima zarbalari bo'yicha mutaxassislari reytingi",
-   "summary": "Premer-liga tarixidagi eng zo'r jarima zarbalari bo'yicha mutaxassislar kimlar? BBC Sport statistikani chuqur tahlil qiladi va eng yaxshi 10 talikni reytingga kiritadi.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795853664,
-   "date": "2026-11-28"
-  },
-  {
    "title": "Samolyot halokatida 19 o'yinchi halok bo'lganidan keyin futbol jamoasi qanday qilib qayta tiklandi",
    "summary": "Braziliya futbol jamoasi hayotlaridagi eng muhim o'yin bo'lishi kerak bo'lgan yo'lda ko'plab o'yinchilari va xodimlarining hayotiga zomin bo'lgan aviahalokatdan keyin qanday qilib qayta tiklandi.",
    "link": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
@@ -109,6 +139,16 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795847434,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Bu uch aka-uka Britaniya chang'ichilarining keyingi oilaviy sulolasimi?",
+   "summary": "Olimpiya chempioni onasi va chang'i sporti bo'yicha o'qituvchi otasi murabbiylar bo'lgan Freddi, Zak va Luka Kerrik-Smitlar britaniyalik chang'i sportining keyingi muhim yutuqlari bo'lishi kutilmoqda.",
+   "link": "https://www.bbc.co.uk/sport/articles/c61wrqxgyd2no?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Sport",
+   "source": "BBC",
+   "ts": 1795846670,
    "date": "2026-11-28"
   },
   {
@@ -199,16 +239,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795798426,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Shukrona kuni bo'roni Sharqiy Sohilni qamrab oldi. Va Qora Juma savdosi rekord darajaga yetdi",
-   "summary": "Kuchli bo'ron qariyb 1 million mijozning elektr ta'minotini uzib qo'ydi va ko'chalarni suv bosdi. Mutaxassislarning taxmin qilishicha, inflyatsiya bayramlar uchun Amerika xarajatlarini kamaytirmaydi.",
-   "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
-   "ok": true,
-   "cat": "AQSh",
-   "source": "NPR",
-   "ts": 1795780742,
    "date": "2026-11-27"
   },
   {
@@ -322,16 +352,6 @@
    "date": "2026-11-26"
   },
   {
-   "title": "Demokratlarning oraliq saylovlarda g'alaba qozonganidan so'ng, DEIga qarshi ba'zi umid hujumlari susayadi",
-   "summary": "Oraliq saylovlardan so'ng, demokrat kongressmen DEI qaytganini e'lon qildi. Demokratlarning yuksalishi Tramp ma'muriyati shafqatsizlarcha hujum qilgan xilma-xillik tashabbuslari uchun nimani anglatadi?",
-   "link": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
-   "ok": true,
-   "cat": "Siyosat",
-   "source": "NPR",
-   "ts": 1795734374,
-   "date": "2026-11-26"
-  },
-  {
    "title": "Tahlil: Nima uchun Trampning yangi tariflari unchalik xavfli emas",
    "summary": "Boshqa davlatlar uning birinchi tarif salvosiga javoban savdo yo'nalishini o'zgartirdilar, endi ular Trampning vakolat muddatidan tashqariga qarashmoqda.",
    "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
@@ -379,26 +399,6 @@
    "cat": "Iqtisod",
    "source": "NPR",
    "ts": 1795647669,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Shukrona kuni stolida AI haqida qanday gapirish kerak",
-   "summary": "Bu Shukrona kunida siz oilangiz bilan yig'ilgansiz, sun'iy intellekt mavzusi ko'tariladi. Qanday qilib samarali, faktlarga asoslangan suhbat qurish mumkin?",
-   "link": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795642439,
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Qora Juma kuni xarid qilish uchun AI agentlaridan foydalanishdan oldin nimani bilishingiz kerak",
-   "summary": "Milliy chakana savdo federatsiyasi ma'lumotlariga ko'ra, AQShlik xaridorlarning 59 foizi ushbu dam olish kunlari bayramona xaridlar uchun sun'iy intellektdan foydalanishni rejalashtirmoqda.",
-   "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-   "ok": true,
-   "cat": "Texnologiya",
-   "source": "NPR",
-   "ts": 1795614716,
    "date": "2026-11-25"
   },
   {
