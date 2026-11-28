@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-28 01:58 UTC",
+ "updated": "2026-11-28 04:58 UTC",
  "items": [
+  {
+   "title": "Peruda harbiy vertolyot qulashi oqibatida sakkiz kishi halok bo'ldi",
+   "summary": "Giyohvand moddalar savdosi bilan mashhur bo'lgan chekka hududda qutqaruv missiyasini amalga oshirayotgan uchuvchi halokatdan yagona omon qolgan odam bo'lgan.",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795839556,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Turkiya rasmiylari muxolifat tarafdori telekanalni \"yo'q qilishdi\", dedi egasi BBCga.",
+   "summary": "O'tgan oy Halk TV bosh ofisiga reyd uyushtirildi, bu hukumatni tanqid qiluvchi deb hisoblangan yangiliklar manbalariga qarshi bir qator ta'qiblarning eng so'nggisi bo'ldi.",
+   "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795839225,
+   "date": "2026-11-28"
+  },
   {
    "title": "AQShda Shukrona kuni bo'ronlari tufayli yuz minglab odamlar hali ham elektrsiz qolmoqda",
    "summary": "Pensilvaniya va qo'shni shtatlar juma kuni ikkala qirg'oq ham shamol va yomg'ir ostida qolganidan keyin jiddiy zarar ko'rmoqda.",
@@ -29,6 +49,16 @@
    "cat": "Texnologiya",
    "source": "BBC",
    "ts": 1795829450,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "\"Zahar sotuvchisi\" Kennet Lou sudda qurbonlarining oilalaridan uzr so'radi",
+   "summary": "Bu yil boshida o'z joniga qasd qilishga yordam berganlikda aybdor deb topilgan 14 ta ayblov bo'yicha aybini tan olgan kanadalik erkak qilmishlaridan pushaymon ekanligini aytdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795827415,
    "date": "2026-11-28"
   },
   {
@@ -102,16 +132,6 @@
    "date": "2026-11-27"
   },
   {
-   "title": "Jon Simpson: Ukraina sovuq ob-havo boshlanganligi sababli egilgan, ammo hali ham buzilmagan",
-   "summary": "Ukraina yana bir dahshatli qishga tayyorlanmoqda, savollar davom etar ekan: barchasi qanday tugaydi?",
-   "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795804970,
-   "date": "2026-11-27"
-  },
-  {
    "title": "Xudolarning tanazzulga uchrashi - All Blacks yutqazishga qodir bo'lmagan uzoq o'yin",
    "summary": "Statistik ma'lumotlarga ko'ra, All Blacksning bu avlodi o'n yilliklar ichida eng zaif hisoblanadi. Muvaffaqiyatning sport qisqartmasi qanday qilib hozirgacha o'zgarmadi?",
    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgkl7de60go?at_medium=RSS&at_campaign=rss",
@@ -122,16 +142,6 @@
    "date": "2026-11-27"
   },
   {
-   "title": "Zelenskiy BBCga bergan intervyusida AQSh Yaqin Sharqqa juda e'tibor qaratdi va Rossiyani yetarlicha qattiq bostirmadi, dedi",
-   "summary": "Ukraina prezidenti AQShdan noroziligini bildirdi va Trampning Vladimir Putinni do'st deb ta'riflagani \"g'alati\" ekanligini aytdi.",
-   "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795802440,
-   "date": "2026-11-27"
-  },
-  {
    "title": "Kanada Oliy sudi Kvebekda davlat xizmatchilari uchun diniy ramzlarga taqiqni asosan qo'llab-quvvatladi",
    "summary": "Qonun turli guruhlar, jumladan, ayol musulmon, sikx va katolik o'qituvchilari tomonidan ularning asosiy huquqlarini buzayotganini ta'kidlagan holda, sudga tortildi.",
    "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
@@ -139,16 +149,6 @@
    "cat": "AQSh",
    "source": "BBC",
    "ts": 1795798426,
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Braziliya Makronning go'shtni \"doping qoidalariga zid\" deb ataganiga qarshi chiqdi",
-   "summary": "Fransiya prezidenti bu fikrni Yevropa Ittifoqi Braziliya mol go'shti va parranda mahsulotlarini taqiqlaganidan bir necha oy o'tgach, fransuz fermer xo'jaliklari vakillari bilan suhbatda aytdi.",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Dunyo",
-   "source": "BBC",
-   "ts": 1795794855,
    "date": "2026-11-27"
   },
   {
