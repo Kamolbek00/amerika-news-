@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28 10:25 UTC",
+ "updated": "2026-11-28 11:21 UTC",
  "items": [
   {
    "title": "Afg‘onistondagi portlash oqibatida yetti talaba halok bo‘ldi va qariyb 100 kishi jarohatlandi, deya xabar berdi rasmiylar.",
@@ -8,7 +8,17 @@
    "ok": true,
    "cat": "Dunyo",
    "source": "BBC",
-   "ts": 1795860877,
+   "ts": 1795864717,
+   "date": "2026-11-28"
+  },
+  {
+   "title": "Isroilning G'azodagi tibbiyot klinikasiga uyushtirgan hujumida ikki xodim halok bo'ldi, deb xabar berdi MSF",
+   "summary": "Isroil harbiylari Jahon sog'liqni saqlash tashkiloti tomonidan qoralangan hujumda \"Hamas terrorchilari\"ni nishonga olganini aytishdi.",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "ok": true,
+   "cat": "Dunyo",
+   "source": "BBC",
+   "ts": 1795862098,
    "date": "2026-11-28"
   },
   {
@@ -42,13 +52,13 @@
    "date": "2026-11-28"
   },
   {
-   "title": "Isroilning G'azodagi tibbiyot klinikasiga uyushtirgan hujumida ikki xodim halok bo'ldi, deb xabar berdi MSF",
-   "summary": "Isroil harbiylari Jahon sog'liqni saqlash tashkiloti tomonidan qoralangan hujumda \"Hamas terrorchilari\"ni nishonga olganini aytishdi.",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "title": "\"Bu mendan chiqmayapti\" - Ekert \"Sautgempton\"ning \"Boro\"dagi hazillaridan jahli chiqdi",
+   "summary": "\"Sautgempton\" bosh murabbiyi Tonda Ekert klubning Chempionship raqibi Midlsbroga qaratilgan haqoratlari uning o'zidan chiqmasligini ta'kidlamoqda.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno?at_medium=RSS&at_campaign=rss",
    "ok": true,
-   "cat": "Dunyo",
+   "cat": "Sport",
    "source": "BBC",
-   "ts": 1795848725,
+   "ts": 1795848849,
    "date": "2026-11-28"
   },
   {
@@ -59,16 +69,6 @@
    "cat": "Sport",
    "source": "BBC",
    "ts": 1795847434,
-   "date": "2026-11-28"
-  },
-  {
-   "title": "Bu uch aka-uka Britaniya chang'ichilarining keyingi oilaviy sulolasimi?",
-   "summary": "Olimpiya chempioni onasi va chang'i sporti bo'yicha o'qituvchi otasi murabbiylar bo'lgan Freddi, Zak va Luka Kerrik-Smitlar britaniyalik chang'i sportining keyingi muhim yutuqlari bo'lishi kutilmoqda.",
-   "link": "https://www.bbc.co.uk/sport/articles/c61wrqxgyd2no?at_medium=RSS&at_campaign=rss",
-   "ok": true,
-   "cat": "Sport",
-   "source": "BBC",
-   "ts": 1795846670,
    "date": "2026-11-28"
   },
   {
